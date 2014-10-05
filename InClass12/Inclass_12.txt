@@ -1,0 +1,105 @@
+// TBUFFER.H             CIS 235 Lab 7
+//  template class Buffer
+#ifndef TBUFFER1_H
+#define TBUFFER1_H
+
+#include <iostream>
+using std::ostream;
+
+template<class T>
+class cBuffer {
+public:
+	cBuffer(ostream *,int = 10);   // default constructor
+
+	~cBuffer();                    // destructor
+
+	int output(const T&);          // put an element into the buffer
+	                          //   return number of unused cells in the buffer
+
+	int flush(void);               // output the buffer,
+											 // return number of elements output
+
+	bool isFull() const;           // return true if full
+
+	cBuffer(const cBuffer & other);   //  copy constructor
+
+	const cBuffer & operator=(const cBuffer & right);  // = operator
+
+private:
+
+	int size;               // number of elements the buffer can hold
+
+	int top;                // location of the top, i.e. last, element
+
+	T *bufferPtr;           // pointer to the buffer
+
+	ostream * streamPtr;    // pointer to the stream that gets the
+	                        //     data in the buffer
+
+};
+
+
+template<class T>
+cBuffer<T>::cBuffer(ostream * p,int amount)
+{
+    size = amount;
+	top = 0;
+	bufferPtr = new T[size];
+	streamPtr = p;
+}
+
+template<class T>
+bool cBuffer<T>::isFull() const
+{
+
+	return top >= size;
+}
+
+template<class T>
+int cBuffer<T>::flush(void)
+{
+   int numberOutPut = top;
+   for ( int i = 0   ; i < top     ; i++)
+   {
+
+	  *streamPtr     <<   bufferPtr[i] << ' '            ;
+   }
+   top = 0;
+   return numberOutPut;
+
+}
+
+template<class T>
+int cBuffer<T>::output(const T& item)
+{
+    if ( isFull() ) flush();
+	bufferPtr[top] = item;
+	top++;
+	return size - top;
+
+}
+
+
+template<class T>
+cBuffer<T>::~cBuffer()
+{
+   flush();
+   delete [] bufferPtr;
+   bufferPtr = NULL;
+// leave streamPtr alone
+
+}
+
+
+
+template<class T>
+cBuffer<T>::cBuffer(const cBuffer & other){
+
+	this->size = other.size;
+	this->top = other.top;
+	this->bufferPtr = new T[this->size];
+
+}
+
+
+#endif

@@ -1,0 +1,130 @@
+TInClass06
+v6
+r1
+cCheck dependencies
+cCompileC DerivedData/InClass06/Build/Intermediates/InClass06.build/Debug/InClass06.build/Objects-normal/x86_64/BigInteger.o /Users/joshuakennedy/Documents/Projects/CIS\ 235/InClass06/InClass06/BigInteger.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/InClass06/Build/Intermediates/InClass06.build/Debug/InClass06.build/Objects-normal/x86_64/CollectionBigInteger.o /Users/joshuakennedy/Documents/Projects/CIS\ 235/InClass06/InClass06/CollectionBigInteger.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/InClass06/Build/Intermediates/InClass06.build/Debug/InClass06.build/Objects-normal/x86_64/DriverCollectionBigInteger.o /Users/joshuakennedy/Documents/Projects/CIS\ 235/InClass06/InClass06/DriverCollectionBigInteger.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/SDKSettings.plist
+c000000005267AA6D000000000000044C
+t1382525549
+s1100
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/CoreServices/SystemVersion.plist
+c000000005267AA6D00000000000001DB
+t1382525549
+s475
+
+N/Users/joshuakennedy/Documents/Projects/CIS 235/InClass06/DerivedData/InClass06/Build/Intermediates/InClass06.build/Debug/InClass06.build/Objects-normal/x86_64/BigInteger.o
+t2
+s0
+
+N/Users/joshuakennedy/Documents/Projects/CIS 235/InClass06/DerivedData/InClass06/Build/Intermediates/InClass06.build/Debug/InClass06.build/Objects-normal/x86_64/CollectionBigInteger.o
+t2
+s0
+
+N/Users/joshuakennedy/Documents/Projects/CIS 235/InClass06/DerivedData/InClass06/Build/Intermediates/InClass06.build/Debug/InClass06.build/Objects-normal/x86_64/DriverCollectionBigInteger.o
+t2
+s0
+
+N/Users/joshuakennedy/Documents/Projects/CIS 235/InClass06/InClass06/BigInteger.cpp
+c00000000530D192C0000000000000ECB
+t1393367340
+s3787
+
+N/Users/joshuakennedy/Documents/Projects/CIS 235/InClass06/InClass06/CollectionBigInteger.cpp
+c00000000530E40AC0000000000001459
+t1393442988
+s5209
+
+N/Users/joshuakennedy/Documents/Projects/CIS 235/InClass06/InClass06/DriverCollectionBigInteger.cpp
+c00000000530E41060000000000001492
+t1393443078
+s5266
+
+CBuild AST from /Users/joshuakennedy/Documents/Projects/CIS\ 235/InClass06/InClass06/BigInteger.cpp
+r0
+
+CBuild AST from /Users/joshuakennedy/Documents/Projects/CIS\ 235/InClass06/InClass06/CollectionBigInteger.cpp
+r0
+
+CBuild AST from /Users/joshuakennedy/Documents/Projects/CIS\ 235/InClass06/InClass06/DriverCollectionBigInteger.cpp
+r0
+
+CBuild AST from /Users/joshuakennedy/Documents/Projects/CIS\ 235/InClass06/InClass06/main.cpp
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies026147e0bdbfb841^3f6f4ae0bdbfb841^---0#1#1#--18"Check dependencies36"2CE02E8A-7512-41E1-BF08-618040BC8298-
+
+CCompileC DerivedData/InClass06/Build/Intermediates/InClass06.build/Debug/InClass06.build/Objects-normal/x86_64/BigInteger.o /Users/joshuakennedy/Documents/Projects/CIS\ 235/InClass06/InClass06/BigInteger.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s415219168.291234
+e415219168.705060
+r1
+xCompileC
+xDerivedData/InClass06/Build/Intermediates/InClass06.build/Debug/InClass06.build/Objects-normal/x86_64/BigInteger.o
+x/Users/joshuakennedy/Documents/Projects/CIS 235/InClass06/InClass06/BigInteger.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/joshuakennedy/Documents/Projects/CIS 235/InClass06/InClass06/BigInteger.cpp
+d/Users/joshuakennedy/Documents/Projects/CIS 235/InClass06/InClass06/BigInteger.h
+o/Users/joshuakennedy/Documents/Projects/CIS 235/InClass06/InClass06/BigInteger.cpp:42:12: warning: implicit conversion loses integer precision: 'size_t' (aka 'unsigned long') to 'int' [-Wshorten-64-to-32]
+o        int len = strlen(s);
+o            ~~~   ^~~~~~~~~
+o1 warning generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection90"Compile /Users/joshuakennedy/Documents/Projects/CIS 235/InClass06/InClass06/BigInteger.cpp210"CompileC DerivedData/InClass06/Build/Intermediates/InClass06.build/Debug/InClass06.build/Objects-normal/x86_64/BigInteger.o InClass06/BigInteger.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compilerbaa04ae0bdbfb841^027fb4e0bdbfb841^-283"/Users/joshuakennedy/Documents/Projects/CIS 235/InClass06/InClass06/BigInteger.cpp:42:12: warning: implicit conversion loses integer precision: 'size_t' (aka 'unsigned long') to 'int' [-Wshorten-64-to-32]        int len = strlen(s);            ~~~   ^~~~~~~~~1 warning generated.1(36%IDEClangDiagnosticActivityLogMessage2@84"Implicit conversion loses integer precision: 'size_t' (aka 'unsigned long') to 'int'-415219168#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@91"file:///Users/joshuakennedy/Documents/Projects/CIS%20235/InClass06/InClass06/BigInteger.cpp0000000000000000^41#11#41#11#1192#0#22"Value Conversion Issue2(3@91"file:///Users/joshuakennedy/Documents/Projects/CIS%20235/InClass06/InClass06/BigInteger.cpp0000000000000000^41#11#41#20#1192#8#3@91"file:///Users/joshuakennedy/Documents/Projects/CIS%20235/InClass06/InClass06/BigInteger.cpp0000000000000000^41#5#41#8#1186#0#-0#0#1#-19%DVTDocumentLocation4@91"file:///Users/joshuakennedy/Documents/Projects/CIS%20235/InClass06/InClass06/BigInteger.cpp0000000000000000^3421"CompileC DerivedData/InClass06/Build/Intermediates/InClass06.build/Debug/InClass06.build/Objects-normal/x86_64/BigInteger.o InClass06/BigInteger.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/joshuakennedy/Documents/Projects/CIS 235/InClass06"    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu++11 -stdlib=libc++ -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.9 -g -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/joshuakennedy/Documents/Projects/CIS\ 235/InClass06/DerivedData/InClass06/Build/Intermediates/InClass06.build/Debug/InClass06.build/InClass06-generated-files.hmap -I/Users/joshuakennedy/Documents/Projects/CIS\ 235/InClass06/DerivedData/InClass06/Build/Intermediates/InClass06.build/Debug/InClass06.build/InClass06-own-target-headers.hmap -I/Users/joshuakennedy/Documents/Projects/CIS\ 235/InClass06/DerivedData/InClass06/Build/Intermediates/InClass06.build/Debug/InClass06.build/InClass06-all-target-headers.hmap -iquote /Users/joshuakennedy/Documents/Projects/CIS\ 235/InClass06/DerivedData/InClass06/Build/Intermediates/InClass06.build/Debug/InClass06.build/InClass06-project-headers.hmap -I/Users/joshuakennedy/Documents/Projects/CIS\ 235/InClass06/DerivedData/InClass06/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/joshuakennedy/Documents/Projects/CIS\ 235/InClass06/DerivedData/InClass06/Build/Intermediates/InClass06.build/Debug/InClass06.build/DerivedSources/x86_64 -I/Users/joshuakennedy/Documents/Projects/CIS\ 235/InClass06/DerivedData/InClass06/Build/Intermediates/InClass06.build/Debug/InClass06.build/DerivedSources -F/Users/joshuakennedy/Documents/Projects/CIS\ 235/InClass06/DerivedData/InClass06/Build/Products/Debug -MMD -MT dependencies -MF /Users/joshuakennedy/Documents/Projects/CIS\ 235/InClass06/DerivedData/InClass06/Build/Intermediates/InClass06.build/Debug/InClass06.build/Objects-normal/x86_64/BigInteger.d --serialize-diagnostics /Users/joshuakennedy/Documents/Projects/CIS\ 235/InClass06/DerivedData/InClass06/Build/Intermediates/InClass06.build/Debug/InClass06.build/Objects-normal/x86_64/BigInteger.dia -c /Users/joshuakennedy/Documents/Projects/CIS\ 235/InClass06/InClass06/BigInteger.cpp -o /Users/joshuakennedy/Documents/Projects/CIS\ 235/InClass06/DerivedData/InClass06/Build/Intermediates/InClass06.build/Debug/InClass06.build/Objects-normal/x86_64/BigInteger.o36"FC4B38AE-1C67-45E8-8035-705B96B8AF4B-
+b90437A8C-720D-4A1B-A007-D84113CEAB9D
+
+CCompileC DerivedData/InClass06/Build/Intermediates/InClass06.build/Debug/InClass06.build/Objects-normal/x86_64/CollectionBigInteger.o /Users/joshuakennedy/Documents/Projects/CIS\ 235/InClass06/InClass06/CollectionBigInteger.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s415219168.291392
+e415219168.666212
+r0
+xCompileC
+xDerivedData/InClass06/Build/Intermediates/InClass06.build/Debug/InClass06.build/Objects-normal/x86_64/CollectionBigInteger.o
+x/Users/joshuakennedy/Documents/Projects/CIS 235/InClass06/InClass06/CollectionBigInteger.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/joshuakennedy/Documents/Projects/CIS 235/InClass06/InClass06/CollectionBigInteger.cpp
+d/Users/joshuakennedy/Documents/Projects/CIS 235/InClass06/InClass06/CollectionBigInteger.h
+d/Users/joshuakennedy/Documents/Projects/CIS 235/InClass06/InClass06/BigInteger.h
+o/Users/joshuakennedy/Documents/Projects/CIS 235/InClass06/InClass06/CollectionBigInteger.cpp:119:1: error: control may reach end of non-void function [-Werror,-Wreturn-type]
+o}
+o^
+o1 error generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection100"Compile /Users/joshuakennedy/Documents/Projects/CIS 235/InClass06/InClass06/CollectionBigInteger.cpp230"CompileC DerivedData/InClass06/Build/Intermediates/InClass06.build/Debug/InClass06.build/Objects-normal/x86_64/CollectionBigInteger.o InClass06/CollectionBigInteger.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler69a74ae0bdbfb841^e38baae0bdbfb841^-197"/Users/joshuakennedy/Documents/Projects/CIS 235/InClass06/InClass06/CollectionBigInteger.cpp:119:1: error: control may reach end of non-void function [-Werror,-Wreturn-type]}^1 error generated.1(36%IDEClangDiagnosticActivityLogMessage2@42"Control may reach end of non-void function-415219168#18446744073709551615#0#-2#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@101"file:///Users/joshuakennedy/Documents/Projects/CIS%20235/InClass06/InClass06/CollectionBigInteger.cpp0000000000000000^118#0#118#0#5113#0#14"Semantic Issue--0#0#1#-19%DVTDocumentLocation4@101"file:///Users/joshuakennedy/Documents/Projects/CIS%20235/InClass06/InClass06/CollectionBigInteger.cpp0000000000000000^3481"CompileC DerivedData/InClass06/Build/Intermediates/InClass06.build/Debug/InClass06.build/Objects-normal/x86_64/CollectionBigInteger.o InClass06/CollectionBigInteger.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/joshuakennedy/Documents/Projects/CIS 235/InClass06"    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu++11 -stdlib=libc++ -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.9 -g -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/joshuakennedy/Documents/Projects/CIS\ 235/InClass06/DerivedData/InClass06/Build/Intermediates/InClass06.build/Debug/InClass06.build/InClass06-generated-files.hmap -I/Users/joshuakennedy/Documents/Projects/CIS\ 235/InClass06/DerivedData/InClass06/Build/Intermediates/InClass06.build/Debug/InClass06.build/InClass06-own-target-headers.hmap -I/Users/joshuakennedy/Documents/Projects/CIS\ 235/InClass06/DerivedData/InClass06/Build/Intermediates/InClass06.build/Debug/InClass06.build/InClass06-all-target-headers.hmap -iquote /Users/joshuakennedy/Documents/Projects/CIS\ 235/InClass06/DerivedData/InClass06/Build/Intermediates/InClass06.build/Debug/InClass06.build/InClass06-project-headers.hmap -I/Users/joshuakennedy/Documents/Projects/CIS\ 235/InClass06/DerivedData/InClass06/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/joshuakennedy/Documents/Projects/CIS\ 235/InClass06/DerivedData/InClass06/Build/Intermediates/InClass06.build/Debug/InClass06.build/DerivedSources/x86_64 -I/Users/joshuakennedy/Documents/Projects/CIS\ 235/InClass06/DerivedData/InClass06/Build/Intermediates/InClass06.build/Debug/InClass06.build/DerivedSources -F/Users/joshuakennedy/Documents/Projects/CIS\ 235/InClass06/DerivedData/InClass06/Build/Products/Debug -MMD -MT dependencies -MF /Users/joshuakennedy/Documents/Projects/CIS\ 235/InClass06/DerivedData/InClass06/Build/Intermediates/InClass06.build/Debug/InClass06.build/Objects-normal/x86_64/CollectionBigInteger.d --serialize-diagnostics /Users/joshuakennedy/Documents/Projects/CIS\ 235/InClass06/DerivedData/InClass06/Build/Intermediates/InClass06.build/Debug/InClass06.build/Objects-normal/x86_64/CollectionBigInteger.dia -c /Users/joshuakennedy/Documents/Projects/CIS\ 235/InClass06/InClass06/CollectionBigInteger.cpp -o /Users/joshuakennedy/Documents/Projects/CIS\ 235/InClass06/DerivedData/InClass06/Build/Intermediates/InClass06.build/Debug/InClass06.build/Objects-normal/x86_64/CollectionBigInteger.o36"3CE6306A-04A1-4EDA-B494-5FD042B0E976-
+b90437A8C-720D-4A1B-A007-D84113CEAB9D
+
+CCompileC DerivedData/InClass06/Build/Intermediates/InClass06.build/Debug/InClass06.build/Objects-normal/x86_64/DriverCollectionBigInteger.o /Users/joshuakennedy/Documents/Projects/CIS\ 235/InClass06/InClass06/DriverCollectionBigInteger.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s415219168.291638
+e415219168.654773
+r0
+xCompileC
+xDerivedData/InClass06/Build/Intermediates/InClass06.build/Debug/InClass06.build/Objects-normal/x86_64/DriverCollectionBigInteger.o
+x/Users/joshuakennedy/Documents/Projects/CIS 235/InClass06/InClass06/DriverCollectionBigInteger.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/joshuakennedy/Documents/Projects/CIS 235/InClass06/InClass06/DriverCollectionBigInteger.cpp
+d/Users/joshuakennedy/Documents/Projects/CIS 235/InClass06/InClass06/BigInteger.h
+d/Users/joshuakennedy/Documents/Projects/CIS 235/InClass06/InClass06/CollectionBigInteger.h
+o/Users/joshuakennedy/Documents/Projects/CIS 235/InClass06/InClass06/DriverCollectionBigInteger.cpp:5:1: error: 'main' must return 'int'
+ovoid main()
+o^~~~
+oint
+o1 error generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection106"Compile /Users/joshuakennedy/Documents/Projects/CIS 235/InClass06/InClass06/DriverCollectionBigInteger.cpp242"CompileC DerivedData/InClass06/Build/Intermediates/InClass06.build/Debug/InClass06.build/Objects-normal/x86_64/DriverCollectionBigInteger.o InClass06/DriverCollectionBigInteger.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler28ba4ae0bdbfb841^6b9ea7e0bdbfb841^-176"/Users/joshuakennedy/Documents/Projects/CIS 235/InClass06/InClass06/DriverCollectionBigInteger.cpp:5:1: error: 'main' must return 'int'void main()^~~~int1 error generated.1(36%IDEClangDiagnosticActivityLogMessage2@24"'main' must return 'int'-415219168#18446744073709551615#0#-2#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@107"file:///Users/joshuakennedy/Documents/Projects/CIS%20235/InClass06/InClass06/DriverCollectionBigInteger.cpp0000000000000000^4#0#4#0#104#0#14"Semantic Issue1(3@107"file:///Users/joshuakennedy/Documents/Projects/CIS%20235/InClass06/InClass06/DriverCollectionBigInteger.cpp0000000000000000^4#0#4#4#104#4#-0#0#1#-19%DVTDocumentLocation4@107"file:///Users/joshuakennedy/Documents/Projects/CIS%20235/InClass06/InClass06/DriverCollectionBigInteger.cpp0000000000000000^3517"CompileC DerivedData/InClass06/Build/Intermediates/InClass06.build/Debug/InClass06.build/Objects-normal/x86_64/DriverCollectionBigInteger.o InClass06/DriverCollectionBigInteger.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/joshuakennedy/Documents/Projects/CIS 235/InClass06"    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu++11 -stdlib=libc++ -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.9 -g -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/joshuakennedy/Documents/Projects/CIS\ 235/InClass06/DerivedData/InClass06/Build/Intermediates/InClass06.build/Debug/InClass06.build/InClass06-generated-files.hmap -I/Users/joshuakennedy/Documents/Projects/CIS\ 235/InClass06/DerivedData/InClass06/Build/Intermediates/InClass06.build/Debug/InClass06.build/InClass06-own-target-headers.hmap -I/Users/joshuakennedy/Documents/Projects/CIS\ 235/InClass06/DerivedData/InClass06/Build/Intermediates/InClass06.build/Debug/InClass06.build/InClass06-all-target-headers.hmap -iquote /Users/joshuakennedy/Documents/Projects/CIS\ 235/InClass06/DerivedData/InClass06/Build/Intermediates/InClass06.build/Debug/InClass06.build/InClass06-project-headers.hmap -I/Users/joshuakennedy/Documents/Projects/CIS\ 235/InClass06/DerivedData/InClass06/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/joshuakennedy/Documents/Projects/CIS\ 235/InClass06/DerivedData/InClass06/Build/Intermediates/InClass06.build/Debug/InClass06.build/DerivedSources/x86_64 -I/Users/joshuakennedy/Documents/Projects/CIS\ 235/InClass06/DerivedData/InClass06/Build/Intermediates/InClass06.build/Debug/InClass06.build/DerivedSources -F/Users/joshuakennedy/Documents/Projects/CIS\ 235/InClass06/DerivedData/InClass06/Build/Products/Debug -MMD -MT dependencies -MF /Users/joshuakennedy/Documents/Projects/CIS\ 235/InClass06/DerivedData/InClass06/Build/Intermediates/InClass06.build/Debug/InClass06.build/Objects-normal/x86_64/DriverCollectionBigInteger.d --serialize-diagnostics /Users/joshuakennedy/Documents/Projects/CIS\ 235/InClass06/DerivedData/InClass06/Build/Intermediates/InClass06.build/Debug/InClass06.build/Objects-normal/x86_64/DriverCollectionBigInteger.dia -c /Users/joshuakennedy/Documents/Projects/CIS\ 235/InClass06/InClass06/DriverCollectionBigInteger.cpp -o /Users/joshuakennedy/Documents/Projects/CIS\ 235/InClass06/DerivedData/InClass06/Build/Intermediates/InClass06.build/Debug/InClass06.build/Objects-normal/x86_64/DriverCollectionBigInteger.o36"C307EFD4-46EC-45E1-AB8C-E9B882253B8F-
+b90437A8C-720D-4A1B-A007-D84113CEAB9D
+
+CCompileC DerivedData/InClass06/Build/Intermediates/InClass06.build/Debug/InClass06.build/Objects-normal/x86_64/main.o /Users/joshuakennedy/Documents/Projects/CIS\ 235/InClass06/InClass06/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CLd /Users/joshuakennedy/Documents/Projects/CIS\ 235/InClass06/DerivedData/InClass06/Build/Products/Debug/InClass06 normal x86_64
+r0
+

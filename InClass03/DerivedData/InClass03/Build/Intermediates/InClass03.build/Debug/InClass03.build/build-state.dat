@@ -1,0 +1,316 @@
+TInClass03
+v6
+r1
+cCheck dependencies
+cCompileC DerivedData/InClass03/Build/Intermediates/InClass03.build/Debug/InClass03.build/Objects-normal/x86_64/main.o /Users/joshuakennedy/Documents/Projects/CIS\ 235/InClass03/InClass03/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/InClass03/Build/Intermediates/InClass03.build/Debug/InClass03.build/Objects-normal/x86_64/FullName.o /Users/joshuakennedy/Documents/Projects/CIS\ 235/InClass03/InClass03/FullName.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk
+c0000000052822F3800000000000000AA
+t1384263480
+s170
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/SDKSettings.plist
+c000000005267AA6D000000000000044C
+t1382525549
+s1100
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/CoreServices/SystemVersion.plist
+c000000005267AA6D00000000000001DB
+t1382525549
+s475
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/libSystem.dylib
+c000000005267AA70000000000000681C
+t1382525552
+s26652
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/libc++.dylib
+c000000005267AA70000000000006E8B0
+t1382525552
+s452784
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcache.dylib
+c000000005267AA700000000000004734
+t1382525552
+s18228
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcommonCrypto.dylib
+c000000005267AA70000000000000FC6C
+t1382525552
+s64620
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcompiler_rt.dylib
+c000000005267AA70000000000000F6A0
+t1382525552
+s63136
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcopyfile.dylib
+c000000005267AA700000000000006254
+t1382525552
+s25172
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcorecrypto.dylib
+c000000005267AA70000000000000E0F8
+t1382525552
+s57592
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libdispatch.dylib
+c000000005267AA70000000000000D6DC
+t1382525552
+s55004
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libdyld.dylib
+c000000005267AA700000000000006308
+t1382525552
+s25352
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libkeymgr.dylib
+c000000005267AA700000000000004050
+t1382525552
+s16464
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/liblaunch.dylib
+c000000005267AA700000000000008570
+t1382525552
+s34160
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libmacho.dylib
+c000000005267AA700000000000005EA0
+t1382525552
+s24224
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libquarantine.dylib
+c000000005267AA700000000000005FAC
+t1382525552
+s24492
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libremovefile.dylib
+c000000005267AA700000000000004440
+t1382525552
+s17472
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_asl.dylib
+c000000005267AA70000000000000AA28
+t1382525552
+s43560
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_blocks.dylib
+c000000005267AA700000000000003E2C
+t1382525552
+s15916
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_c.dylib
+c000000005267AA700000000000030A24
+t1382525552
+s199204
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_configuration.dylib
+c000000005267AA700000000000005E54
+t1382525552
+s24148
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_dnssd.dylib
+c000000005267AA700000000000006A90
+t1382525552
+s27280
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_info.dylib
+c000000005267AA7000000000000178AC
+t1382525552
+s96428
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_kernel.dylib
+c000000005267AA70000000000001ADC8
+t1382525552
+s110024
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_m.dylib
+c000000005267AA70000000000001028C
+t1382525552
+s66188
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_malloc.dylib
+c000000005267AA700000000000008800
+t1382525552
+s34816
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_network.dylib
+c000000005267AA700000000000011090
+t1382525552
+s69776
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_notify.dylib
+c000000005267AA70000000000000882C
+t1382525552
+s34860
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_platform.dylib
+c000000005267AA7000000000000067AC
+t1382525552
+s26540
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_pthread.dylib
+c000000005267AA700000000000008DEC
+t1382525552
+s36332
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_sandbox.dylib
+c000000005267AA700000000000004C08
+t1382525552
+s19464
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_stats.dylib
+c000000005267AA7000000000000023C0
+t1382525552
+s9152
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libunc.dylib
+c000000005267AA70000000000000439C
+t1382525552
+s17308
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libunwind.dylib
+c000000005267AA700000000000006768
+t1382525552
+s26472
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libxpc.dylib
+c000000005267AA7000000000000172F4
+t1382525552
+s94964
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/lib/darwin/libclang_rt.osx.a
+c000000005267AA770000000000001750
+t1382525559
+s5968
+
+N/Users/joshuakennedy/Documents/Projects/CIS 235/InClass03/DerivedData/InClass03/Build/Intermediates/InClass03.build/Debug/InClass03.build/Objects-normal/x86_64/FullName.o
+t1391108692
+s84892
+
+N/Users/joshuakennedy/Documents/Projects/CIS 235/InClass03/DerivedData/InClass03/Build/Intermediates/InClass03.build/Debug/InClass03.build/Objects-normal/x86_64/InClass03.LinkFileList
+c0000000052EAA0910000000000000152
+t1391108241
+s338
+
+N/Users/joshuakennedy/Documents/Projects/CIS 235/InClass03/DerivedData/InClass03/Build/Intermediates/InClass03.build/Debug/InClass03.build/Objects-normal/x86_64/main.o
+t1391108242
+s58368
+
+N/Users/joshuakennedy/Documents/Projects/CIS 235/InClass03/DerivedData/InClass03/Build/Products/Debug/InClass03
+t1391108692
+s21276
+
+N/Users/joshuakennedy/Documents/Projects/CIS 235/InClass03/InClass03/FullName.cpp
+c0000000052EAA2C000000000000007B3
+t1391108800
+s1971
+
+N/Users/joshuakennedy/Documents/Projects/CIS 235/InClass03/InClass03/FullName.h
+c0000000052EAA2C00000000000000362
+t1391108800
+s866
+
+N/Users/joshuakennedy/Documents/Projects/CIS 235/InClass03/InClass03/main.cpp
+c0000000052EAA0250000000000000273
+t1391108133
+s627
+
+CBuild AST from /Users/joshuakennedy/Documents/Projects/CIS\ 235/InClass03/InClass03/FullName.cpp
+r0
+
+CBuild AST from /Users/joshuakennedy/Documents/Projects/CIS\ 235/InClass03/InClass03/main.cpp
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies060fcf40da9ab841^aed4cf40da9ab841^---0#1#1#--18"Check dependencies36"50CA7661-4F54-430E-9DF1-9ECB94A32279-
+
+CCompileC DerivedData/InClass03/Build/Intermediates/InClass03.build/Debug/InClass03.build/Objects-normal/x86_64/FullName.o /Users/joshuakennedy/Documents/Projects/CIS\ 235/InClass03/InClass03/FullName.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s412801600.809820
+e412801601.167052
+r0
+xCompileC
+xDerivedData/InClass03/Build/Intermediates/InClass03.build/Debug/InClass03.build/Objects-normal/x86_64/FullName.o
+x/Users/joshuakennedy/Documents/Projects/CIS 235/InClass03/InClass03/FullName.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/joshuakennedy/Documents/Projects/CIS 235/InClass03/InClass03/FullName.cpp
+d/Users/joshuakennedy/Documents/Projects/CIS 235/InClass03/InClass03/FullName.h
+o/Users/joshuakennedy/Documents/Projects/CIS 235/InClass03/InClass03/FullName.cpp:92:16: error: no member named 'isEq' in 'FullName'
+obool FullName::isEq
+o     ~~~~~~~~~~^
+o/Users/joshuakennedy/Documents/Projects/CIS 235/InClass03/InClass03/FullName.cpp:92:20: error: expected ';' after top level declarator
+obool FullName::isEq
+o                   ^
+o                   ;
+o2 errors generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection88"Compile /Users/joshuakennedy/Documents/Projects/CIS 235/InClass03/InClass03/FullName.cpp206"CompileC DerivedData/InClass03/Build/Intermediates/InClass03.build/Debug/InClass03.build/Objects-normal/x86_64/FullName.o InClass03/FullName.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler5f5fcf40da9ab841^b9c32a41da9ab841^-386"/Users/joshuakennedy/Documents/Projects/CIS 235/InClass03/InClass03/FullName.cpp:92:16: error: no member named 'isEq' in 'FullName'bool FullName::isEq     ~~~~~~~~~~^/Users/joshuakennedy/Documents/Projects/CIS 235/InClass03/InClass03/FullName.cpp:92:20: error: expected ';' after top level declaratorbool FullName::isEq                   ^                   ;2 errors generated.2(36%IDEClangDiagnosticActivityLogMessage2@36"No member named 'isEq' in 'FullName'-412801601#18446744073709551615#0#-2#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@89"file:///Users/joshuakennedy/Documents/Projects/CIS%20235/InClass03/InClass03/FullName.cpp0000000000000000^91#15#91#15#1965#0#14"Semantic Issue1(3@89"file:///Users/joshuakennedy/Documents/Projects/CIS%20235/InClass03/InClass03/FullName.cpp0000000000000000^91#5#91#15#1955#8#-2@39"Expected ';' after top level declarator-412801601#18446744073709551615#0#-2#27"com.apple.dt.IDE.diagnostic3@89"file:///Users/joshuakennedy/Documents/Projects/CIS%20235/InClass03/InClass03/FullName.cpp0000000000000000^91#19#91#19#1969#0#11"Parse Issue1(3@89"file:///Users/joshuakennedy/Documents/Projects/CIS%20235/InClass03/InClass03/FullName.cpp0000000000000000^91#19#91#19#1969#0#-0#0#1#-19%DVTDocumentLocation4@89"file:///Users/joshuakennedy/Documents/Projects/CIS%20235/InClass03/InClass03/FullName.cpp0000000000000000^3409"CompileC DerivedData/InClass03/Build/Intermediates/InClass03.build/Debug/InClass03.build/Objects-normal/x86_64/FullName.o InClass03/FullName.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/joshuakennedy/Documents/Projects/CIS 235/InClass03"    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu++11 -stdlib=libc++ -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.9 -g -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/joshuakennedy/Documents/Projects/CIS\ 235/InClass03/DerivedData/InClass03/Build/Intermediates/InClass03.build/Debug/InClass03.build/InClass03-generated-files.hmap -I/Users/joshuakennedy/Documents/Projects/CIS\ 235/InClass03/DerivedData/InClass03/Build/Intermediates/InClass03.build/Debug/InClass03.build/InClass03-own-target-headers.hmap -I/Users/joshuakennedy/Documents/Projects/CIS\ 235/InClass03/DerivedData/InClass03/Build/Intermediates/InClass03.build/Debug/InClass03.build/InClass03-all-target-headers.hmap -iquote /Users/joshuakennedy/Documents/Projects/CIS\ 235/InClass03/DerivedData/InClass03/Build/Intermediates/InClass03.build/Debug/InClass03.build/InClass03-project-headers.hmap -I/Users/joshuakennedy/Documents/Projects/CIS\ 235/InClass03/DerivedData/InClass03/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/joshuakennedy/Documents/Projects/CIS\ 235/InClass03/DerivedData/InClass03/Build/Intermediates/InClass03.build/Debug/InClass03.build/DerivedSources/x86_64 -I/Users/joshuakennedy/Documents/Projects/CIS\ 235/InClass03/DerivedData/InClass03/Build/Intermediates/InClass03.build/Debug/InClass03.build/DerivedSources -F/Users/joshuakennedy/Documents/Projects/CIS\ 235/InClass03/DerivedData/InClass03/Build/Products/Debug -MMD -MT dependencies -MF /Users/joshuakennedy/Documents/Projects/CIS\ 235/InClass03/DerivedData/InClass03/Build/Intermediates/InClass03.build/Debug/InClass03.build/Objects-normal/x86_64/FullName.d --serialize-diagnostics /Users/joshuakennedy/Documents/Projects/CIS\ 235/InClass03/DerivedData/InClass03/Build/Intermediates/InClass03.build/Debug/InClass03.build/Objects-normal/x86_64/FullName.dia -c /Users/joshuakennedy/Documents/Projects/CIS\ 235/InClass03/InClass03/FullName.cpp -o /Users/joshuakennedy/Documents/Projects/CIS\ 235/InClass03/DerivedData/InClass03/Build/Intermediates/InClass03.build/Debug/InClass03.build/Objects-normal/x86_64/FullName.o36"E659F4B6-0D8F-42F8-B50F-138897B7D492-
+b7B155110-B531-45B6-992A-3CAD0EC852BC
+
+CCompileC DerivedData/InClass03/Build/Intermediates/InClass03.build/Debug/InClass03.build/Objects-normal/x86_64/main.o /Users/joshuakennedy/Documents/Projects/CIS\ 235/InClass03/InClass03/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s412801600.809745
+e412801601.164642
+r1
+xCompileC
+xDerivedData/InClass03/Build/Intermediates/InClass03.build/Debug/InClass03.build/Objects-normal/x86_64/main.o
+x/Users/joshuakennedy/Documents/Projects/CIS 235/InClass03/InClass03/main.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/joshuakennedy/Documents/Projects/CIS 235/InClass03/InClass03/main.cpp
+d/Users/joshuakennedy/Documents/Projects/CIS 235/InClass03/InClass03/FullName.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection84"Compile /Users/joshuakennedy/Documents/Projects/CIS 235/InClass03/InClass03/main.cpp198"CompileC DerivedData/InClass03/Build/Intermediates/InClass03.build/Debug/InClass03.build/Objects-normal/x86_64/main.o InClass03/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler185ccf40da9ab841^e5262a41da9ab841^---0#0#1#-19%DVTDocumentLocation2@85"file:///Users/joshuakennedy/Documents/Projects/CIS%20235/InClass03/InClass03/main.cpp0000000000000000^3385"CompileC DerivedData/InClass03/Build/Intermediates/InClass03.build/Debug/InClass03.build/Objects-normal/x86_64/main.o InClass03/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/joshuakennedy/Documents/Projects/CIS 235/InClass03"    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu++11 -stdlib=libc++ -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.9 -g -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/joshuakennedy/Documents/Projects/CIS\ 235/InClass03/DerivedData/InClass03/Build/Intermediates/InClass03.build/Debug/InClass03.build/InClass03-generated-files.hmap -I/Users/joshuakennedy/Documents/Projects/CIS\ 235/InClass03/DerivedData/InClass03/Build/Intermediates/InClass03.build/Debug/InClass03.build/InClass03-own-target-headers.hmap -I/Users/joshuakennedy/Documents/Projects/CIS\ 235/InClass03/DerivedData/InClass03/Build/Intermediates/InClass03.build/Debug/InClass03.build/InClass03-all-target-headers.hmap -iquote /Users/joshuakennedy/Documents/Projects/CIS\ 235/InClass03/DerivedData/InClass03/Build/Intermediates/InClass03.build/Debug/InClass03.build/InClass03-project-headers.hmap -I/Users/joshuakennedy/Documents/Projects/CIS\ 235/InClass03/DerivedData/InClass03/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/joshuakennedy/Documents/Projects/CIS\ 235/InClass03/DerivedData/InClass03/Build/Intermediates/InClass03.build/Debug/InClass03.build/DerivedSources/x86_64 -I/Users/joshuakennedy/Documents/Projects/CIS\ 235/InClass03/DerivedData/InClass03/Build/Intermediates/InClass03.build/Debug/InClass03.build/DerivedSources -F/Users/joshuakennedy/Documents/Projects/CIS\ 235/InClass03/DerivedData/InClass03/Build/Products/Debug -MMD -MT dependencies -MF /Users/joshuakennedy/Documents/Projects/CIS\ 235/InClass03/DerivedData/InClass03/Build/Intermediates/InClass03.build/Debug/InClass03.build/Objects-normal/x86_64/main.d --serialize-diagnostics /Users/joshuakennedy/Documents/Projects/CIS\ 235/InClass03/DerivedData/InClass03/Build/Intermediates/InClass03.build/Debug/InClass03.build/Objects-normal/x86_64/main.dia -c /Users/joshuakennedy/Documents/Projects/CIS\ 235/InClass03/InClass03/main.cpp -o /Users/joshuakennedy/Documents/Projects/CIS\ 235/InClass03/DerivedData/InClass03/Build/Intermediates/InClass03.build/Debug/InClass03.build/Objects-normal/x86_64/main.o36"451152A2-BED6-427A-814A-C68947D57D7F-
+b7B155110-B531-45B6-992A-3CAD0EC852BC
+
+CLd /Users/joshuakennedy/Documents/Projects/CIS\ 235/InClass03/DerivedData/InClass03/Build/Products/Debug/InClass03 normal x86_64
+s412801492.209375
+e412801492.226986
+r1
+xLd
+x/Users/joshuakennedy/Documents/Projects/CIS 235/InClass03/DerivedData/InClass03/Build/Products/Debug/InClass03
+xnormal
+xx86_64
+d/Users/joshuakennedy/Documents/Projects/CIS 235/InClass03/DerivedData/InClass03/Build/Intermediates/InClass03.build/Debug/InClass03.build/Objects-normal/x86_64/InClass03.LinkFileList
+d/Users/joshuakennedy/Documents/Projects/CIS 235/InClass03/DerivedData/InClass03/Build/Intermediates/InClass03.build/Debug/InClass03.build/Objects-normal/x86_64/main.o
+d/Users/joshuakennedy/Documents/Projects/CIS 235/InClass03/DerivedData/InClass03/Build/Intermediates/InClass03.build/Debug/InClass03.build/Objects-normal/x86_64/FullName.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/libc++.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/lib/darwin/libclang_rt.osx.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcache.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcommonCrypto.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcompiler_rt.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcopyfile.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcorecrypto.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libdyld.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libkeymgr.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/liblaunch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libmacho.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libquarantine.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libremovefile.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_asl.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_kernel.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_malloc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_notify.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_platform.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_pthread.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_sandbox.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_stats.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libunc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libunwind.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libxpc.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection115"Link /Users/joshuakennedy/Documents/Projects/CIS 235/InClass03/DerivedData/InClass03/Build/Products/Debug/InClass0369"Ld DerivedData/InClass03/Build/Products/Debug/InClass03 normal x86_6469a835d4d99ab841^041c3ad4d99ab841^---0#0#1#--1183"Ld DerivedData/InClass03/Build/Products/Debug/InClass03 normal x86_64    cd "/Users/joshuakennedy/Documents/Projects/CIS 235/InClass03"    setenv MACOSX_DEPLOYMENT_TARGET 10.9    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++ -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -L/Users/joshuakennedy/Documents/Projects/CIS\ 235/InClass03/DerivedData/InClass03/Build/Products/Debug -F/Users/joshuakennedy/Documents/Projects/CIS\ 235/InClass03/DerivedData/InClass03/Build/Products/Debug -filelist /Users/joshuakennedy/Documents/Projects/CIS\ 235/InClass03/DerivedData/InClass03/Build/Intermediates/InClass03.build/Debug/InClass03.build/Objects-normal/x86_64/InClass03.LinkFileList -mmacosx-version-min=10.9 -stdlib=libc++ -Xlinker -dependency_info -Xlinker /Users/joshuakennedy/Documents/Projects/CIS\ 235/InClass03/DerivedData/InClass03/Build/Intermediates/InClass03.build/Debug/InClass03.build/Objects-normal/x86_64/InClass03_dependency_info.dat -o /Users/joshuakennedy/Documents/Projects/CIS\ 235/InClass03/DerivedData/InClass03/Build/Products/Debug/InClass0336"E2105860-7726-49C9-87CD-4AB8DF5DD1F7-
+b1E401873-7DEB-4460-B66A-B75044B785C1
+

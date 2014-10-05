@@ -1,0 +1,89 @@
+TProject 2
+v6
+r1
+cCheck dependencies
+cCompileC DerivedData/Project\ 2/Build/Intermediates/Project\ 2.build/Debug/Project\ 2.build/Objects-normal/x86_64/Item.o /Users/joshuakennedy/Documents/Projects/CIS\ 235/Project\ 2/Project\ 2/Item.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/Project\ 2/Build/Intermediates/Project\ 2.build/Debug/Project\ 2.build/Objects-normal/x86_64/main.o /Users/joshuakennedy/Documents/Projects/CIS\ 235/Project\ 2/Project\ 2/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/SDKSettings.plist
+c000000005330DB8A000000000000044C
+t1395710858
+s1100
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/CoreServices/SystemVersion.plist
+c000000005330DB8A00000000000001DE
+t1395710858
+s478
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/include/module.map
+c000000005330DB920000000000000ADC
+t1395710866
+s2780
+
+N/Users/joshuakennedy/Documents/Projects/CIS 235/Project 2/DerivedData/Project 2/Build/Intermediates/Project 2.build/Debug/Project 2.build/Objects-normal/x86_64/Item.o
+t2
+s0
+
+N/Users/joshuakennedy/Documents/Projects/CIS 235/Project 2/DerivedData/Project 2/Build/Intermediates/Project 2.build/Debug/Project 2.build/Objects-normal/x86_64/main.o
+t2
+s0
+
+N/Users/joshuakennedy/Documents/Projects/CIS 235/Project 2/Project 2/Item.cpp
+c000000005364E516000000000000009A
+t1399121174
+s154
+
+N/Users/joshuakennedy/Documents/Projects/CIS 235/Project 2/Project 2/main.cpp
+c000000005364E40200000000000000EE
+t1399120898
+s238
+
+CBuild AST from /Users/joshuakennedy/Documents/Projects/CIS\ 235/Project\ 2/Project\ 2/Item.cpp
+r0
+
+CBuild AST from /Users/joshuakennedy/Documents/Projects/CIS\ 235/Project\ 2/Project\ 2/main.cpp
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependenciesddb6eb851e15b941^c85eef851e15b941^---0#1#1#--18"Check dependencies36"DDA03D29-BB1C-4BA6-BFFF-704A9A82A35B-
+
+CCompileC DerivedData/Project\ 2/Build/Intermediates/Project\ 2.build/Debug/Project\ 2.build/Objects-normal/x86_64/Item.o /Users/joshuakennedy/Documents/Projects/CIS\ 235/Project\ 2/Project\ 2/Item.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s420814469.936533
+e420814470.353726
+r0
+xCompileC
+xDerivedData/Project 2/Build/Intermediates/Project 2.build/Debug/Project 2.build/Objects-normal/x86_64/Item.o
+x/Users/joshuakennedy/Documents/Projects/CIS 235/Project 2/Project 2/Item.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/joshuakennedy/Documents/Projects/CIS 235/Project 2/Project 2/Item.cpp
+d/Users/joshuakennedy/Documents/Projects/CIS 235/Project 2/Project 2/Item.h
+oIn file included from /Users/joshuakennedy/Documents/Projects/CIS 235/Project 2/Project 2/Item.cpp:9:
+o/Users/joshuakennedy/Documents/Projects/CIS 235/Project 2/Project 2/Item.h:17:13: error: constructor cannot be declared 'virtual'
+o    virtual Item() = 0;
+o    ~~~~~~~ ^~~~
+o1 error generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection84"Compile /Users/joshuakennedy/Documents/Projects/CIS 235/Project 2/Project 2/Item.cpp202"CompileC DerivedData/Project\ 2/Build/Intermediates/Project\ 2.build/Debug/Project\ 2.build/Objects-normal/x86_64/Item.o Project\ 2/Item.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler52d6ef851e15b941^698c5a861e15b941^-292"In file included from /Users/joshuakennedy/Documents/Projects/CIS 235/Project 2/Project 2/Item.cpp:9:/Users/joshuakennedy/Documents/Projects/CIS 235/Project 2/Project 2/Item.h:17:13: error: constructor cannot be declared 'virtual'    virtual Item() = 0;    ~~~~~~~ ^~~~1 error generated.1(36%IDEClangDiagnosticActivityLogMessage2@40"Constructor cannot be declared 'virtual'-420814470#18446744073709551615#0#1(2@101"In file included from /Users/joshuakennedy/Documents/Projects/CIS 235/Project 2/Project 2/Item.cpp:9:-420814470#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@89"file:///Users/joshuakennedy/Documents/Projects/CIS%20235/Project%202/Project%202/Item.cpp0000000000000000^8#9#8#9#145#0#21"Apple LLVM 5.1 Notice--2#27"com.apple.dt.IDE.diagnostic3@87"file:///Users/joshuakennedy/Documents/Projects/CIS%20235/Project%202/Project%202/Item.h0000000000000000^16#12#16#12#243#0#14"Semantic Issue2(3@87"file:///Users/joshuakennedy/Documents/Projects/CIS%20235/Project%202/Project%202/Item.h0000000000000000^16#4#16#11#235#0#3@87"file:///Users/joshuakennedy/Documents/Projects/CIS%20235/Project%202/Project%202/Item.h0000000000000000^16#12#16#16#243#0#-0#0#1#-19%DVTDocumentLocation4@89"file:///Users/joshuakennedy/Documents/Projects/CIS%20235/Project%202/Project%202/Item.cpp0000000000000000^3562"CompileC DerivedData/Project\ 2/Build/Intermediates/Project\ 2.build/Debug/Project\ 2.build/Objects-normal/x86_64/Item.o Project\ 2/Item.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/joshuakennedy/Documents/Projects/CIS 235/Project 2"    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu++11 -stdlib=libc++ -fmodules -fmodules-cache-path=/Users/joshuakennedy/Documents/Projects/CIS\ 235/Project\ 2/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.9 -g -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/joshuakennedy/Documents/Projects/CIS\ 235/Project\ 2/DerivedData/Project\ 2/Build/Intermediates/Project\ 2.build/Debug/Project\ 2.build/Project\ 2-generated-files.hmap -I/Users/joshuakennedy/Documents/Projects/CIS\ 235/Project\ 2/DerivedData/Project\ 2/Build/Intermediates/Project\ 2.build/Debug/Project\ 2.build/Project\ 2-own-target-headers.hmap -I/Users/joshuakennedy/Documents/Projects/CIS\ 235/Project\ 2/DerivedData/Project\ 2/Build/Intermediates/Project\ 2.build/Debug/Project\ 2.build/Project\ 2-all-target-headers.hmap -iquote /Users/joshuakennedy/Documents/Projects/CIS\ 235/Project\ 2/DerivedData/Project\ 2/Build/Intermediates/Project\ 2.build/Debug/Project\ 2.build/Project\ 2-project-headers.hmap -I/Users/joshuakennedy/Documents/Projects/CIS\ 235/Project\ 2/DerivedData/Project\ 2/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/joshuakennedy/Documents/Projects/CIS\ 235/Project\ 2/DerivedData/Project\ 2/Build/Intermediates/Project\ 2.build/Debug/Project\ 2.build/DerivedSources/x86_64 -I/Users/joshuakennedy/Documents/Projects/CIS\ 235/Project\ 2/DerivedData/Project\ 2/Build/Intermediates/Project\ 2.build/Debug/Project\ 2.build/DerivedSources -F/Users/joshuakennedy/Documents/Projects/CIS\ 235/Project\ 2/DerivedData/Project\ 2/Build/Products/Debug -MMD -MT dependencies -MF /Users/joshuakennedy/Documents/Projects/CIS\ 235/Project\ 2/DerivedData/Project\ 2/Build/Intermediates/Project\ 2.build/Debug/Project\ 2.build/Objects-normal/x86_64/Item.d --serialize-diagnostics /Users/joshuakennedy/Documents/Projects/CIS\ 235/Project\ 2/DerivedData/Project\ 2/Build/Intermediates/Project\ 2.build/Debug/Project\ 2.build/Objects-normal/x86_64/Item.dia -c /Users/joshuakennedy/Documents/Projects/CIS\ 235/Project\ 2/Project\ 2/Item.cpp -o /Users/joshuakennedy/Documents/Projects/CIS\ 235/Project\ 2/DerivedData/Project\ 2/Build/Intermediates/Project\ 2.build/Debug/Project\ 2.build/Objects-normal/x86_64/Item.o36"680DA664-1798-4E82-B996-9E4D3516FE4F-
+bED9B7364-D5E3-424F-890D-8096A46244AE
+
+CCompileC DerivedData/Project\ 2/Build/Intermediates/Project\ 2.build/Debug/Project\ 2.build/Objects-normal/x86_64/main.o /Users/joshuakennedy/Documents/Projects/CIS\ 235/Project\ 2/Project\ 2/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s420814469.936684
+e420814470.655646
+r1
+xCompileC
+xDerivedData/Project 2/Build/Intermediates/Project 2.build/Debug/Project 2.build/Objects-normal/x86_64/main.o
+x/Users/joshuakennedy/Documents/Projects/CIS 235/Project 2/Project 2/main.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/joshuakennedy/Documents/Projects/CIS 235/Project 2/Project 2/main.cpp
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection84"Compile /Users/joshuakennedy/Documents/Projects/CIS 235/Project 2/Project 2/main.cpp202"CompileC DerivedData/Project\ 2/Build/Intermediates/Project\ 2.build/Debug/Project\ 2.build/Objects-normal/x86_64/main.o Project\ 2/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler8cdcef851e15b941^9dd8a7861e15b941^---0#0#1#-19%DVTDocumentLocation2@89"file:///Users/joshuakennedy/Documents/Projects/CIS%20235/Project%202/Project%202/main.cpp0000000000000000^3562"CompileC DerivedData/Project\ 2/Build/Intermediates/Project\ 2.build/Debug/Project\ 2.build/Objects-normal/x86_64/main.o Project\ 2/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/joshuakennedy/Documents/Projects/CIS 235/Project 2"    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu++11 -stdlib=libc++ -fmodules -fmodules-cache-path=/Users/joshuakennedy/Documents/Projects/CIS\ 235/Project\ 2/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.9 -g -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/joshuakennedy/Documents/Projects/CIS\ 235/Project\ 2/DerivedData/Project\ 2/Build/Intermediates/Project\ 2.build/Debug/Project\ 2.build/Project\ 2-generated-files.hmap -I/Users/joshuakennedy/Documents/Projects/CIS\ 235/Project\ 2/DerivedData/Project\ 2/Build/Intermediates/Project\ 2.build/Debug/Project\ 2.build/Project\ 2-own-target-headers.hmap -I/Users/joshuakennedy/Documents/Projects/CIS\ 235/Project\ 2/DerivedData/Project\ 2/Build/Intermediates/Project\ 2.build/Debug/Project\ 2.build/Project\ 2-all-target-headers.hmap -iquote /Users/joshuakennedy/Documents/Projects/CIS\ 235/Project\ 2/DerivedData/Project\ 2/Build/Intermediates/Project\ 2.build/Debug/Project\ 2.build/Project\ 2-project-headers.hmap -I/Users/joshuakennedy/Documents/Projects/CIS\ 235/Project\ 2/DerivedData/Project\ 2/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/joshuakennedy/Documents/Projects/CIS\ 235/Project\ 2/DerivedData/Project\ 2/Build/Intermediates/Project\ 2.build/Debug/Project\ 2.build/DerivedSources/x86_64 -I/Users/joshuakennedy/Documents/Projects/CIS\ 235/Project\ 2/DerivedData/Project\ 2/Build/Intermediates/Project\ 2.build/Debug/Project\ 2.build/DerivedSources -F/Users/joshuakennedy/Documents/Projects/CIS\ 235/Project\ 2/DerivedData/Project\ 2/Build/Products/Debug -MMD -MT dependencies -MF /Users/joshuakennedy/Documents/Projects/CIS\ 235/Project\ 2/DerivedData/Project\ 2/Build/Intermediates/Project\ 2.build/Debug/Project\ 2.build/Objects-normal/x86_64/main.d --serialize-diagnostics /Users/joshuakennedy/Documents/Projects/CIS\ 235/Project\ 2/DerivedData/Project\ 2/Build/Intermediates/Project\ 2.build/Debug/Project\ 2.build/Objects-normal/x86_64/main.dia -c /Users/joshuakennedy/Documents/Projects/CIS\ 235/Project\ 2/Project\ 2/main.cpp -o /Users/joshuakennedy/Documents/Projects/CIS\ 235/Project\ 2/DerivedData/Project\ 2/Build/Intermediates/Project\ 2.build/Debug/Project\ 2.build/Objects-normal/x86_64/main.o36"8F81F4E1-7AC2-4C6F-ABF6-594EC823E05C-
+bED9B7364-D5E3-424F-890D-8096A46244AE
+
+CLd /Users/joshuakennedy/Documents/Projects/CIS\ 235/Project\ 2/DerivedData/Project\ 2/Build/Products/Debug/Project\ 2 normal x86_64
+r0
+

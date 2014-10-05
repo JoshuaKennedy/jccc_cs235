@@ -1,0 +1,57 @@
+Tmcm10.06a
+v6
+r1
+cCheck dependencies
+cCompileC DerivedData/mcm10.06a/Build/Intermediates/mcm10.06a.build/Debug/mcm10.06a.build/Objects-normal/x86_64/main.o /Users/joshuakennedy/Documents/Projects/CIS\ 235/mcm10.06a/mcm10.06a/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/SDKSettings.plist
+c000000005267AA6D000000000000044C
+t1382525549
+s1100
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/CoreServices/SystemVersion.plist
+c000000005267AA6D00000000000001DB
+t1382525549
+s475
+
+N/Users/joshuakennedy/Documents/Projects/CIS 235/mcm10.06a/DerivedData/mcm10.06a/Build/Intermediates/mcm10.06a.build/Debug/mcm10.06a.build/Objects-normal/x86_64/main.o
+t2
+s0
+
+N/Users/joshuakennedy/Documents/Projects/CIS 235/mcm10.06a/mcm10.06a/main.cpp
+c0000000052EAD9EF00000000000014A2
+t1391122927
+s5282
+
+CBuild AST from /Users/joshuakennedy/Documents/Projects/CIS\ 235/mcm10.06a/mcm10.06a/main.cpp
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependenciese76fa670119bb841^4147ab70119bb841^---0#1#1#--18"Check dependencies36"51CA7E8E-CBAE-45DD-B674-FDB4535F0F6B-
+
+CCompileC DerivedData/mcm10.06a/Build/Intermediates/mcm10.06a.build/Debug/mcm10.06a.build/Objects-normal/x86_64/main.o /Users/joshuakennedy/Documents/Projects/CIS\ 235/mcm10.06a/mcm10.06a/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s412815728.671705
+e412815729.044459
+r0
+xCompileC
+xDerivedData/mcm10.06a/Build/Intermediates/mcm10.06a.build/Debug/mcm10.06a.build/Objects-normal/x86_64/main.o
+x/Users/joshuakennedy/Documents/Projects/CIS 235/mcm10.06a/mcm10.06a/main.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/joshuakennedy/Documents/Projects/CIS 235/mcm10.06a/mcm10.06a/main.cpp
+o/Users/joshuakennedy/Documents/Projects/CIS 235/mcm10.06a/mcm10.06a/main.cpp:133:5: error: redefinition of 'main'
+oint main()
+o    ^
+o/Users/joshuakennedy/Documents/Projects/CIS 235/mcm10.06a/mcm10.06a/main.cpp:60:5: note: previous definition is here
+oint main ()
+o    ^
+o1 error generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection84"Compile /Users/joshuakennedy/Documents/Projects/CIS 235/mcm10.06a/mcm10.06a/main.cpp198"CompileC DerivedData/mcm10.06a/Build/Intermediates/mcm10.06a.build/Debug/mcm10.06a.build/Objects-normal/x86_64/main.o mcm10.06a/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler0e14ac70119bb841^24610b71119bb841^-285"/Users/joshuakennedy/Documents/Projects/CIS 235/mcm10.06a/mcm10.06a/main.cpp:133:5: error: redefinition of 'main'int main()    ^/Users/joshuakennedy/Documents/Projects/CIS 235/mcm10.06a/mcm10.06a/main.cpp:60:5: note: previous definition is hereint main ()    ^1 error generated.1(36%IDEClangDiagnosticActivityLogMessage2@22"Redefinition of 'main'-412815729#18446744073709551615#0#1(2@27"Previous definition is here-412815729#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@85"file:///Users/joshuakennedy/Documents/Projects/CIS%20235/mcm10.06a/mcm10.06a/main.cpp0000000000000000^59#4#59#4#2090#0#21"Apple LLVM 5.0 Notice--2#27"com.apple.dt.IDE.diagnostic3@85"file:///Users/joshuakennedy/Documents/Projects/CIS%20235/mcm10.06a/mcm10.06a/main.cpp0000000000000000^132#4#132#4#3964#0#14"Semantic Issue--0#0#1#-19%DVTDocumentLocation4@85"file:///Users/joshuakennedy/Documents/Projects/CIS%20235/mcm10.06a/mcm10.06a/main.cpp0000000000000000^3385"CompileC DerivedData/mcm10.06a/Build/Intermediates/mcm10.06a.build/Debug/mcm10.06a.build/Objects-normal/x86_64/main.o mcm10.06a/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/joshuakennedy/Documents/Projects/CIS 235/mcm10.06a"    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu++11 -stdlib=libc++ -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.9 -g -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/joshuakennedy/Documents/Projects/CIS\ 235/mcm10.06a/DerivedData/mcm10.06a/Build/Intermediates/mcm10.06a.build/Debug/mcm10.06a.build/mcm10.06a-generated-files.hmap -I/Users/joshuakennedy/Documents/Projects/CIS\ 235/mcm10.06a/DerivedData/mcm10.06a/Build/Intermediates/mcm10.06a.build/Debug/mcm10.06a.build/mcm10.06a-own-target-headers.hmap -I/Users/joshuakennedy/Documents/Projects/CIS\ 235/mcm10.06a/DerivedData/mcm10.06a/Build/Intermediates/mcm10.06a.build/Debug/mcm10.06a.build/mcm10.06a-all-target-headers.hmap -iquote /Users/joshuakennedy/Documents/Projects/CIS\ 235/mcm10.06a/DerivedData/mcm10.06a/Build/Intermediates/mcm10.06a.build/Debug/mcm10.06a.build/mcm10.06a-project-headers.hmap -I/Users/joshuakennedy/Documents/Projects/CIS\ 235/mcm10.06a/DerivedData/mcm10.06a/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/joshuakennedy/Documents/Projects/CIS\ 235/mcm10.06a/DerivedData/mcm10.06a/Build/Intermediates/mcm10.06a.build/Debug/mcm10.06a.build/DerivedSources/x86_64 -I/Users/joshuakennedy/Documents/Projects/CIS\ 235/mcm10.06a/DerivedData/mcm10.06a/Build/Intermediates/mcm10.06a.build/Debug/mcm10.06a.build/DerivedSources -F/Users/joshuakennedy/Documents/Projects/CIS\ 235/mcm10.06a/DerivedData/mcm10.06a/Build/Products/Debug -MMD -MT dependencies -MF /Users/joshuakennedy/Documents/Projects/CIS\ 235/mcm10.06a/DerivedData/mcm10.06a/Build/Intermediates/mcm10.06a.build/Debug/mcm10.06a.build/Objects-normal/x86_64/main.d --serialize-diagnostics /Users/joshuakennedy/Documents/Projects/CIS\ 235/mcm10.06a/DerivedData/mcm10.06a/Build/Intermediates/mcm10.06a.build/Debug/mcm10.06a.build/Objects-normal/x86_64/main.dia -c /Users/joshuakennedy/Documents/Projects/CIS\ 235/mcm10.06a/mcm10.06a/main.cpp -o /Users/joshuakennedy/Documents/Projects/CIS\ 235/mcm10.06a/DerivedData/mcm10.06a/Build/Intermediates/mcm10.06a.build/Debug/mcm10.06a.build/Objects-normal/x86_64/main.o36"008D36DD-36B5-487D-BAA3-54C635B9BBFD-
+bFF66DC3B-F3A1-4DB5-B841-BE0EAF6E7D98
+
+CLd /Users/joshuakennedy/Documents/Projects/CIS\ 235/mcm10.06a/DerivedData/mcm10.06a/Build/Products/Debug/mcm10.06a normal x86_64
+r0
+

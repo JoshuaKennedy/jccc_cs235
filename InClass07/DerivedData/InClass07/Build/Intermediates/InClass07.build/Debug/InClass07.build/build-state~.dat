@@ -1,0 +1,159 @@
+TInClass07
+v6
+r1
+cCheck dependencies
+cCompileC DerivedData/InClass07/Build/Intermediates/InClass07.build/Debug/InClass07.build/Objects-normal/x86_64/FullName.o /Users/joshuakennedy/Documents/Projects/CIS\ 235/InClass07/InClass07/FullName.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/InClass07/Build/Intermediates/InClass07.build/Debug/InClass07.build/Objects-normal/x86_64/Person.o /Users/joshuakennedy/Documents/Projects/CIS\ 235/InClass07/InClass07/Person.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/InClass07/Build/Intermediates/InClass07.build/Debug/InClass07.build/Objects-normal/x86_64/InClassExercise06Driver.o /Users/joshuakennedy/Documents/Projects/CIS\ 235/InClass07/InClass07/InClassExercise06Driver.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/SDKSettings.plist
+c000000005267AA6D000000000000044C
+t1382525549
+s1100
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/CoreServices/SystemVersion.plist
+c000000005267AA6D00000000000001DB
+t1382525549
+s475
+
+N/Users/joshuakennedy/Documents/Projects/CIS 235/InClass07/DerivedData/InClass07/Build/Intermediates/InClass07.build/Debug/InClass07.build/Objects-normal/x86_64/FullName.o
+t2
+s0
+
+N/Users/joshuakennedy/Documents/Projects/CIS 235/InClass07/DerivedData/InClass07/Build/Intermediates/InClass07.build/Debug/InClass07.build/Objects-normal/x86_64/InClassExercise06Driver.o
+t2
+s0
+
+N/Users/joshuakennedy/Documents/Projects/CIS 235/InClass07/DerivedData/InClass07/Build/Intermediates/InClass07.build/Debug/InClass07.build/Objects-normal/x86_64/Person.o
+t2
+s0
+
+N/Users/joshuakennedy/Documents/Projects/CIS 235/InClass07/InClass07/FullName.cpp
+c0000000053179C360000000000000E44
+t1394056246
+s3652
+
+N/Users/joshuakennedy/Documents/Projects/CIS 235/InClass07/InClass07/InClassExercise06Driver.cpp
+c00000000531F10EF00000000000007FB
+t1394544879
+s2043
+
+N/Users/joshuakennedy/Documents/Projects/CIS 235/InClass07/InClass07/Person.cpp
+c000000005317A47A0000000000000E14
+t1394058362
+s3604
+
+CBuild AST from /Users/joshuakennedy/Documents/Projects/CIS\ 235/InClass07/InClass07/FullName.cpp
+r0
+
+CBuild AST from /Users/joshuakennedy/Documents/Projects/CIS\ 235/InClass07/InClass07/InClassExercise06Driver.cpp
+r0
+
+CBuild AST from /Users/joshuakennedy/Documents/Projects/CIS\ 235/InClass07/InClass07/Person.cpp
+r0
+
+CBuild AST from /Users/joshuakennedy/Documents/Projects/CIS\ 235/InClass07/InClass07/main.cpp
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependenciesd8f4ec6f48cfb841^3739f06f48cfb841^---0#1#1#--18"Check dependencies36"EBAEF064-E391-43C8-B16F-C95C265B3922-
+
+CCompileC DerivedData/InClass07/Build/Intermediates/InClass07.build/Debug/InClass07.build/Objects-normal/x86_64/FullName.o /Users/joshuakennedy/Documents/Projects/CIS\ 235/InClass07/InClass07/FullName.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s416237679.941554
+e416237680.450931
+r0
+xCompileC
+xDerivedData/InClass07/Build/Intermediates/InClass07.build/Debug/InClass07.build/Objects-normal/x86_64/FullName.o
+x/Users/joshuakennedy/Documents/Projects/CIS 235/InClass07/InClass07/FullName.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/joshuakennedy/Documents/Projects/CIS 235/InClass07/InClass07/FullName.cpp
+d/Users/joshuakennedy/Documents/Projects/CIS 235/InClass07/InClass07/FullName.h
+o/Users/joshuakennedy/Documents/Projects/CIS 235/InClass07/InClass07/FullName.cpp:62:4: error: use of undeclared identifier 'strcpy_s'
+o   strcpy_s(first, ln,fr);
+o   ^
+o/Users/joshuakennedy/Documents/Projects/CIS 235/InClass07/InClass07/FullName.cpp:60:24: warning: implicit conversion loses integer precision: 'unsigned long' to 'int' [-Wshorten-64-to-32]
+o   int ln = strlen(fr) + 1;
+o       ~~   ~~~~~~~~~~~^~~
+o/Users/joshuakennedy/Documents/Projects/CIS 235/InClass07/InClass07/FullName.cpp:75:4: error: use of undeclared identifier 'strcpy_s'
+o   strcpy_s(last, ln,ls);
+o   ^
+o/Users/joshuakennedy/Documents/Projects/CIS 235/InClass07/InClass07/FullName.cpp:73:24: warning: implicit conversion loses integer precision: 'unsigned long' to 'int' [-Wshorten-64-to-32]
+o   int ln = strlen(ls) + 1;
+o       ~~   ~~~~~~~~~~~^~~
+o2 warnings and 2 errors generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection88"Compile /Users/joshuakennedy/Documents/Projects/CIS 235/InClass07/InClass07/FullName.cpp206"CompileC DerivedData/InClass07/Build/Intermediates/InClass07.build/Debug/InClass07.build/Objects-normal/x86_64/FullName.o InClass07/FullName.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler7e71f16f48cfb841^3f6e737048cfb841^-852"/Users/joshuakennedy/Documents/Projects/CIS 235/InClass07/InClass07/FullName.cpp:62:4: error: use of undeclared identifier 'strcpy_s'   strcpy_s(first, ln,fr);   ^/Users/joshuakennedy/Documents/Projects/CIS 235/InClass07/InClass07/FullName.cpp:60:24: warning: implicit conversion loses integer precision: 'unsigned long' to 'int' [-Wshorten-64-to-32]   int ln = strlen(fr) + 1;       ~~   ~~~~~~~~~~~^~~/Users/joshuakennedy/Documents/Projects/CIS 235/InClass07/InClass07/FullName.cpp:75:4: error: use of undeclared identifier 'strcpy_s'   strcpy_s(last, ln,ls);   ^/Users/joshuakennedy/Documents/Projects/CIS 235/InClass07/InClass07/FullName.cpp:73:24: warning: implicit conversion loses integer precision: 'unsigned long' to 'int' [-Wshorten-64-to-32]   int ln = strlen(ls) + 1;       ~~   ~~~~~~~~~~~^~~2 warnings and 2 errors generated.4(36%IDEClangDiagnosticActivityLogMessage2@39"Use of undeclared identifier 'strcpy_s'-416237680#18446744073709551615#0#-2#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@89"file:///Users/joshuakennedy/Documents/Projects/CIS%20235/InClass07/InClass07/FullName.cpp0000000000000000^61#3#61#3#1223#0#14"Semantic Issue--2@69"Implicit conversion loses integer precision: 'unsigned long' to 'int'-416237680#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@89"file:///Users/joshuakennedy/Documents/Projects/CIS%20235/InClass07/InClass07/FullName.cpp0000000000000000^59#23#59#23#1188#0#22"Value Conversion Issue2(3@89"file:///Users/joshuakennedy/Documents/Projects/CIS%20235/InClass07/InClass07/FullName.cpp0000000000000000^59#12#59#26#1177#13#3@89"file:///Users/joshuakennedy/Documents/Projects/CIS%20235/InClass07/InClass07/FullName.cpp0000000000000000^59#7#59#9#1172#0#-2@39"Use of undeclared identifier 'strcpy_s'-416237680#18446744073709551615#0#-2#27"com.apple.dt.IDE.diagnostic3@89"file:///Users/joshuakennedy/Documents/Projects/CIS%20235/InClass07/InClass07/FullName.cpp0000000000000000^74#3#74#3#1460#0#14"Semantic Issue--2@69"Implicit conversion loses integer precision: 'unsigned long' to 'int'-416237680#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@89"file:///Users/joshuakennedy/Documents/Projects/CIS%20235/InClass07/InClass07/FullName.cpp0000000000000000^72#23#72#23#1426#0#22"Value Conversion Issue2(3@89"file:///Users/joshuakennedy/Documents/Projects/CIS%20235/InClass07/InClass07/FullName.cpp0000000000000000^72#12#72#26#1415#13#3@89"file:///Users/joshuakennedy/Documents/Projects/CIS%20235/InClass07/InClass07/FullName.cpp0000000000000000^72#7#72#9#1410#0#-0#0#1#-19%DVTDocumentLocation4@89"file:///Users/joshuakennedy/Documents/Projects/CIS%20235/InClass07/InClass07/FullName.cpp0000000000000000^3409"CompileC DerivedData/InClass07/Build/Intermediates/InClass07.build/Debug/InClass07.build/Objects-normal/x86_64/FullName.o InClass07/FullName.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/joshuakennedy/Documents/Projects/CIS 235/InClass07"    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu++11 -stdlib=libc++ -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.9 -g -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/joshuakennedy/Documents/Projects/CIS\ 235/InClass07/DerivedData/InClass07/Build/Intermediates/InClass07.build/Debug/InClass07.build/InClass07-generated-files.hmap -I/Users/joshuakennedy/Documents/Projects/CIS\ 235/InClass07/DerivedData/InClass07/Build/Intermediates/InClass07.build/Debug/InClass07.build/InClass07-own-target-headers.hmap -I/Users/joshuakennedy/Documents/Projects/CIS\ 235/InClass07/DerivedData/InClass07/Build/Intermediates/InClass07.build/Debug/InClass07.build/InClass07-all-target-headers.hmap -iquote /Users/joshuakennedy/Documents/Projects/CIS\ 235/InClass07/DerivedData/InClass07/Build/Intermediates/InClass07.build/Debug/InClass07.build/InClass07-project-headers.hmap -I/Users/joshuakennedy/Documents/Projects/CIS\ 235/InClass07/DerivedData/InClass07/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/joshuakennedy/Documents/Projects/CIS\ 235/InClass07/DerivedData/InClass07/Build/Intermediates/InClass07.build/Debug/InClass07.build/DerivedSources/x86_64 -I/Users/joshuakennedy/Documents/Projects/CIS\ 235/InClass07/DerivedData/InClass07/Build/Intermediates/InClass07.build/Debug/InClass07.build/DerivedSources -F/Users/joshuakennedy/Documents/Projects/CIS\ 235/InClass07/DerivedData/InClass07/Build/Products/Debug -MMD -MT dependencies -MF /Users/joshuakennedy/Documents/Projects/CIS\ 235/InClass07/DerivedData/InClass07/Build/Intermediates/InClass07.build/Debug/InClass07.build/Objects-normal/x86_64/FullName.d --serialize-diagnostics /Users/joshuakennedy/Documents/Projects/CIS\ 235/InClass07/DerivedData/InClass07/Build/Intermediates/InClass07.build/Debug/InClass07.build/Objects-normal/x86_64/FullName.dia -c /Users/joshuakennedy/Documents/Projects/CIS\ 235/InClass07/InClass07/FullName.cpp -o /Users/joshuakennedy/Documents/Projects/CIS\ 235/InClass07/DerivedData/InClass07/Build/Intermediates/InClass07.build/Debug/InClass07.build/Objects-normal/x86_64/FullName.o36"48A57BAE-B0E1-4E97-9EB3-75097A755833-
+b2E952867-452B-404D-8189-0B8E7C321CCB
+
+CCompileC DerivedData/InClass07/Build/Intermediates/InClass07.build/Debug/InClass07.build/Objects-normal/x86_64/InClassExercise06Driver.o /Users/joshuakennedy/Documents/Projects/CIS\ 235/InClass07/InClass07/InClassExercise06Driver.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s416237679.941971
+e416237680.525527
+r1
+xCompileC
+xDerivedData/InClass07/Build/Intermediates/InClass07.build/Debug/InClass07.build/Objects-normal/x86_64/InClassExercise06Driver.o
+x/Users/joshuakennedy/Documents/Projects/CIS 235/InClass07/InClass07/InClassExercise06Driver.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/joshuakennedy/Documents/Projects/CIS 235/InClass07/InClass07/InClassExercise06Driver.cpp
+d/Users/joshuakennedy/Documents/Projects/CIS 235/InClass07/InClass07/FullName.h
+d/Users/joshuakennedy/Documents/Projects/CIS 235/InClass07/InClass07/Person.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection103"Compile /Users/joshuakennedy/Documents/Projects/CIS 235/InClass07/InClass07/InClassExercise06Driver.cpp236"CompileC DerivedData/InClass07/Build/Intermediates/InClass07.build/Debug/InClass07.build/Objects-normal/x86_64/InClassExercise06Driver.o InClass07/InClassExercise06Driver.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compileref72f16f48cfb841^838a867048cfb841^---0#0#1#-19%DVTDocumentLocation2@104"file:///Users/joshuakennedy/Documents/Projects/CIS%20235/InClass07/InClass07/InClassExercise06Driver.cpp0000000000000000^3499"CompileC DerivedData/InClass07/Build/Intermediates/InClass07.build/Debug/InClass07.build/Objects-normal/x86_64/InClassExercise06Driver.o InClass07/InClassExercise06Driver.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/joshuakennedy/Documents/Projects/CIS 235/InClass07"    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu++11 -stdlib=libc++ -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.9 -g -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/joshuakennedy/Documents/Projects/CIS\ 235/InClass07/DerivedData/InClass07/Build/Intermediates/InClass07.build/Debug/InClass07.build/InClass07-generated-files.hmap -I/Users/joshuakennedy/Documents/Projects/CIS\ 235/InClass07/DerivedData/InClass07/Build/Intermediates/InClass07.build/Debug/InClass07.build/InClass07-own-target-headers.hmap -I/Users/joshuakennedy/Documents/Projects/CIS\ 235/InClass07/DerivedData/InClass07/Build/Intermediates/InClass07.build/Debug/InClass07.build/InClass07-all-target-headers.hmap -iquote /Users/joshuakennedy/Documents/Projects/CIS\ 235/InClass07/DerivedData/InClass07/Build/Intermediates/InClass07.build/Debug/InClass07.build/InClass07-project-headers.hmap -I/Users/joshuakennedy/Documents/Projects/CIS\ 235/InClass07/DerivedData/InClass07/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/joshuakennedy/Documents/Projects/CIS\ 235/InClass07/DerivedData/InClass07/Build/Intermediates/InClass07.build/Debug/InClass07.build/DerivedSources/x86_64 -I/Users/joshuakennedy/Documents/Projects/CIS\ 235/InClass07/DerivedData/InClass07/Build/Intermediates/InClass07.build/Debug/InClass07.build/DerivedSources -F/Users/joshuakennedy/Documents/Projects/CIS\ 235/InClass07/DerivedData/InClass07/Build/Products/Debug -MMD -MT dependencies -MF /Users/joshuakennedy/Documents/Projects/CIS\ 235/InClass07/DerivedData/InClass07/Build/Intermediates/InClass07.build/Debug/InClass07.build/Objects-normal/x86_64/InClassExercise06Driver.d --serialize-diagnostics /Users/joshuakennedy/Documents/Projects/CIS\ 235/InClass07/DerivedData/InClass07/Build/Intermediates/InClass07.build/Debug/InClass07.build/Objects-normal/x86_64/InClassExercise06Driver.dia -c /Users/joshuakennedy/Documents/Projects/CIS\ 235/InClass07/InClass07/InClassExercise06Driver.cpp -o /Users/joshuakennedy/Documents/Projects/CIS\ 235/InClass07/DerivedData/InClass07/Build/Intermediates/InClass07.build/Debug/InClass07.build/Objects-normal/x86_64/InClassExercise06Driver.o36"92A1A5CA-8F99-4615-9CA7-B607ECB69944-
+b2E952867-452B-404D-8189-0B8E7C321CCB
+
+CCompileC DerivedData/InClass07/Build/Intermediates/InClass07.build/Debug/InClass07.build/Objects-normal/x86_64/Person.o /Users/joshuakennedy/Documents/Projects/CIS\ 235/InClass07/InClass07/Person.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s416237679.941755
+e416237680.451501
+r0
+xCompileC
+xDerivedData/InClass07/Build/Intermediates/InClass07.build/Debug/InClass07.build/Objects-normal/x86_64/Person.o
+x/Users/joshuakennedy/Documents/Projects/CIS 235/InClass07/InClass07/Person.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/joshuakennedy/Documents/Projects/CIS 235/InClass07/InClass07/Person.cpp
+d/Users/joshuakennedy/Documents/Projects/CIS 235/InClass07/InClass07/Person.h
+d/Users/joshuakennedy/Documents/Projects/CIS 235/InClass07/InClass07/FullName.h
+o/Users/joshuakennedy/Documents/Projects/CIS 235/InClass07/InClass07/Person.cpp:16:9: error: constructor for 'Person' must explicitly initialize the const member 'yearBorn'
+oPerson::Person(void)  // STUDENTS:  use MIL for John D Doe born in 1900
+o        ^
+oIn file included from /Users/joshuakennedy/Documents/Projects/CIS 235/InClass07/InClass07/Person.cpp:1:
+o/Users/joshuakennedy/Documents/Projects/CIS 235/InClass07/InClass07/Person.h:45:13: note: declared here
+o        const int  yearBorn;
+o                   ^
+o/Users/joshuakennedy/Documents/Projects/CIS 235/InClass07/InClass07/Person.cpp:21:9: error: constructor for 'Person' must explicitly initialize the const member 'yearBorn'
+oPerson::Person( const Person & r) // STUDENTS:  use MIL instance fields name and yearBorn
+o        ^
+oIn file included from /Users/joshuakennedy/Documents/Projects/CIS 235/InClass07/InClass07/Person.cpp:1:
+o/Users/joshuakennedy/Documents/Projects/CIS 235/InClass07/InClass07/Person.h:45:13: note: declared here
+o        const int  yearBorn;
+o                   ^
+o/Users/joshuakennedy/Documents/Projects/CIS 235/InClass07/InClass07/Person.cpp:29:9: error: constructor for 'Person' must explicitly initialize the const member 'yearBorn'
+oPerson::Person( const char * first, char middle, const char * last, int year,
+o        ^
+oIn file included from /Users/joshuakennedy/Documents/Projects/CIS 235/InClass07/InClass07/Person.cpp:1:
+o/Users/joshuakennedy/Documents/Projects/CIS 235/InClass07/InClass07/Person.h:45:13: note: declared here
+o        const int  yearBorn;
+o                   ^
+o/Users/joshuakennedy/Documents/Projects/CIS 235/InClass07/InClass07/Person.cpp:37:9: error: constructor for 'Person' must explicitly initialize the const member 'yearBorn'
+oPerson::Person( const FullName & r, int year)    //  STUDENTS:    use MIL for name and yearBorn
+o        ^
+oIn file included from /Users/joshuakennedy/Documents/Projects/CIS 235/InClass07/InClass07/Person.cpp:1:
+o/Users/joshuakennedy/Documents/Projects/CIS 235/InClass07/InClass07/Person.h:45:13: note: declared here
+o        const int  yearBorn;
+o                   ^
+o4 errors generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection86"Compile /Users/joshuakennedy/Documents/Projects/CIS 235/InClass07/InClass07/Person.cpp202"CompileC DerivedData/InClass07/Build/Intermediates/InClass07.build/Debug/InClass07.build/Objects-normal/x86_64/Person.o InClass07/Person.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler6d71f16f48cfb841^4f95737048cfb841^-2116"/Users/joshuakennedy/Documents/Projects/CIS 235/InClass07/InClass07/Person.cpp:16:9: error: constructor for 'Person' must explicitly initialize the const member 'yearBorn'Person::Person(void)  // STUDENTS:  use MIL for John D Doe born in 1900        ^In file included from /Users/joshuakennedy/Documents/Projects/CIS 235/InClass07/InClass07/Person.cpp:1:/Users/joshuakennedy/Documents/Projects/CIS 235/InClass07/InClass07/Person.h:45:13: note: declared here        const int  yearBorn;                   ^/Users/joshuakennedy/Documents/Projects/CIS 235/InClass07/InClass07/Person.cpp:21:9: error: constructor for 'Person' must explicitly initialize the const member 'yearBorn'Person::Person( const Person & r) // STUDENTS:  use MIL instance fields name and yearBorn        ^In file included from /Users/joshuakennedy/Documents/Projects/CIS 235/InClass07/InClass07/Person.cpp:1:/Users/joshuakennedy/Documents/Projects/CIS 235/InClass07/InClass07/Person.h:45:13: note: declared here        const int  yearBorn;                   ^/Users/joshuakennedy/Documents/Projects/CIS 235/InClass07/InClass07/Person.cpp:29:9: error: constructor for 'Person' must explicitly initialize the const member 'yearBorn'Person::Person( const char * first, char middle, const char * last, int year,        ^In file included from /Users/joshuakennedy/Documents/Projects/CIS 235/InClass07/InClass07/Person.cpp:1:/Users/joshuakennedy/Documents/Projects/CIS 235/InClass07/InClass07/Person.h:45:13: note: declared here        const int  yearBorn;                   ^/Users/joshuakennedy/Documents/Projects/CIS 235/InClass07/InClass07/Person.cpp:37:9: error: constructor for 'Person' must explicitly initialize the const member 'yearBorn'Person::Person( const FullName & r, int year)    //  STUDENTS:    use MIL for name and yearBorn        ^In file included from /Users/joshuakennedy/Documents/Projects/CIS 235/InClass07/InClass07/Person.cpp:1:/Users/joshuakennedy/Documents/Projects/CIS 235/InClass07/InClass07/Person.h:45:13: note: declared here        const int  yearBorn;                   ^4 errors generated.4(36%IDEClangDiagnosticActivityLogMessage2@79"Constructor for 'Person' must explicitly initialize the const member 'yearBorn'-416237680#18446744073709551615#0#1(2@13"Declared here-416237680#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@85"file:///Users/joshuakennedy/Documents/Projects/CIS%20235/InClass07/InClass07/Person.h0000000000000000^44#12#44#12#1528#0#21"Apple LLVM 5.0 Notice--2#27"com.apple.dt.IDE.diagnostic3@87"file:///Users/joshuakennedy/Documents/Projects/CIS%20235/InClass07/InClass07/Person.cpp0000000000000000^15#8#15#8#433#0#14"Semantic Issue--2@79"Constructor for 'Person' must explicitly initialize the const member 'yearBorn'-416237680#18446744073709551615#0#1(2@13"Declared here-416237680#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@85"file:///Users/joshuakennedy/Documents/Projects/CIS%20235/InClass07/InClass07/Person.h0000000000000000^44#12#44#12#1528#0#21"Apple LLVM 5.0 Notice--2#27"com.apple.dt.IDE.diagnostic3@87"file:///Users/joshuakennedy/Documents/Projects/CIS%20235/InClass07/InClass07/Person.cpp0000000000000000^20#8#20#8#587#0#14"Semantic Issue--2@79"Constructor for 'Person' must explicitly initialize the const member 'yearBorn'-416237680#18446744073709551615#0#1(2@13"Declared here-416237680#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@85"file:///Users/joshuakennedy/Documents/Projects/CIS%20235/InClass07/InClass07/Person.h0000000000000000^44#12#44#12#1528#0#21"Apple LLVM 5.0 Notice--2#27"com.apple.dt.IDE.diagnostic3@87"file:///Users/joshuakennedy/Documents/Projects/CIS%20235/InClass07/InClass07/Person.cpp0000000000000000^28#8#28#8#796#0#14"Semantic Issue--2@79"Constructor for 'Person' must explicitly initialize the const member 'yearBorn'-416237680#18446744073709551615#0#1(2@13"Declared here-416237680#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@85"file:///Users/joshuakennedy/Documents/Projects/CIS%20235/InClass07/InClass07/Person.h0000000000000000^44#12#44#12#1528#0#21"Apple LLVM 5.0 Notice--2#27"com.apple.dt.IDE.diagnostic3@87"file:///Users/joshuakennedy/Documents/Projects/CIS%20235/InClass07/InClass07/Person.cpp0000000000000000^36#8#36#8#1135#0#14"Semantic Issue--0#0#1#-19%DVTDocumentLocation4@87"file:///Users/joshuakennedy/Documents/Projects/CIS%20235/InClass07/InClass07/Person.cpp0000000000000000^3397"CompileC DerivedData/InClass07/Build/Intermediates/InClass07.build/Debug/InClass07.build/Objects-normal/x86_64/Person.o InClass07/Person.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/joshuakennedy/Documents/Projects/CIS 235/InClass07"    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu++11 -stdlib=libc++ -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.9 -g -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/joshuakennedy/Documents/Projects/CIS\ 235/InClass07/DerivedData/InClass07/Build/Intermediates/InClass07.build/Debug/InClass07.build/InClass07-generated-files.hmap -I/Users/joshuakennedy/Documents/Projects/CIS\ 235/InClass07/DerivedData/InClass07/Build/Intermediates/InClass07.build/Debug/InClass07.build/InClass07-own-target-headers.hmap -I/Users/joshuakennedy/Documents/Projects/CIS\ 235/InClass07/DerivedData/InClass07/Build/Intermediates/InClass07.build/Debug/InClass07.build/InClass07-all-target-headers.hmap -iquote /Users/joshuakennedy/Documents/Projects/CIS\ 235/InClass07/DerivedData/InClass07/Build/Intermediates/InClass07.build/Debug/InClass07.build/InClass07-project-headers.hmap -I/Users/joshuakennedy/Documents/Projects/CIS\ 235/InClass07/DerivedData/InClass07/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/joshuakennedy/Documents/Projects/CIS\ 235/InClass07/DerivedData/InClass07/Build/Intermediates/InClass07.build/Debug/InClass07.build/DerivedSources/x86_64 -I/Users/joshuakennedy/Documents/Projects/CIS\ 235/InClass07/DerivedData/InClass07/Build/Intermediates/InClass07.build/Debug/InClass07.build/DerivedSources -F/Users/joshuakennedy/Documents/Projects/CIS\ 235/InClass07/DerivedData/InClass07/Build/Products/Debug -MMD -MT dependencies -MF /Users/joshuakennedy/Documents/Projects/CIS\ 235/InClass07/DerivedData/InClass07/Build/Intermediates/InClass07.build/Debug/InClass07.build/Objects-normal/x86_64/Person.d --serialize-diagnostics /Users/joshuakennedy/Documents/Projects/CIS\ 235/InClass07/DerivedData/InClass07/Build/Intermediates/InClass07.build/Debug/InClass07.build/Objects-normal/x86_64/Person.dia -c /Users/joshuakennedy/Documents/Projects/CIS\ 235/InClass07/InClass07/Person.cpp -o /Users/joshuakennedy/Documents/Projects/CIS\ 235/InClass07/DerivedData/InClass07/Build/Intermediates/InClass07.build/Debug/InClass07.build/Objects-normal/x86_64/Person.o36"2780623B-1C38-4891-95D7-C03D5703FC34-
+b2E952867-452B-404D-8189-0B8E7C321CCB
+
+CCompileC DerivedData/InClass07/Build/Intermediates/InClass07.build/Debug/InClass07.build/Objects-normal/x86_64/main.o /Users/joshuakennedy/Documents/Projects/CIS\ 235/InClass07/InClass07/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CLd /Users/joshuakennedy/Documents/Projects/CIS\ 235/InClass07/DerivedData/InClass07/Build/Products/Debug/InClass07 normal x86_64
+r0
+

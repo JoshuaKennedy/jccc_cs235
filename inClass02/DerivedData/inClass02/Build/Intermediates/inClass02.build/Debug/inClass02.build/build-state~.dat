@@ -1,0 +1,102 @@
+TinClass02
+v6
+r1
+cCheck dependencies
+cCompileC DerivedData/inClass02/Build/Intermediates/inClass02.build/Debug/inClass02.build/Objects-normal/x86_64/clock.o /Users/joshuakennedy/Downloads/InClassExercise2/clock.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/inClass02/Build/Intermediates/inClass02.build/Debug/inClass02.build/Objects-normal/x86_64/clock01Driver.o /Users/joshuakennedy/Downloads/InClassExercise2/clock01Driver.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/SDKSettings.plist
+c000000005267AA6D000000000000044C
+t1382525549
+s1100
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/CoreServices/SystemVersion.plist
+c000000005267AA6D00000000000001DB
+t1382525549
+s475
+
+N/Users/joshuakennedy/Documents/Projects/CIS 235/inClass02/DerivedData/inClass02/Build/Intermediates/inClass02.build/Debug/inClass02.build/Objects-normal/x86_64/clock.o
+t2
+s0
+
+N/Users/joshuakennedy/Documents/Projects/CIS 235/inClass02/DerivedData/inClass02/Build/Intermediates/inClass02.build/Debug/inClass02.build/Objects-normal/x86_64/clock01Driver.o
+t2
+s0
+
+N/Users/joshuakennedy/Downloads/InClassExercise2/clock.cpp
+c0000000052E163AC0000000000000A1E
+t1390502828
+s2590
+
+N/Users/joshuakennedy/Downloads/InClassExercise2/clock01Driver.cpp
+c0000000052E1629300000000000002E5
+t1390502547
+s741
+
+CBuild AST from /Users/joshuakennedy/Documents/Projects/CIS\ 235/inClass02/inClass02/main.cpp
+r0
+
+CBuild AST from /Users/joshuakennedy/Downloads/InClassExercise2/clock.cpp
+r0
+
+CBuild AST from /Users/joshuakennedy/Downloads/InClassExercise2/clock01Driver.cpp
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependenciesbff1b92c9b91b841^8176bf2c9b91b841^---0#1#1#--18"Check dependencies36"DDFF6F4B-DCE2-4DEB-8486-8327468FFE1E-
+
+CCompileC DerivedData/inClass02/Build/Intermediates/inClass02.build/Debug/inClass02.build/Objects-normal/x86_64/clock.o /Users/joshuakennedy/Downloads/InClassExercise2/clock.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s412195628.740272
+e412195629.129414
+r0
+xCompileC
+xDerivedData/inClass02/Build/Intermediates/inClass02.build/Debug/inClass02.build/Objects-normal/x86_64/clock.o
+x/Users/joshuakennedy/Downloads/InClassExercise2/clock.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/joshuakennedy/Downloads/InClassExercise2/clock.cpp
+d/Users/joshuakennedy/Downloads/InClassExercise2/clock.h
+o/Users/joshuakennedy/Downloads/InClassExercise2/clock.cpp:13:17: warning: implicit conversion loses integer precision: 'long' to 'int' [-Wshorten-64-to-32]
+o        cHr = currentT / 60;                      // get current hour
+o            ~ ~~~~~~~~~^~~~
+o/Users/joshuakennedy/Downloads/InClassExercise2/clock.cpp:131:5: error: member function 'setMinutes' not viable: 'this' argument has type 'const Clock', but function is not marked const
+o    setMinutes(clock.getMinutes());
+o    ^~~~~~~~~~
+o/Users/joshuakennedy/Downloads/InClassExercise2/clock.cpp:57:13: note: 'setMinutes' declared here
+ovoid Clock::setMinutes(int m )
+o            ^
+o/Users/joshuakennedy/Downloads/InClassExercise2/clock.cpp:132:5: error: member function 'setHours' not viable: 'this' argument has type 'const Clock', but function is not marked const
+o    setHours(clock.getHours());
+o    ^~~~~~~~
+o/Users/joshuakennedy/Downloads/InClassExercise2/clock.cpp:65:13: note: 'setHours' declared here
+ovoid Clock::setHours(int h )
+o            ^
+o1 warning and 2 errors generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection65"Compile /Users/joshuakennedy/Downloads/InClassExercise2/clock.cpp238"CompileC DerivedData/inClass02/Build/Intermediates/inClass02.build/Debug/inClass02.build/Objects-normal/x86_64/clock.o /Users/joshuakennedy/Downloads/InClassExercise2/clock.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler4acebd2c9b91b841^211e212d9b91b841^-1036"/Users/joshuakennedy/Downloads/InClassExercise2/clock.cpp:13:17: warning: implicit conversion loses integer precision: 'long' to 'int' [-Wshorten-64-to-32]        cHr = currentT / 60;                      // get current hour            ~ ~~~~~~~~~^~~~/Users/joshuakennedy/Downloads/InClassExercise2/clock.cpp:131:5: error: member function 'setMinutes' not viable: 'this' argument has type 'const Clock', but function is not marked const    setMinutes(clock.getMinutes());    ^~~~~~~~~~/Users/joshuakennedy/Downloads/InClassExercise2/clock.cpp:57:13: note: 'setMinutes' declared herevoid Clock::setMinutes(int m )            ^/Users/joshuakennedy/Downloads/InClassExercise2/clock.cpp:132:5: error: member function 'setHours' not viable: 'this' argument has type 'const Clock', but function is not marked const    setHours(clock.getHours());    ^~~~~~~~/Users/joshuakennedy/Downloads/InClassExercise2/clock.cpp:65:13: note: 'setHours' declared herevoid Clock::setHours(int h )            ^1 warning and 2 errors generated.3(36%IDEClangDiagnosticActivityLogMessage2@60"Implicit conversion loses integer precision: 'long' to 'int'-412195629#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@64"file:///Users/joshuakennedy/Downloads/InClassExercise2/clock.cpp0000000000000000^12#16#12#16#447#0#22"Value Conversion Issue2(3@64"file:///Users/joshuakennedy/Downloads/InClassExercise2/clock.cpp0000000000000000^12#7#12#20#438#11#3@64"file:///Users/joshuakennedy/Downloads/InClassExercise2/clock.cpp0000000000000000^12#5#12#6#436#0#-2@113"Member function 'setMinutes' not viable: 'this' argument has type 'const Clock', but function is not marked const-412195629#18446744073709551615#0#1(2@26"'setMinutes' declared here-412195629#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@64"file:///Users/joshuakennedy/Downloads/InClassExercise2/clock.cpp0000000000000000^56#12#56#12#1176#0#14"Semantic Issue--2#27"com.apple.dt.IDE.diagnostic3@64"file:///Users/joshuakennedy/Downloads/InClassExercise2/clock.cpp0000000000000000^130#4#130#4#2517#0#14"Semantic Issue1(3@64"file:///Users/joshuakennedy/Downloads/InClassExercise2/clock.cpp0000000000000000^130#4#130#14#2517#0#-2@111"Member function 'setHours' not viable: 'this' argument has type 'const Clock', but function is not marked const-412195629#18446744073709551615#0#1(2@24"'setHours' declared here-412195629#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@64"file:///Users/joshuakennedy/Downloads/InClassExercise2/clock.cpp0000000000000000^64#12#64#12#1282#0#14"Semantic Issue--2#27"com.apple.dt.IDE.diagnostic3@64"file:///Users/joshuakennedy/Downloads/InClassExercise2/clock.cpp0000000000000000^131#4#131#4#2554#0#14"Semantic Issue1(3@64"file:///Users/joshuakennedy/Downloads/InClassExercise2/clock.cpp0000000000000000^131#4#131#12#2554#0#-0#0#1#-19%DVTDocumentLocation4@64"file:///Users/joshuakennedy/Downloads/InClassExercise2/clock.cpp0000000000000000^3408"CompileC DerivedData/inClass02/Build/Intermediates/inClass02.build/Debug/inClass02.build/Objects-normal/x86_64/clock.o /Users/joshuakennedy/Downloads/InClassExercise2/clock.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/joshuakennedy/Documents/Projects/CIS 235/inClass02"    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu++11 -stdlib=libc++ -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.9 -g -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/joshuakennedy/Documents/Projects/CIS\ 235/inClass02/DerivedData/inClass02/Build/Intermediates/inClass02.build/Debug/inClass02.build/inClass02-generated-files.hmap -I/Users/joshuakennedy/Documents/Projects/CIS\ 235/inClass02/DerivedData/inClass02/Build/Intermediates/inClass02.build/Debug/inClass02.build/inClass02-own-target-headers.hmap -I/Users/joshuakennedy/Documents/Projects/CIS\ 235/inClass02/DerivedData/inClass02/Build/Intermediates/inClass02.build/Debug/inClass02.build/inClass02-all-target-headers.hmap -iquote /Users/joshuakennedy/Documents/Projects/CIS\ 235/inClass02/DerivedData/inClass02/Build/Intermediates/inClass02.build/Debug/inClass02.build/inClass02-project-headers.hmap -I/Users/joshuakennedy/Documents/Projects/CIS\ 235/inClass02/DerivedData/inClass02/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/joshuakennedy/Documents/Projects/CIS\ 235/inClass02/DerivedData/inClass02/Build/Intermediates/inClass02.build/Debug/inClass02.build/DerivedSources/x86_64 -I/Users/joshuakennedy/Documents/Projects/CIS\ 235/inClass02/DerivedData/inClass02/Build/Intermediates/inClass02.build/Debug/inClass02.build/DerivedSources -F/Users/joshuakennedy/Documents/Projects/CIS\ 235/inClass02/DerivedData/inClass02/Build/Products/Debug -MMD -MT dependencies -MF /Users/joshuakennedy/Documents/Projects/CIS\ 235/inClass02/DerivedData/inClass02/Build/Intermediates/inClass02.build/Debug/inClass02.build/Objects-normal/x86_64/clock.d --serialize-diagnostics /Users/joshuakennedy/Documents/Projects/CIS\ 235/inClass02/DerivedData/inClass02/Build/Intermediates/inClass02.build/Debug/inClass02.build/Objects-normal/x86_64/clock.dia -c /Users/joshuakennedy/Downloads/InClassExercise2/clock.cpp -o /Users/joshuakennedy/Documents/Projects/CIS\ 235/inClass02/DerivedData/inClass02/Build/Intermediates/inClass02.build/Debug/inClass02.build/Objects-normal/x86_64/clock.o36"3C53A8C8-00FA-43A0-B2F9-914F27A232A8-
+b19BE20DE-3F3C-4378-90F4-C5EC93EB738D
+
+CCompileC DerivedData/inClass02/Build/Intermediates/inClass02.build/Debug/inClass02.build/Objects-normal/x86_64/clock01Driver.o /Users/joshuakennedy/Downloads/InClassExercise2/clock01Driver.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s412195628.740668
+e412195629.136346
+r1
+xCompileC
+xDerivedData/inClass02/Build/Intermediates/inClass02.build/Debug/inClass02.build/Objects-normal/x86_64/clock01Driver.o
+x/Users/joshuakennedy/Downloads/InClassExercise2/clock01Driver.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/joshuakennedy/Downloads/InClassExercise2/clock01Driver.cpp
+d/Users/joshuakennedy/Downloads/InClassExercise2/clock.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection73"Compile /Users/joshuakennedy/Downloads/InClassExercise2/clock01Driver.cpp254"CompileC DerivedData/inClass02/Build/Intermediates/inClass02.build/Debug/inClass02.build/Objects-normal/x86_64/clock01Driver.o /Users/joshuakennedy/Downloads/InClassExercise2/clock01Driver.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler3acebd2c9b91b841^08e8222d9b91b841^---0#0#1#-19%DVTDocumentLocation2@72"file:///Users/joshuakennedy/Downloads/InClassExercise2/clock01Driver.cpp0000000000000000^3456"CompileC DerivedData/inClass02/Build/Intermediates/inClass02.build/Debug/inClass02.build/Objects-normal/x86_64/clock01Driver.o /Users/joshuakennedy/Downloads/InClassExercise2/clock01Driver.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/joshuakennedy/Documents/Projects/CIS 235/inClass02"    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu++11 -stdlib=libc++ -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.9 -g -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/joshuakennedy/Documents/Projects/CIS\ 235/inClass02/DerivedData/inClass02/Build/Intermediates/inClass02.build/Debug/inClass02.build/inClass02-generated-files.hmap -I/Users/joshuakennedy/Documents/Projects/CIS\ 235/inClass02/DerivedData/inClass02/Build/Intermediates/inClass02.build/Debug/inClass02.build/inClass02-own-target-headers.hmap -I/Users/joshuakennedy/Documents/Projects/CIS\ 235/inClass02/DerivedData/inClass02/Build/Intermediates/inClass02.build/Debug/inClass02.build/inClass02-all-target-headers.hmap -iquote /Users/joshuakennedy/Documents/Projects/CIS\ 235/inClass02/DerivedData/inClass02/Build/Intermediates/inClass02.build/Debug/inClass02.build/inClass02-project-headers.hmap -I/Users/joshuakennedy/Documents/Projects/CIS\ 235/inClass02/DerivedData/inClass02/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/joshuakennedy/Documents/Projects/CIS\ 235/inClass02/DerivedData/inClass02/Build/Intermediates/inClass02.build/Debug/inClass02.build/DerivedSources/x86_64 -I/Users/joshuakennedy/Documents/Projects/CIS\ 235/inClass02/DerivedData/inClass02/Build/Intermediates/inClass02.build/Debug/inClass02.build/DerivedSources -F/Users/joshuakennedy/Documents/Projects/CIS\ 235/inClass02/DerivedData/inClass02/Build/Products/Debug -MMD -MT dependencies -MF /Users/joshuakennedy/Documents/Projects/CIS\ 235/inClass02/DerivedData/inClass02/Build/Intermediates/inClass02.build/Debug/inClass02.build/Objects-normal/x86_64/clock01Driver.d --serialize-diagnostics /Users/joshuakennedy/Documents/Projects/CIS\ 235/inClass02/DerivedData/inClass02/Build/Intermediates/inClass02.build/Debug/inClass02.build/Objects-normal/x86_64/clock01Driver.dia -c /Users/joshuakennedy/Downloads/InClassExercise2/clock01Driver.cpp -o /Users/joshuakennedy/Documents/Projects/CIS\ 235/inClass02/DerivedData/inClass02/Build/Intermediates/inClass02.build/Debug/inClass02.build/Objects-normal/x86_64/clock01Driver.o36"36E0B881-88A6-424C-81E0-2E9074275F73-
+b19BE20DE-3F3C-4378-90F4-C5EC93EB738D
+
+CCompileC DerivedData/inClass02/Build/Intermediates/inClass02.build/Debug/inClass02.build/Objects-normal/x86_64/main.o /Users/joshuakennedy/Documents/Projects/CIS\ 235/inClass02/inClass02/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CLd /Users/joshuakennedy/Documents/Projects/CIS\ 235/inClass02/DerivedData/inClass02/Build/Products/Debug/inClass02 normal x86_64
+r0
+

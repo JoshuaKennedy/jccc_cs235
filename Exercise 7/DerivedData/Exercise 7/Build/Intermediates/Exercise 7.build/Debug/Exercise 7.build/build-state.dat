@@ -1,0 +1,278 @@
+TExercise 7
+v6
+r1
+cCheck dependencies
+cCompileC DerivedData/Exercise\ 7/Build/Intermediates/Exercise\ 7.build/Debug/Exercise\ 7.build/Objects-normal/x86_64/main.o /Users/joshuakennedy/Documents/Projects/CIS\ 235/Exercise\ 7/Exercise\ 7/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/joshuakennedy/Documents/Projects/CIS\ 235/Exercise\ 7/DerivedData/Exercise\ 7/Build/Products/Debug/Exercise\ 7 normal x86_64
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk
+c0000000053473AE600000000000000AA
+t1397177062
+s170
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/SDKSettings.plist
+c000000005330DB8A000000000000044C
+t1395710858
+s1100
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/CoreServices/SystemVersion.plist
+c000000005330DB8A00000000000001DE
+t1395710858
+s478
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/libSystem.dylib
+c000000005330DB8D000000000000681C
+t1395710861
+s26652
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/libc++.dylib
+c000000005330DB8D000000000006E8B0
+t1395710861
+s452784
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcache.dylib
+c000000005330DB8D0000000000004734
+t1395710861
+s18228
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcommonCrypto.dylib
+c000000005330DB8D000000000000FC6C
+t1395710861
+s64620
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcompiler_rt.dylib
+c000000005330DB8D000000000000F6A0
+t1395710861
+s63136
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcopyfile.dylib
+c000000005330DB8D0000000000006254
+t1395710861
+s25172
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcorecrypto.dylib
+c000000005330DB8D000000000000E0F8
+t1395710861
+s57592
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libdispatch.dylib
+c000000005330DB8D000000000000D6DC
+t1395710861
+s55004
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libdyld.dylib
+c000000005330DB8D0000000000006308
+t1395710861
+s25352
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libkeymgr.dylib
+c000000005330DB8D0000000000004050
+t1395710861
+s16464
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/liblaunch.dylib
+c000000005330DB8D0000000000008570
+t1395710861
+s34160
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libmacho.dylib
+c000000005330DB8D0000000000005EA0
+t1395710861
+s24224
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libquarantine.dylib
+c000000005330DB8D0000000000005FAC
+t1395710861
+s24492
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libremovefile.dylib
+c000000005330DB8D0000000000004440
+t1395710861
+s17472
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_asl.dylib
+c000000005330DB8D000000000000AA28
+t1395710861
+s43560
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_blocks.dylib
+c000000005330DB8D0000000000003E2C
+t1395710861
+s15916
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_c.dylib
+c000000005330DB8D0000000000030B04
+t1395710861
+s199428
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_configuration.dylib
+c000000005330DB8D0000000000005E54
+t1395710861
+s24148
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_dnssd.dylib
+c000000005330DB8D0000000000006A90
+t1395710861
+s27280
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_info.dylib
+c000000005330DB8D00000000000178AC
+t1395710861
+s96428
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_kernel.dylib
+c000000005330DB8D000000000001ADC8
+t1395710861
+s110024
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_m.dylib
+c000000005330DB8D000000000001028C
+t1395710861
+s66188
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_malloc.dylib
+c000000005330DB8D0000000000008800
+t1395710861
+s34816
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_network.dylib
+c000000005330DB8D0000000000011090
+t1395710861
+s69776
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_notify.dylib
+c000000005330DB8D000000000000882C
+t1395710861
+s34860
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_platform.dylib
+c000000005330DB8D00000000000067AC
+t1395710861
+s26540
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_pthread.dylib
+c000000005330DB8D0000000000008DEC
+t1395710861
+s36332
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_sandbox.dylib
+c000000005330DB8D0000000000004C08
+t1395710861
+s19464
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_stats.dylib
+c000000005330DB8D0000000000002428
+t1395710861
+s9256
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libunc.dylib
+c000000005330DB8D000000000000439C
+t1395710861
+s17308
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libunwind.dylib
+c000000005330DB8D0000000000006768
+t1395710861
+s26472
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libxpc.dylib
+c000000005330DB8D00000000000172F4
+t1395710861
+s94964
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/include/module.map
+c000000005330DB920000000000000ADC
+t1395710866
+s2780
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.osx.a
+c0000000053473AD60000000000001770
+t1397177046
+s6000
+
+N/Users/joshuakennedy/Documents/Projects/CIS 235/Exercise 7/DerivedData/Exercise 7/Build/Intermediates/Exercise 7.build/Debug/Exercise 7.build/Objects-normal/x86_64/Exercise 7.LinkFileList
+c000000005366E29C00000000000000AB
+t1399251612
+s171
+
+N/Users/joshuakennedy/Documents/Projects/CIS 235/Exercise 7/DerivedData/Exercise 7/Build/Intermediates/Exercise 7.build/Debug/Exercise 7.build/Objects-normal/x86_64/main.o
+t1399252177
+s82200
+
+N/Users/joshuakennedy/Documents/Projects/CIS 235/Exercise 7/DerivedData/Exercise 7/Build/Products/Debug/Exercise 7
+t1399252160
+s19068
+
+N/Users/joshuakennedy/Documents/Projects/CIS 235/Exercise 7/Exercise 7/main.cpp
+c000000005366E4CF0000000000000B9D
+t1399252175
+s2973
+
+CBuild AST from /Users/joshuakennedy/Documents/Projects/CIS\ 235/Exercise\ 7/Exercise\ 7/main.cpp
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies00726e511c17b941^f9c06e511c17b941^---0#1#1#--18"Check dependencies36"3D388226-1DF9-4337-A711-2D5AE2B35E44-
+
+CCompileC DerivedData/Exercise\ 7/Build/Intermediates/Exercise\ 7.build/Debug/Exercise\ 7.build/Objects-normal/x86_64/main.o /Users/joshuakennedy/Documents/Projects/CIS\ 235/Exercise\ 7/Exercise\ 7/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s420944977.432485
+e420944977.848972
+r1
+xCompileC
+xDerivedData/Exercise 7/Build/Intermediates/Exercise 7.build/Debug/Exercise 7.build/Objects-normal/x86_64/main.o
+x/Users/joshuakennedy/Documents/Projects/CIS 235/Exercise 7/Exercise 7/main.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/joshuakennedy/Documents/Projects/CIS 235/Exercise 7/Exercise 7/main.cpp
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection86"Compile /Users/joshuakennedy/Documents/Projects/CIS 235/Exercise 7/Exercise 7/main.cpp206"CompileC DerivedData/Exercise\ 7/Build/Intermediates/Exercise\ 7.build/Debug/Exercise\ 7.build/Objects-normal/x86_64/main.o Exercise\ 7/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler39d16e511c17b941^fb58d9511c17b941^---0#0#1#-19%DVTDocumentLocation2@91"file:///Users/joshuakennedy/Documents/Projects/CIS%20235/Exercise%207/Exercise%207/main.cpp0000000000000000^3614"CompileC DerivedData/Exercise\ 7/Build/Intermediates/Exercise\ 7.build/Debug/Exercise\ 7.build/Objects-normal/x86_64/main.o Exercise\ 7/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/joshuakennedy/Documents/Projects/CIS 235/Exercise 7"    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu++11 -stdlib=libc++ -fmodules -fmodules-cache-path=/Users/joshuakennedy/Documents/Projects/CIS\ 235/Exercise\ 7/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.9 -g -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/joshuakennedy/Documents/Projects/CIS\ 235/Exercise\ 7/DerivedData/Exercise\ 7/Build/Intermediates/Exercise\ 7.build/Debug/Exercise\ 7.build/Exercise\ 7-generated-files.hmap -I/Users/joshuakennedy/Documents/Projects/CIS\ 235/Exercise\ 7/DerivedData/Exercise\ 7/Build/Intermediates/Exercise\ 7.build/Debug/Exercise\ 7.build/Exercise\ 7-own-target-headers.hmap -I/Users/joshuakennedy/Documents/Projects/CIS\ 235/Exercise\ 7/DerivedData/Exercise\ 7/Build/Intermediates/Exercise\ 7.build/Debug/Exercise\ 7.build/Exercise\ 7-all-target-headers.hmap -iquote /Users/joshuakennedy/Documents/Projects/CIS\ 235/Exercise\ 7/DerivedData/Exercise\ 7/Build/Intermediates/Exercise\ 7.build/Debug/Exercise\ 7.build/Exercise\ 7-project-headers.hmap -I/Users/joshuakennedy/Documents/Projects/CIS\ 235/Exercise\ 7/DerivedData/Exercise\ 7/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/joshuakennedy/Documents/Projects/CIS\ 235/Exercise\ 7/DerivedData/Exercise\ 7/Build/Intermediates/Exercise\ 7.build/Debug/Exercise\ 7.build/DerivedSources/x86_64 -I/Users/joshuakennedy/Documents/Projects/CIS\ 235/Exercise\ 7/DerivedData/Exercise\ 7/Build/Intermediates/Exercise\ 7.build/Debug/Exercise\ 7.build/DerivedSources -F/Users/joshuakennedy/Documents/Projects/CIS\ 235/Exercise\ 7/DerivedData/Exercise\ 7/Build/Products/Debug -MMD -MT dependencies -MF /Users/joshuakennedy/Documents/Projects/CIS\ 235/Exercise\ 7/DerivedData/Exercise\ 7/Build/Intermediates/Exercise\ 7.build/Debug/Exercise\ 7.build/Objects-normal/x86_64/main.d --serialize-diagnostics /Users/joshuakennedy/Documents/Projects/CIS\ 235/Exercise\ 7/DerivedData/Exercise\ 7/Build/Intermediates/Exercise\ 7.build/Debug/Exercise\ 7.build/Objects-normal/x86_64/main.dia -c /Users/joshuakennedy/Documents/Projects/CIS\ 235/Exercise\ 7/Exercise\ 7/main.cpp -o /Users/joshuakennedy/Documents/Projects/CIS\ 235/Exercise\ 7/DerivedData/Exercise\ 7/Build/Intermediates/Exercise\ 7.build/Debug/Exercise\ 7.build/Objects-normal/x86_64/main.o36"E0FBDA7D-BBF6-40D4-A0F7-0BA8B7EF349B-
+b0C82C386-B263-494E-BD97-BC81A821E63E
+
+CLd /Users/joshuakennedy/Documents/Projects/CIS\ 235/Exercise\ 7/DerivedData/Exercise\ 7/Build/Products/Debug/Exercise\ 7 normal x86_64
+s420944977.850418
+e420944977.871812
+r1
+xLd
+x/Users/joshuakennedy/Documents/Projects/CIS 235/Exercise 7/DerivedData/Exercise 7/Build/Products/Debug/Exercise 7
+xnormal
+xx86_64
+d/Users/joshuakennedy/Documents/Projects/CIS 235/Exercise 7/DerivedData/Exercise 7/Build/Intermediates/Exercise 7.build/Debug/Exercise 7.build/Objects-normal/x86_64/Exercise 7.LinkFileList
+d/Users/joshuakennedy/Documents/Projects/CIS 235/Exercise 7/DerivedData/Exercise 7/Build/Intermediates/Exercise 7.build/Debug/Exercise 7.build/Objects-normal/x86_64/main.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/libc++.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.osx.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcache.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcommonCrypto.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcompiler_rt.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcopyfile.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcorecrypto.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libdyld.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libkeymgr.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/liblaunch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libmacho.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libquarantine.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libremovefile.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_asl.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_kernel.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_malloc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_notify.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_platform.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_pthread.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_sandbox.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_stats.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libunc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libunwind.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libxpc.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection118"Link /Users/joshuakennedy/Documents/Projects/CIS 235/Exercise 7/DerivedData/Exercise 7/Build/Products/Debug/Exercise 773"Ld DerivedData/Exercise\ 7/Build/Products/Debug/Exercise\ 7 normal x86_6494c1d9511c17b941^ba2fdf511c17b941^---0#0#1#--1222"Ld DerivedData/Exercise\ 7/Build/Products/Debug/Exercise\ 7 normal x86_64    cd "/Users/joshuakennedy/Documents/Projects/CIS 235/Exercise 7"    export MACOSX_DEPLOYMENT_TARGET=10.9    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++ -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -L/Users/joshuakennedy/Documents/Projects/CIS\ 235/Exercise\ 7/DerivedData/Exercise\ 7/Build/Products/Debug -F/Users/joshuakennedy/Documents/Projects/CIS\ 235/Exercise\ 7/DerivedData/Exercise\ 7/Build/Products/Debug -filelist /Users/joshuakennedy/Documents/Projects/CIS\ 235/Exercise\ 7/DerivedData/Exercise\ 7/Build/Intermediates/Exercise\ 7.build/Debug/Exercise\ 7.build/Objects-normal/x86_64/Exercise\ 7.LinkFileList -mmacosx-version-min=10.9 -stdlib=libc++ -Xlinker -dependency_info -Xlinker /Users/joshuakennedy/Documents/Projects/CIS\ 235/Exercise\ 7/DerivedData/Exercise\ 7/Build/Intermediates/Exercise\ 7.build/Debug/Exercise\ 7.build/Objects-normal/x86_64/Exercise\ 7_dependency_info.dat -o /Users/joshuakennedy/Documents/Projects/CIS\ 235/Exercise\ 7/DerivedData/Exercise\ 7/Build/Products/Debug/Exercise\ 736"156A5382-1644-491D-A020-A415BC8A3CB6-
+b0C82C386-B263-494E-BD97-BC81A821E63E
+

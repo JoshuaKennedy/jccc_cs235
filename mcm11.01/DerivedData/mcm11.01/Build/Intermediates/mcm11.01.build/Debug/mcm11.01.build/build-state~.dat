@@ -1,0 +1,57 @@
+Tmcm11.01
+v6
+r1
+cCheck dependencies
+cCompileC DerivedData/mcm11.01/Build/Intermediates/mcm11.01.build/Debug/mcm11.01.build/Objects-normal/x86_64/main.o /Users/joshuakennedy/Documents/Projects/CIS\ 235/mcm11.01/mcm11.01/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/SDKSettings.plist
+c000000005267AA6D000000000000044C
+t1382525549
+s1100
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/CoreServices/SystemVersion.plist
+c000000005267AA6D00000000000001DB
+t1382525549
+s475
+
+N/Users/joshuakennedy/Documents/Projects/CIS 235/mcm11.01/DerivedData/mcm11.01/Build/Intermediates/mcm11.01.build/Debug/mcm11.01.build/Objects-normal/x86_64/main.o
+t2
+s0
+
+N/Users/joshuakennedy/Documents/Projects/CIS 235/mcm11.01/mcm11.01/main.cpp
+c00000000530E730200000000000012A5
+t1393455874
+s4773
+
+CBuild AST from /Users/joshuakennedy/Documents/Projects/CIS\ 235/mcm11.01/mcm11.01/main.cpp
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependenciesc1a84884aabeb841^dc634d84aabeb841^---0#1#1#--18"Check dependencies36"42680C1D-AA60-4DD1-BDD8-89042EED9EE5-
+
+CCompileC DerivedData/mcm11.01/Build/Intermediates/mcm11.01.build/Debug/mcm11.01.build/Objects-normal/x86_64/main.o /Users/joshuakennedy/Documents/Projects/CIS\ 235/mcm11.01/mcm11.01/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s415148676.302882
+e415148676.895917
+r0
+xCompileC
+xDerivedData/mcm11.01/Build/Intermediates/mcm11.01.build/Debug/mcm11.01.build/Objects-normal/x86_64/main.o
+x/Users/joshuakennedy/Documents/Projects/CIS 235/mcm11.01/mcm11.01/main.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/joshuakennedy/Documents/Projects/CIS 235/mcm11.01/mcm11.01/main.cpp
+o/Users/joshuakennedy/Documents/Projects/CIS 235/mcm11.01/mcm11.01/main.cpp:186:14: error: out-of-line definition of 'percent' does not match any declaration in 'Money'
+oMoney Money::percent(int percent_figure)
+o             ^~~~~~~
+o/Users/joshuakennedy/Documents/Projects/CIS 235/mcm11.01/mcm11.01/main.cpp:29:11: note: member declaration does not match because it is const qualified
+o    Money percent(int percent_figure) const;
+o          ^                           ~~~~~
+o1 error generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection82"Compile /Users/joshuakennedy/Documents/Projects/CIS 235/mcm11.01/mcm11.01/main.cpp194"CompileC DerivedData/mcm11.01/Build/Intermediates/mcm11.01.build/Debug/mcm11.01.build/Objects-normal/x86_64/main.o mcm11.01/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compilerbccf4d84aabeb841^af5ae584aabeb841^-490"/Users/joshuakennedy/Documents/Projects/CIS 235/mcm11.01/mcm11.01/main.cpp:186:14: error: out-of-line definition of 'percent' does not match any declaration in 'Money'Money Money::percent(int percent_figure)             ^~~~~~~/Users/joshuakennedy/Documents/Projects/CIS 235/mcm11.01/mcm11.01/main.cpp:29:11: note: member declaration does not match because it is const qualified    Money percent(int percent_figure) const;          ^                           ~~~~~1 error generated.1(36%IDEClangDiagnosticActivityLogMessage2@77"Out-of-line definition of 'percent' does not match any declaration in 'Money'-415148676#18446744073709551615#0#1(2@63"Member declaration does not match because it is const qualified-415148676#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@83"file:///Users/joshuakennedy/Documents/Projects/CIS%20235/mcm11.01/mcm11.01/main.cpp0000000000000000^28#10#28#10#695#0#14"Semantic Issue1(3@83"file:///Users/joshuakennedy/Documents/Projects/CIS%20235/mcm11.01/mcm11.01/main.cpp0000000000000000^28#38#28#43#723#0#-2#27"com.apple.dt.IDE.diagnostic3@83"file:///Users/joshuakennedy/Documents/Projects/CIS%20235/mcm11.01/mcm11.01/main.cpp0000000000000000^185#13#185#13#4559#0#14"Semantic Issue1(3@83"file:///Users/joshuakennedy/Documents/Projects/CIS%20235/mcm11.01/mcm11.01/main.cpp0000000000000000^185#13#185#20#4559#0#-0#0#1#-19%DVTDocumentLocation4@83"file:///Users/joshuakennedy/Documents/Projects/CIS%20235/mcm11.01/mcm11.01/main.cpp0000000000000000^3334"CompileC DerivedData/mcm11.01/Build/Intermediates/mcm11.01.build/Debug/mcm11.01.build/Objects-normal/x86_64/main.o mcm11.01/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/joshuakennedy/Documents/Projects/CIS 235/mcm11.01"    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu++11 -stdlib=libc++ -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.9 -g -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/joshuakennedy/Documents/Projects/CIS\ 235/mcm11.01/DerivedData/mcm11.01/Build/Intermediates/mcm11.01.build/Debug/mcm11.01.build/mcm11.01-generated-files.hmap -I/Users/joshuakennedy/Documents/Projects/CIS\ 235/mcm11.01/DerivedData/mcm11.01/Build/Intermediates/mcm11.01.build/Debug/mcm11.01.build/mcm11.01-own-target-headers.hmap -I/Users/joshuakennedy/Documents/Projects/CIS\ 235/mcm11.01/DerivedData/mcm11.01/Build/Intermediates/mcm11.01.build/Debug/mcm11.01.build/mcm11.01-all-target-headers.hmap -iquote /Users/joshuakennedy/Documents/Projects/CIS\ 235/mcm11.01/DerivedData/mcm11.01/Build/Intermediates/mcm11.01.build/Debug/mcm11.01.build/mcm11.01-project-headers.hmap -I/Users/joshuakennedy/Documents/Projects/CIS\ 235/mcm11.01/DerivedData/mcm11.01/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/joshuakennedy/Documents/Projects/CIS\ 235/mcm11.01/DerivedData/mcm11.01/Build/Intermediates/mcm11.01.build/Debug/mcm11.01.build/DerivedSources/x86_64 -I/Users/joshuakennedy/Documents/Projects/CIS\ 235/mcm11.01/DerivedData/mcm11.01/Build/Intermediates/mcm11.01.build/Debug/mcm11.01.build/DerivedSources -F/Users/joshuakennedy/Documents/Projects/CIS\ 235/mcm11.01/DerivedData/mcm11.01/Build/Products/Debug -MMD -MT dependencies -MF /Users/joshuakennedy/Documents/Projects/CIS\ 235/mcm11.01/DerivedData/mcm11.01/Build/Intermediates/mcm11.01.build/Debug/mcm11.01.build/Objects-normal/x86_64/main.d --serialize-diagnostics /Users/joshuakennedy/Documents/Projects/CIS\ 235/mcm11.01/DerivedData/mcm11.01/Build/Intermediates/mcm11.01.build/Debug/mcm11.01.build/Objects-normal/x86_64/main.dia -c /Users/joshuakennedy/Documents/Projects/CIS\ 235/mcm11.01/mcm11.01/main.cpp -o /Users/joshuakennedy/Documents/Projects/CIS\ 235/mcm11.01/DerivedData/mcm11.01/Build/Intermediates/mcm11.01.build/Debug/mcm11.01.build/Objects-normal/x86_64/main.o36"2C35056A-241A-4CF3-893D-4480965576F2-
+b2D5D498B-9515-4BB8-97F3-95C316D5ED87
+
+CLd /Users/joshuakennedy/Documents/Projects/CIS\ 235/mcm11.01/DerivedData/mcm11.01/Build/Products/Debug/mcm11.01 normal x86_64
+r0
+

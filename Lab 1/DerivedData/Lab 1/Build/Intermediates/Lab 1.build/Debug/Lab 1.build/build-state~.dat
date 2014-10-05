@@ -1,0 +1,63 @@
+TLab 1
+v6
+r1
+cCheck dependencies
+cCompileC DerivedData/Lab\ 1/Build/Intermediates/Lab\ 1.build/Debug/Lab\ 1.build/Objects-normal/x86_64/lab1.o /Users/joshuakennedy/Documents/Projects/CIS\ 235/Lab\ 1/Lab\ 1/lab1.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/SDKSettings.plist
+c000000005267AA6D000000000000044C
+t1382525549
+s1100
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/CoreServices/SystemVersion.plist
+c000000005267AA6D00000000000001DB
+t1382525549
+s475
+
+N/Users/joshuakennedy/Documents/Projects/CIS 235/Lab 1/DerivedData/Lab 1/Build/Intermediates/Lab 1.build/Debug/Lab 1.build/Objects-normal/x86_64/lab1.o
+t2
+s0
+
+N/Users/joshuakennedy/Documents/Projects/CIS 235/Lab 1/Lab 1/lab1.cpp
+c0000000052D878B40000000000000AF5
+t1389918388
+s2805
+
+CBuild AST from /Users/joshuakennedy/Documents/Projects/CIS\ 235/Lab\ 1/Lab\ 1/lab1.cpp
+r0
+
+CBuild AST from /Users/joshuakennedy/Documents/Projects/CIS\ 235/Lab\ 1/Lab\ 1/main.cpp
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies82758435b088b841^5dbf8835b088b841^---0#1#1#--18"Check dependencies36"A1B193B6-D95C-48BC-9065-22588B685C2E-
+
+CCompileC DerivedData/Lab\ 1/Build/Intermediates/Lab\ 1.build/Debug/Lab\ 1.build/Objects-normal/x86_64/lab1.o /Users/joshuakennedy/Documents/Projects/CIS\ 235/Lab\ 1/Lab\ 1/lab1.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s411611189.534772
+e411611190.250886
+r0
+xCompileC
+xDerivedData/Lab 1/Build/Intermediates/Lab 1.build/Debug/Lab 1.build/Objects-normal/x86_64/lab1.o
+x/Users/joshuakennedy/Documents/Projects/CIS 235/Lab 1/Lab 1/lab1.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/joshuakennedy/Documents/Projects/CIS 235/Lab 1/Lab 1/lab1.cpp
+o/Users/joshuakennedy/Documents/Projects/CIS 235/Lab 1/Lab 1/lab1.cpp:61:16: error: out-of-line definition of 'getX' does not match any declaration in 'circle'
+odouble circle::getX()
+o               ^~~~
+o/Users/joshuakennedy/Documents/Projects/CIS 235/Lab 1/Lab 1/lab1.cpp:14:12: note: member declaration does not match because it is const qualified
+o    double getX(void) const;
+o           ^          ~~~~~
+o1 error generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection76"Compile /Users/joshuakennedy/Documents/Projects/CIS 235/Lab 1/Lab 1/lab1.cpp186"CompileC DerivedData/Lab\ 1/Build/Intermediates/Lab\ 1.build/Debug/Lab\ 1.build/Objects-normal/x86_64/lab1.o Lab\ 1/lab1.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler66318935b088b841^69394036b088b841^-423"/Users/joshuakennedy/Documents/Projects/CIS 235/Lab 1/Lab 1/lab1.cpp:61:16: error: out-of-line definition of 'getX' does not match any declaration in 'circle'double circle::getX()               ^~~~/Users/joshuakennedy/Documents/Projects/CIS 235/Lab 1/Lab 1/lab1.cpp:14:12: note: member declaration does not match because it is const qualified    double getX(void) const;           ^          ~~~~~1 error generated.1(36%IDEClangDiagnosticActivityLogMessage2@75"Out-of-line definition of 'getX' does not match any declaration in 'circle'-411611190#18446744073709551615#0#1(2@63"Member declaration does not match because it is const qualified-411611190#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@81"file:///Users/joshuakennedy/Documents/Projects/CIS%20235/Lab%201/Lab%201/lab1.cpp0000000000000000^13#11#13#11#348#0#14"Semantic Issue1(3@81"file:///Users/joshuakennedy/Documents/Projects/CIS%20235/Lab%201/Lab%201/lab1.cpp0000000000000000^13#22#13#27#359#0#-2#27"com.apple.dt.IDE.diagnostic3@81"file:///Users/joshuakennedy/Documents/Projects/CIS%20235/Lab%201/Lab%201/lab1.cpp0000000000000000^60#15#60#15#1424#0#14"Semantic Issue1(3@81"file:///Users/joshuakennedy/Documents/Projects/CIS%20235/Lab%201/Lab%201/lab1.cpp0000000000000000^60#15#60#19#1424#0#-0#0#1#-19%DVTDocumentLocation4@81"file:///Users/joshuakennedy/Documents/Projects/CIS%20235/Lab%201/Lab%201/lab1.cpp0000000000000000^3231"CompileC DerivedData/Lab\ 1/Build/Intermediates/Lab\ 1.build/Debug/Lab\ 1.build/Objects-normal/x86_64/lab1.o Lab\ 1/lab1.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/joshuakennedy/Documents/Projects/CIS 235/Lab 1"    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu++11 -stdlib=libc++ -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.9 -g -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/joshuakennedy/Documents/Projects/CIS\ 235/Lab\ 1/DerivedData/Lab\ 1/Build/Intermediates/Lab\ 1.build/Debug/Lab\ 1.build/Lab\ 1-generated-files.hmap -I/Users/joshuakennedy/Documents/Projects/CIS\ 235/Lab\ 1/DerivedData/Lab\ 1/Build/Intermediates/Lab\ 1.build/Debug/Lab\ 1.build/Lab\ 1-own-target-headers.hmap -I/Users/joshuakennedy/Documents/Projects/CIS\ 235/Lab\ 1/DerivedData/Lab\ 1/Build/Intermediates/Lab\ 1.build/Debug/Lab\ 1.build/Lab\ 1-all-target-headers.hmap -iquote /Users/joshuakennedy/Documents/Projects/CIS\ 235/Lab\ 1/DerivedData/Lab\ 1/Build/Intermediates/Lab\ 1.build/Debug/Lab\ 1.build/Lab\ 1-project-headers.hmap -I/Users/joshuakennedy/Documents/Projects/CIS\ 235/Lab\ 1/DerivedData/Lab\ 1/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/joshuakennedy/Documents/Projects/CIS\ 235/Lab\ 1/DerivedData/Lab\ 1/Build/Intermediates/Lab\ 1.build/Debug/Lab\ 1.build/DerivedSources/x86_64 -I/Users/joshuakennedy/Documents/Projects/CIS\ 235/Lab\ 1/DerivedData/Lab\ 1/Build/Intermediates/Lab\ 1.build/Debug/Lab\ 1.build/DerivedSources -F/Users/joshuakennedy/Documents/Projects/CIS\ 235/Lab\ 1/DerivedData/Lab\ 1/Build/Products/Debug -MMD -MT dependencies -MF /Users/joshuakennedy/Documents/Projects/CIS\ 235/Lab\ 1/DerivedData/Lab\ 1/Build/Intermediates/Lab\ 1.build/Debug/Lab\ 1.build/Objects-normal/x86_64/lab1.d --serialize-diagnostics /Users/joshuakennedy/Documents/Projects/CIS\ 235/Lab\ 1/DerivedData/Lab\ 1/Build/Intermediates/Lab\ 1.build/Debug/Lab\ 1.build/Objects-normal/x86_64/lab1.dia -c /Users/joshuakennedy/Documents/Projects/CIS\ 235/Lab\ 1/Lab\ 1/lab1.cpp -o /Users/joshuakennedy/Documents/Projects/CIS\ 235/Lab\ 1/DerivedData/Lab\ 1/Build/Intermediates/Lab\ 1.build/Debug/Lab\ 1.build/Objects-normal/x86_64/lab1.o36"75FB5C09-A3EE-468D-B0A2-302CC2C928E8-
+b0EAB77E0-1177-4B61-B1A9-F26DCFA690CC
+
+CCompileC DerivedData/Lab\ 1/Build/Intermediates/Lab\ 1.build/Debug/Lab\ 1.build/Objects-normal/x86_64/main.o /Users/joshuakennedy/Documents/Projects/CIS\ 235/Lab\ 1/Lab\ 1/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CLd /Users/joshuakennedy/Documents/Projects/CIS\ 235/Lab\ 1/DerivedData/Lab\ 1/Build/Products/Debug/Lab\ 1 normal x86_64
+r0
+

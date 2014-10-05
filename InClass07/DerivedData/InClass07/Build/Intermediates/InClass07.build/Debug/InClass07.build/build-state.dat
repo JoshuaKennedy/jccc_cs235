@@ -1,0 +1,194 @@
+TInClass07
+v6
+r1
+cCheck dependencies
+cCompileC DerivedData/InClass07/Build/Intermediates/InClass07.build/Debug/InClass07.build/Objects-normal/x86_64/FullName.o /Users/joshuakennedy/Documents/Projects/CIS\ 235/InClass07/InClass07/FullName.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/InClass07/Build/Intermediates/InClass07.build/Debug/InClass07.build/Objects-normal/x86_64/Person.o /Users/joshuakennedy/Documents/Projects/CIS\ 235/InClass07/InClass07/Person.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/InClass07/Build/Intermediates/InClass07.build/Debug/InClass07.build/Objects-normal/x86_64/InClassExercise06Driver.o /Users/joshuakennedy/Documents/Projects/CIS\ 235/InClass07/InClass07/InClassExercise06Driver.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/joshuakennedy/Documents/Projects/CIS\ 235/InClass07/DerivedData/InClass07/Build/Products/Debug/InClass07 normal x86_64
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk
+c0000000052822F3800000000000000AA
+t1384263480
+s170
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/SDKSettings.plist
+c000000005267AA6D000000000000044C
+t1382525549
+s1100
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/CoreServices/SystemVersion.plist
+c000000005267AA6D00000000000001DB
+t1382525549
+s475
+
+N/Users/joshuakennedy/Documents/Projects/CIS 235/InClass07/DerivedData/InClass07/Build/Intermediates/InClass07.build/Debug/InClass07.build/Objects-normal/x86_64/FullName.o
+t1394545018
+s99528
+
+N/Users/joshuakennedy/Documents/Projects/CIS 235/InClass07/DerivedData/InClass07/Build/Intermediates/InClass07.build/Debug/InClass07.build/Objects-normal/x86_64/InClass07.LinkFileList
+c00000000531F10EF000000000000020E
+t1394544879
+s526
+
+N/Users/joshuakennedy/Documents/Projects/CIS 235/InClass07/DerivedData/InClass07/Build/Intermediates/InClass07.build/Debug/InClass07.build/Objects-normal/x86_64/InClassExercise06Driver.o
+t1394544880
+s83560
+
+N/Users/joshuakennedy/Documents/Projects/CIS 235/InClass07/DerivedData/InClass07/Build/Intermediates/InClass07.build/Debug/InClass07.build/Objects-normal/x86_64/Person.o
+t1394718190
+s86080
+
+N/Users/joshuakennedy/Documents/Projects/CIS 235/InClass07/DerivedData/InClass07/Build/Products/Debug/InClass07
+t2
+s0
+
+N/Users/joshuakennedy/Documents/Projects/CIS 235/InClass07/InClass07/FullName.cpp
+c00000000531F11790000000000000E3A
+t1394545017
+s3642
+
+N/Users/joshuakennedy/Documents/Projects/CIS 235/InClass07/InClass07/FullName.h
+c00000000531777D800000000000003F3
+t1394046936
+s1011
+
+N/Users/joshuakennedy/Documents/Projects/CIS 235/InClass07/InClass07/InClassExercise06Driver.cpp
+c00000000531F10EF00000000000007FB
+t1394544879
+s2043
+
+N/Users/joshuakennedy/Documents/Projects/CIS 235/InClass07/InClass07/Person.cpp
+c000000005321B5ED0000000000000EB4
+t1394718189
+s3764
+
+N/Users/joshuakennedy/Documents/Projects/CIS 235/InClass07/InClass07/Person.h
+c0000000053179F4A00000000000006D1
+t1394057034
+s1745
+
+CBuild AST from /Users/joshuakennedy/Documents/Projects/CIS\ 235/InClass07/InClass07/FullName.cpp
+r0
+
+CBuild AST from /Users/joshuakennedy/Documents/Projects/CIS\ 235/InClass07/InClass07/InClassExercise06Driver.cpp
+r0
+
+CBuild AST from /Users/joshuakennedy/Documents/Projects/CIS\ 235/InClass07/InClass07/Person.cpp
+r0
+
+CBuild AST from /Users/joshuakennedy/Documents/Projects/CIS\ 235/InClass07/InClass07/main.cpp
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependenciesb459f96dedd1b841^8672fa6dedd1b841^---0#1#1#--18"Check dependencies36"888AC623-EFA6-4E24-A8AD-473FE30AB220-
+
+CCompileC DerivedData/InClass07/Build/Intermediates/InClass07.build/Debug/InClass07.build/Objects-normal/x86_64/FullName.o /Users/joshuakennedy/Documents/Projects/CIS\ 235/InClass07/InClass07/FullName.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s416237818.112746
+e416237818.520774
+r1
+xCompileC
+xDerivedData/InClass07/Build/Intermediates/InClass07.build/Debug/InClass07.build/Objects-normal/x86_64/FullName.o
+x/Users/joshuakennedy/Documents/Projects/CIS 235/InClass07/InClass07/FullName.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/joshuakennedy/Documents/Projects/CIS 235/InClass07/InClass07/FullName.cpp
+d/Users/joshuakennedy/Documents/Projects/CIS 235/InClass07/InClass07/FullName.h
+o/Users/joshuakennedy/Documents/Projects/CIS 235/InClass07/InClass07/FullName.cpp:60:24: warning: implicit conversion loses integer precision: 'unsigned long' to 'int' [-Wshorten-64-to-32]
+o   int ln = strlen(fr) + 1;
+o       ~~   ~~~~~~~~~~~^~~
+o/Users/joshuakennedy/Documents/Projects/CIS 235/InClass07/InClass07/FullName.cpp:73:24: warning: implicit conversion loses integer precision: 'unsigned long' to 'int' [-Wshorten-64-to-32]
+o   int ln = strlen(ls) + 1;
+o       ~~   ~~~~~~~~~~~^~~
+o2 warnings generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection88"Compile /Users/joshuakennedy/Documents/Projects/CIS 235/InClass07/InClass07/FullName.cpp206"CompileC DerivedData/InClass07/Build/Intermediates/InClass07.build/Debug/InClass07.build/Objects-normal/x86_64/FullName.o InClass07/FullName.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compilerb5fc1cfa48cfb841^db5085fa48cfb841^-508"/Users/joshuakennedy/Documents/Projects/CIS 235/InClass07/InClass07/FullName.cpp:60:24: warning: implicit conversion loses integer precision: 'unsigned long' to 'int' [-Wshorten-64-to-32]   int ln = strlen(fr) + 1;       ~~   ~~~~~~~~~~~^~~/Users/joshuakennedy/Documents/Projects/CIS 235/InClass07/InClass07/FullName.cpp:73:24: warning: implicit conversion loses integer precision: 'unsigned long' to 'int' [-Wshorten-64-to-32]   int ln = strlen(ls) + 1;       ~~   ~~~~~~~~~~~^~~2 warnings generated.2(36%IDEClangDiagnosticActivityLogMessage2@69"Implicit conversion loses integer precision: 'unsigned long' to 'int'-416237818#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@89"file:///Users/joshuakennedy/Documents/Projects/CIS%20235/InClass07/InClass07/FullName.cpp0000000000000000^59#23#59#23#1188#0#22"Value Conversion Issue2(3@89"file:///Users/joshuakennedy/Documents/Projects/CIS%20235/InClass07/InClass07/FullName.cpp0000000000000000^59#12#59#26#1177#13#3@89"file:///Users/joshuakennedy/Documents/Projects/CIS%20235/InClass07/InClass07/FullName.cpp0000000000000000^59#7#59#9#1172#0#-2@69"Implicit conversion loses integer precision: 'unsigned long' to 'int'-416237818#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@89"file:///Users/joshuakennedy/Documents/Projects/CIS%20235/InClass07/InClass07/FullName.cpp0000000000000000^72#23#72#23#1421#0#22"Value Conversion Issue2(3@89"file:///Users/joshuakennedy/Documents/Projects/CIS%20235/InClass07/InClass07/FullName.cpp0000000000000000^72#12#72#26#1410#13#3@89"file:///Users/joshuakennedy/Documents/Projects/CIS%20235/InClass07/InClass07/FullName.cpp0000000000000000^72#7#72#9#1405#0#-0#0#1#-19%DVTDocumentLocation4@89"file:///Users/joshuakennedy/Documents/Projects/CIS%20235/InClass07/InClass07/FullName.cpp0000000000000000^3409"CompileC DerivedData/InClass07/Build/Intermediates/InClass07.build/Debug/InClass07.build/Objects-normal/x86_64/FullName.o InClass07/FullName.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/joshuakennedy/Documents/Projects/CIS 235/InClass07"    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu++11 -stdlib=libc++ -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.9 -g -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/joshuakennedy/Documents/Projects/CIS\ 235/InClass07/DerivedData/InClass07/Build/Intermediates/InClass07.build/Debug/InClass07.build/InClass07-generated-files.hmap -I/Users/joshuakennedy/Documents/Projects/CIS\ 235/InClass07/DerivedData/InClass07/Build/Intermediates/InClass07.build/Debug/InClass07.build/InClass07-own-target-headers.hmap -I/Users/joshuakennedy/Documents/Projects/CIS\ 235/InClass07/DerivedData/InClass07/Build/Intermediates/InClass07.build/Debug/InClass07.build/InClass07-all-target-headers.hmap -iquote /Users/joshuakennedy/Documents/Projects/CIS\ 235/InClass07/DerivedData/InClass07/Build/Intermediates/InClass07.build/Debug/InClass07.build/InClass07-project-headers.hmap -I/Users/joshuakennedy/Documents/Projects/CIS\ 235/InClass07/DerivedData/InClass07/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/joshuakennedy/Documents/Projects/CIS\ 235/InClass07/DerivedData/InClass07/Build/Intermediates/InClass07.build/Debug/InClass07.build/DerivedSources/x86_64 -I/Users/joshuakennedy/Documents/Projects/CIS\ 235/InClass07/DerivedData/InClass07/Build/Intermediates/InClass07.build/Debug/InClass07.build/DerivedSources -F/Users/joshuakennedy/Documents/Projects/CIS\ 235/InClass07/DerivedData/InClass07/Build/Products/Debug -MMD -MT dependencies -MF /Users/joshuakennedy/Documents/Projects/CIS\ 235/InClass07/DerivedData/InClass07/Build/Intermediates/InClass07.build/Debug/InClass07.build/Objects-normal/x86_64/FullName.d --serialize-diagnostics /Users/joshuakennedy/Documents/Projects/CIS\ 235/InClass07/DerivedData/InClass07/Build/Intermediates/InClass07.build/Debug/InClass07.build/Objects-normal/x86_64/FullName.dia -c /Users/joshuakennedy/Documents/Projects/CIS\ 235/InClass07/InClass07/FullName.cpp -o /Users/joshuakennedy/Documents/Projects/CIS\ 235/InClass07/DerivedData/InClass07/Build/Intermediates/InClass07.build/Debug/InClass07.build/Objects-normal/x86_64/FullName.o36"6183E5A3-0D26-42FE-8A45-99B8AFEA0278-
+bD078CA16-D108-44D6-9067-F6089D6FFBC1
+
+CCompileC DerivedData/InClass07/Build/Intermediates/InClass07.build/Debug/InClass07.build/Objects-normal/x86_64/InClassExercise06Driver.o /Users/joshuakennedy/Documents/Projects/CIS\ 235/InClass07/InClass07/InClassExercise06Driver.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s416237679.941971
+e416237680.525527
+r1
+xCompileC
+xDerivedData/InClass07/Build/Intermediates/InClass07.build/Debug/InClass07.build/Objects-normal/x86_64/InClassExercise06Driver.o
+x/Users/joshuakennedy/Documents/Projects/CIS 235/InClass07/InClass07/InClassExercise06Driver.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/joshuakennedy/Documents/Projects/CIS 235/InClass07/InClass07/InClassExercise06Driver.cpp
+d/Users/joshuakennedy/Documents/Projects/CIS 235/InClass07/InClass07/FullName.h
+d/Users/joshuakennedy/Documents/Projects/CIS 235/InClass07/InClass07/Person.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection103"Compile /Users/joshuakennedy/Documents/Projects/CIS 235/InClass07/InClass07/InClassExercise06Driver.cpp236"CompileC DerivedData/InClass07/Build/Intermediates/InClass07.build/Debug/InClass07.build/Objects-normal/x86_64/InClassExercise06Driver.o InClass07/InClassExercise06Driver.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compileref72f16f48cfb841^838a867048cfb841^---0#0#1#-19%DVTDocumentLocation2@104"file:///Users/joshuakennedy/Documents/Projects/CIS%20235/InClass07/InClass07/InClassExercise06Driver.cpp0000000000000000^3499"CompileC DerivedData/InClass07/Build/Intermediates/InClass07.build/Debug/InClass07.build/Objects-normal/x86_64/InClassExercise06Driver.o InClass07/InClassExercise06Driver.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/joshuakennedy/Documents/Projects/CIS 235/InClass07"    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu++11 -stdlib=libc++ -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.9 -g -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/joshuakennedy/Documents/Projects/CIS\ 235/InClass07/DerivedData/InClass07/Build/Intermediates/InClass07.build/Debug/InClass07.build/InClass07-generated-files.hmap -I/Users/joshuakennedy/Documents/Projects/CIS\ 235/InClass07/DerivedData/InClass07/Build/Intermediates/InClass07.build/Debug/InClass07.build/InClass07-own-target-headers.hmap -I/Users/joshuakennedy/Documents/Projects/CIS\ 235/InClass07/DerivedData/InClass07/Build/Intermediates/InClass07.build/Debug/InClass07.build/InClass07-all-target-headers.hmap -iquote /Users/joshuakennedy/Documents/Projects/CIS\ 235/InClass07/DerivedData/InClass07/Build/Intermediates/InClass07.build/Debug/InClass07.build/InClass07-project-headers.hmap -I/Users/joshuakennedy/Documents/Projects/CIS\ 235/InClass07/DerivedData/InClass07/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/joshuakennedy/Documents/Projects/CIS\ 235/InClass07/DerivedData/InClass07/Build/Intermediates/InClass07.build/Debug/InClass07.build/DerivedSources/x86_64 -I/Users/joshuakennedy/Documents/Projects/CIS\ 235/InClass07/DerivedData/InClass07/Build/Intermediates/InClass07.build/Debug/InClass07.build/DerivedSources -F/Users/joshuakennedy/Documents/Projects/CIS\ 235/InClass07/DerivedData/InClass07/Build/Products/Debug -MMD -MT dependencies -MF /Users/joshuakennedy/Documents/Projects/CIS\ 235/InClass07/DerivedData/InClass07/Build/Intermediates/InClass07.build/Debug/InClass07.build/Objects-normal/x86_64/InClassExercise06Driver.d --serialize-diagnostics /Users/joshuakennedy/Documents/Projects/CIS\ 235/InClass07/DerivedData/InClass07/Build/Intermediates/InClass07.build/Debug/InClass07.build/Objects-normal/x86_64/InClassExercise06Driver.dia -c /Users/joshuakennedy/Documents/Projects/CIS\ 235/InClass07/InClass07/InClassExercise06Driver.cpp -o /Users/joshuakennedy/Documents/Projects/CIS\ 235/InClass07/DerivedData/InClass07/Build/Intermediates/InClass07.build/Debug/InClass07.build/Objects-normal/x86_64/InClassExercise06Driver.o36"92A1A5CA-8F99-4615-9CA7-B607ECB69944-
+b2E952867-452B-404D-8189-0B8E7C321CCB
+
+CCompileC DerivedData/InClass07/Build/Intermediates/InClass07.build/Debug/InClass07.build/Objects-normal/x86_64/Person.o /Users/joshuakennedy/Documents/Projects/CIS\ 235/InClass07/InClass07/Person.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s416410989.976298
+e416410990.375888
+r1
+xCompileC
+xDerivedData/InClass07/Build/Intermediates/InClass07.build/Debug/InClass07.build/Objects-normal/x86_64/Person.o
+x/Users/joshuakennedy/Documents/Projects/CIS 235/InClass07/InClass07/Person.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/joshuakennedy/Documents/Projects/CIS 235/InClass07/InClass07/Person.cpp
+d/Users/joshuakennedy/Documents/Projects/CIS 235/InClass07/InClass07/Person.h
+d/Users/joshuakennedy/Documents/Projects/CIS 235/InClass07/InClass07/FullName.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection86"Compile /Users/joshuakennedy/Documents/Projects/CIS 235/InClass07/InClass07/Person.cpp202"CompileC DerivedData/InClass07/Build/Intermediates/InClass07.build/Debug/InClass07.build/Objects-normal/x86_64/Person.o InClass07/Person.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler0a0ffa6dedd1b841^b43b606eedd1b841^---0#0#1#-19%DVTDocumentLocation2@87"file:///Users/joshuakennedy/Documents/Projects/CIS%20235/InClass07/InClass07/Person.cpp0000000000000000^3397"CompileC DerivedData/InClass07/Build/Intermediates/InClass07.build/Debug/InClass07.build/Objects-normal/x86_64/Person.o InClass07/Person.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/joshuakennedy/Documents/Projects/CIS 235/InClass07"    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu++11 -stdlib=libc++ -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.9 -g -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/joshuakennedy/Documents/Projects/CIS\ 235/InClass07/DerivedData/InClass07/Build/Intermediates/InClass07.build/Debug/InClass07.build/InClass07-generated-files.hmap -I/Users/joshuakennedy/Documents/Projects/CIS\ 235/InClass07/DerivedData/InClass07/Build/Intermediates/InClass07.build/Debug/InClass07.build/InClass07-own-target-headers.hmap -I/Users/joshuakennedy/Documents/Projects/CIS\ 235/InClass07/DerivedData/InClass07/Build/Intermediates/InClass07.build/Debug/InClass07.build/InClass07-all-target-headers.hmap -iquote /Users/joshuakennedy/Documents/Projects/CIS\ 235/InClass07/DerivedData/InClass07/Build/Intermediates/InClass07.build/Debug/InClass07.build/InClass07-project-headers.hmap -I/Users/joshuakennedy/Documents/Projects/CIS\ 235/InClass07/DerivedData/InClass07/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/joshuakennedy/Documents/Projects/CIS\ 235/InClass07/DerivedData/InClass07/Build/Intermediates/InClass07.build/Debug/InClass07.build/DerivedSources/x86_64 -I/Users/joshuakennedy/Documents/Projects/CIS\ 235/InClass07/DerivedData/InClass07/Build/Intermediates/InClass07.build/Debug/InClass07.build/DerivedSources -F/Users/joshuakennedy/Documents/Projects/CIS\ 235/InClass07/DerivedData/InClass07/Build/Products/Debug -MMD -MT dependencies -MF /Users/joshuakennedy/Documents/Projects/CIS\ 235/InClass07/DerivedData/InClass07/Build/Intermediates/InClass07.build/Debug/InClass07.build/Objects-normal/x86_64/Person.d --serialize-diagnostics /Users/joshuakennedy/Documents/Projects/CIS\ 235/InClass07/DerivedData/InClass07/Build/Intermediates/InClass07.build/Debug/InClass07.build/Objects-normal/x86_64/Person.dia -c /Users/joshuakennedy/Documents/Projects/CIS\ 235/InClass07/InClass07/Person.cpp -o /Users/joshuakennedy/Documents/Projects/CIS\ 235/InClass07/DerivedData/InClass07/Build/Intermediates/InClass07.build/Debug/InClass07.build/Objects-normal/x86_64/Person.o36"37782D38-2E4D-4E9D-9211-D98030015A43-
+bB686BA47-8A69-4B48-AD05-063576CBB2CD
+
+CCompileC DerivedData/InClass07/Build/Intermediates/InClass07.build/Debug/InClass07.build/Objects-normal/x86_64/main.o /Users/joshuakennedy/Documents/Projects/CIS\ 235/InClass07/InClass07/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CLd /Users/joshuakennedy/Documents/Projects/CIS\ 235/InClass07/DerivedData/InClass07/Build/Products/Debug/InClass07 normal x86_64
+s416410990.376556
+e416410990.473339
+r1
+xLd
+x/Users/joshuakennedy/Documents/Projects/CIS 235/InClass07/DerivedData/InClass07/Build/Products/Debug/InClass07
+xnormal
+xx86_64
+d/Users/joshuakennedy/Documents/Projects/CIS 235/InClass07/DerivedData/InClass07/Build/Intermediates/InClass07.build/Debug/InClass07.build/Objects-normal/x86_64/InClass07.LinkFileList
+d/Users/joshuakennedy/Documents/Projects/CIS 235/InClass07/DerivedData/InClass07/Build/Intermediates/InClass07.build/Debug/InClass07.build/Objects-normal/x86_64/FullName.o
+d/Users/joshuakennedy/Documents/Projects/CIS 235/InClass07/DerivedData/InClass07/Build/Intermediates/InClass07.build/Debug/InClass07.build/Objects-normal/x86_64/Person.o
+d/Users/joshuakennedy/Documents/Projects/CIS 235/InClass07/DerivedData/InClass07/Build/Intermediates/InClass07.build/Debug/InClass07.build/Objects-normal/x86_64/InClassExercise06Driver.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/libc++.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/lib/darwin/libclang_rt.osx.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcache.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcommonCrypto.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcompiler_rt.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcopyfile.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcorecrypto.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libdyld.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libkeymgr.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/liblaunch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libmacho.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libquarantine.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libremovefile.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_asl.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_kernel.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_malloc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_notify.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_platform.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_pthread.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_sandbox.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_stats.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libunc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libunwind.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libxpc.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection115"Link /Users/joshuakennedy/Documents/Projects/CIS 235/InClass07/DerivedData/InClass07/Build/Products/Debug/InClass0769"Ld DerivedData/InClass07/Build/Products/Debug/InClass07 normal x86_649f76606eedd1b841^412e796eedd1b841^---0#0#1#--1183"Ld DerivedData/InClass07/Build/Products/Debug/InClass07 normal x86_64    cd "/Users/joshuakennedy/Documents/Projects/CIS 235/InClass07"    setenv MACOSX_DEPLOYMENT_TARGET 10.9    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++ -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -L/Users/joshuakennedy/Documents/Projects/CIS\ 235/InClass07/DerivedData/InClass07/Build/Products/Debug -F/Users/joshuakennedy/Documents/Projects/CIS\ 235/InClass07/DerivedData/InClass07/Build/Products/Debug -filelist /Users/joshuakennedy/Documents/Projects/CIS\ 235/InClass07/DerivedData/InClass07/Build/Intermediates/InClass07.build/Debug/InClass07.build/Objects-normal/x86_64/InClass07.LinkFileList -mmacosx-version-min=10.9 -stdlib=libc++ -Xlinker -dependency_info -Xlinker /Users/joshuakennedy/Documents/Projects/CIS\ 235/InClass07/DerivedData/InClass07/Build/Intermediates/InClass07.build/Debug/InClass07.build/Objects-normal/x86_64/InClass07_dependency_info.dat -o /Users/joshuakennedy/Documents/Projects/CIS\ 235/InClass07/DerivedData/InClass07/Build/Products/Debug/InClass0736"42735491-E9E7-4659-9D04-D39659A729EE-
+bB686BA47-8A69-4B48-AD05-063576CBB2CD
+

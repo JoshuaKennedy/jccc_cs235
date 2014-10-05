@@ -1,0 +1,60 @@
+Tmcm10.1
+v6
+r1
+cCheck dependencies
+cCompileC DerivedData/mcm10.1/Build/Intermediates/mcm10.1.build/Debug/mcm10.1.build/Objects-normal/x86_64/Grades.o /Users/joshuakennedy/Documents/Projects/CIS\ 235/mcm10.1/mcm10.1/Grades.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/SDKSettings.plist
+c000000005267AA6D000000000000044C
+t1382525549
+s1100
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/CoreServices/SystemVersion.plist
+c000000005267AA6D00000000000001DB
+t1382525549
+s475
+
+N/Users/joshuakennedy/Documents/Projects/CIS 235/mcm10.1/DerivedData/mcm10.1/Build/Intermediates/mcm10.1.build/Debug/mcm10.1.build/Objects-normal/x86_64/Grades.o
+t2
+s0
+
+N/Users/joshuakennedy/Documents/Projects/CIS 235/mcm10.1/mcm10.1/Grades.cpp
+c0000000052DC83B900000000000008F9
+t1390183353
+s2297
+
+CBuild AST from /Users/joshuakennedy/Documents/Projects/CIS\ 235/mcm10.1/mcm10.1/Grades.cpp
+r0
+
+CBuild AST from /Users/joshuakennedy/Documents/Projects/CIS\ 235/mcm10.1/mcm10.1/main.cpp
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies9485af44bb8cb841^af7cb244bb8cb841^---0#1#1#--18"Check dependencies36"6429409C-1519-4C21-8158-A113ACEC400E-
+
+CCompileC DerivedData/mcm10.1/Build/Intermediates/mcm10.1.build/Debug/mcm10.1.build/Objects-normal/x86_64/Grades.o /Users/joshuakennedy/Documents/Projects/CIS\ 235/mcm10.1/mcm10.1/Grades.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s411876164.701587
+e411876165.205436
+r0
+xCompileC
+xDerivedData/mcm10.1/Build/Intermediates/mcm10.1.build/Debug/mcm10.1.build/Objects-normal/x86_64/Grades.o
+x/Users/joshuakennedy/Documents/Projects/CIS 235/mcm10.1/mcm10.1/Grades.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/joshuakennedy/Documents/Projects/CIS 235/mcm10.1/mcm10.1/Grades.cpp
+o/Users/joshuakennedy/Documents/Projects/CIS 235/mcm10.1/mcm10.1/Grades.cpp:64:26: error: use of undeclared identifier 'letterGrade'
+o    record.letterGrade = letterGrade (record.courseAverage);
+o                         ^
+o1 error generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection82"Compile /Users/joshuakennedy/Documents/Projects/CIS 235/mcm10.1/mcm10.1/Grades.cpp194"CompileC DerivedData/mcm10.1/Build/Intermediates/mcm10.1.build/Debug/mcm10.1.build/Objects-normal/x86_64/Grades.o mcm10.1/Grades.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compilerdae5b344bb8cb841^f2953445bb8cb841^-239"/Users/joshuakennedy/Documents/Projects/CIS 235/mcm10.1/mcm10.1/Grades.cpp:64:26: error: use of undeclared identifier 'letterGrade'    record.letterGrade = letterGrade (record.courseAverage);                         ^1 error generated.1(36%IDEClangDiagnosticActivityLogMessage2@42"Use of undeclared identifier 'letterGrade'-411876165#18446744073709551615#0#-2#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@83"file:///Users/joshuakennedy/Documents/Projects/CIS%20235/mcm10.1/mcm10.1/Grades.cpp0000000000000000^63#25#63#25#1922#0#14"Semantic Issue--0#0#1#-19%DVTDocumentLocation4@83"file:///Users/joshuakennedy/Documents/Projects/CIS%20235/mcm10.1/mcm10.1/Grades.cpp0000000000000000^3295"CompileC DerivedData/mcm10.1/Build/Intermediates/mcm10.1.build/Debug/mcm10.1.build/Objects-normal/x86_64/Grades.o mcm10.1/Grades.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/joshuakennedy/Documents/Projects/CIS 235/mcm10.1"    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu++11 -stdlib=libc++ -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.9 -g -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/joshuakennedy/Documents/Projects/CIS\ 235/mcm10.1/DerivedData/mcm10.1/Build/Intermediates/mcm10.1.build/Debug/mcm10.1.build/mcm10.1-generated-files.hmap -I/Users/joshuakennedy/Documents/Projects/CIS\ 235/mcm10.1/DerivedData/mcm10.1/Build/Intermediates/mcm10.1.build/Debug/mcm10.1.build/mcm10.1-own-target-headers.hmap -I/Users/joshuakennedy/Documents/Projects/CIS\ 235/mcm10.1/DerivedData/mcm10.1/Build/Intermediates/mcm10.1.build/Debug/mcm10.1.build/mcm10.1-all-target-headers.hmap -iquote /Users/joshuakennedy/Documents/Projects/CIS\ 235/mcm10.1/DerivedData/mcm10.1/Build/Intermediates/mcm10.1.build/Debug/mcm10.1.build/mcm10.1-project-headers.hmap -I/Users/joshuakennedy/Documents/Projects/CIS\ 235/mcm10.1/DerivedData/mcm10.1/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/joshuakennedy/Documents/Projects/CIS\ 235/mcm10.1/DerivedData/mcm10.1/Build/Intermediates/mcm10.1.build/Debug/mcm10.1.build/DerivedSources/x86_64 -I/Users/joshuakennedy/Documents/Projects/CIS\ 235/mcm10.1/DerivedData/mcm10.1/Build/Intermediates/mcm10.1.build/Debug/mcm10.1.build/DerivedSources -F/Users/joshuakennedy/Documents/Projects/CIS\ 235/mcm10.1/DerivedData/mcm10.1/Build/Products/Debug -MMD -MT dependencies -MF /Users/joshuakennedy/Documents/Projects/CIS\ 235/mcm10.1/DerivedData/mcm10.1/Build/Intermediates/mcm10.1.build/Debug/mcm10.1.build/Objects-normal/x86_64/Grades.d --serialize-diagnostics /Users/joshuakennedy/Documents/Projects/CIS\ 235/mcm10.1/DerivedData/mcm10.1/Build/Intermediates/mcm10.1.build/Debug/mcm10.1.build/Objects-normal/x86_64/Grades.dia -c /Users/joshuakennedy/Documents/Projects/CIS\ 235/mcm10.1/mcm10.1/Grades.cpp -o /Users/joshuakennedy/Documents/Projects/CIS\ 235/mcm10.1/DerivedData/mcm10.1/Build/Intermediates/mcm10.1.build/Debug/mcm10.1.build/Objects-normal/x86_64/Grades.o36"7D3A1691-A827-4158-AD41-6390F9A995B9-
+b84482E75-891B-4463-832B-E1CA78817FAB
+
+CCompileC DerivedData/mcm10.1/Build/Intermediates/mcm10.1.build/Debug/mcm10.1.build/Objects-normal/x86_64/main.o /Users/joshuakennedy/Documents/Projects/CIS\ 235/mcm10.1/mcm10.1/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CLd /Users/joshuakennedy/Documents/Projects/CIS\ 235/mcm10.1/DerivedData/mcm10.1/Build/Products/Debug/mcm10.1 normal x86_64
+r0
+

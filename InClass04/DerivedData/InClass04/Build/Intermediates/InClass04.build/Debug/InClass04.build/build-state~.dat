@@ -1,0 +1,94 @@
+TInClass04
+v6
+r1
+cCheck dependencies
+cCompileC DerivedData/InClass04/Build/Intermediates/InClass04.build/Debug/InClass04.build/Objects-normal/x86_64/DriverBigInteger.o /Users/joshuakennedy/Documents/Projects/CIS\ 235/InClass04/InClass04/DriverBigInteger.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/InClass04/Build/Intermediates/InClass04.build/Debug/InClass04.build/Objects-normal/x86_64/BigInteger.o /Users/joshuakennedy/Documents/Projects/CIS\ 235/InClass04/InClass04/BigInteger.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/SDKSettings.plist
+c000000005267AA6D000000000000044C
+t1382525549
+s1100
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/CoreServices/SystemVersion.plist
+c000000005267AA6D00000000000001DB
+t1382525549
+s475
+
+N/Users/joshuakennedy/Documents/Projects/CIS 235/InClass04/DerivedData/InClass04/Build/Intermediates/InClass04.build/Debug/InClass04.build/Objects-normal/x86_64/BigInteger.o
+t2
+s0
+
+N/Users/joshuakennedy/Documents/Projects/CIS 235/InClass04/DerivedData/InClass04/Build/Intermediates/InClass04.build/Debug/InClass04.build/Objects-normal/x86_64/DriverBigInteger.o
+t2
+s0
+
+N/Users/joshuakennedy/Documents/Projects/CIS 235/InClass04/InClass04/BigInteger.cpp
+c0000000053064E720000000000001036
+t1392922226
+s4150
+
+N/Users/joshuakennedy/Documents/Projects/CIS 235/InClass04/InClass04/DriverBigInteger.cpp
+c0000000053064B990000000000002AFE
+t1392921497
+s11006
+
+CBuild AST from /Users/joshuakennedy/Documents/Projects/CIS\ 235/InClass04/InClass04/BigInteger.cpp
+r0
+
+CBuild AST from /Users/joshuakennedy/Documents/Projects/CIS\ 235/InClass04/InClass04/DriverBigInteger.cpp
+r0
+
+CBuild AST from /Users/joshuakennedy/Documents/Projects/CIS\ 235/InClass04/InClass04/main.cpp
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies0a3173f285b6b841^886676f285b6b841^---0#1#1#--18"Check dependencies36"36E35DC1-7A4E-43B2-AB58-5D329AD1BD56-
+
+CCompileC DerivedData/InClass04/Build/Intermediates/InClass04.build/Debug/InClass04.build/Objects-normal/x86_64/BigInteger.o /Users/joshuakennedy/Documents/Projects/CIS\ 235/InClass04/InClass04/BigInteger.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s414615026.463273
+e414615027.529131
+r1
+xCompileC
+xDerivedData/InClass04/Build/Intermediates/InClass04.build/Debug/InClass04.build/Objects-normal/x86_64/BigInteger.o
+x/Users/joshuakennedy/Documents/Projects/CIS 235/InClass04/InClass04/BigInteger.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/joshuakennedy/Documents/Projects/CIS 235/InClass04/InClass04/BigInteger.cpp
+d/Users/joshuakennedy/Documents/Projects/CIS 235/InClass04/InClass04/BigInteger.h
+o/Users/joshuakennedy/Documents/Projects/CIS 235/InClass04/InClass04/BigInteger.cpp:40:12: warning: implicit conversion loses integer precision: 'size_t' (aka 'unsigned long') to 'int' [-Wshorten-64-to-32]
+o        int len = strlen(s);
+o            ~~~   ^~~~~~~~~
+o1 warning generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection90"Compile /Users/joshuakennedy/Documents/Projects/CIS 235/InClass04/InClass04/BigInteger.cpp210"CompileC DerivedData/InClass04/Build/Intermediates/InClass04.build/Debug/InClass04.build/Objects-normal/x86_64/BigInteger.o InClass04/BigInteger.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compileracab76f285b6b841^2cbc87f385b6b841^-283"/Users/joshuakennedy/Documents/Projects/CIS 235/InClass04/InClass04/BigInteger.cpp:40:12: warning: implicit conversion loses integer precision: 'size_t' (aka 'unsigned long') to 'int' [-Wshorten-64-to-32]        int len = strlen(s);            ~~~   ^~~~~~~~~1 warning generated.1(36%IDEClangDiagnosticActivityLogMessage2@84"Implicit conversion loses integer precision: 'size_t' (aka 'unsigned long') to 'int'-414615027#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@91"file:///Users/joshuakennedy/Documents/Projects/CIS%20235/InClass04/InClass04/BigInteger.cpp0000000000000000^39#11#39#11#879#0#22"Value Conversion Issue2(3@91"file:///Users/joshuakennedy/Documents/Projects/CIS%20235/InClass04/InClass04/BigInteger.cpp0000000000000000^39#11#39#20#879#8#3@91"file:///Users/joshuakennedy/Documents/Projects/CIS%20235/InClass04/InClass04/BigInteger.cpp0000000000000000^39#5#39#8#873#0#-0#0#1#-19%DVTDocumentLocation4@91"file:///Users/joshuakennedy/Documents/Projects/CIS%20235/InClass04/InClass04/BigInteger.cpp0000000000000000^3421"CompileC DerivedData/InClass04/Build/Intermediates/InClass04.build/Debug/InClass04.build/Objects-normal/x86_64/BigInteger.o InClass04/BigInteger.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/joshuakennedy/Documents/Projects/CIS 235/InClass04"    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu++11 -stdlib=libc++ -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.9 -g -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/joshuakennedy/Documents/Projects/CIS\ 235/InClass04/DerivedData/InClass04/Build/Intermediates/InClass04.build/Debug/InClass04.build/InClass04-generated-files.hmap -I/Users/joshuakennedy/Documents/Projects/CIS\ 235/InClass04/DerivedData/InClass04/Build/Intermediates/InClass04.build/Debug/InClass04.build/InClass04-own-target-headers.hmap -I/Users/joshuakennedy/Documents/Projects/CIS\ 235/InClass04/DerivedData/InClass04/Build/Intermediates/InClass04.build/Debug/InClass04.build/InClass04-all-target-headers.hmap -iquote /Users/joshuakennedy/Documents/Projects/CIS\ 235/InClass04/DerivedData/InClass04/Build/Intermediates/InClass04.build/Debug/InClass04.build/InClass04-project-headers.hmap -I/Users/joshuakennedy/Documents/Projects/CIS\ 235/InClass04/DerivedData/InClass04/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/joshuakennedy/Documents/Projects/CIS\ 235/InClass04/DerivedData/InClass04/Build/Intermediates/InClass04.build/Debug/InClass04.build/DerivedSources/x86_64 -I/Users/joshuakennedy/Documents/Projects/CIS\ 235/InClass04/DerivedData/InClass04/Build/Intermediates/InClass04.build/Debug/InClass04.build/DerivedSources -F/Users/joshuakennedy/Documents/Projects/CIS\ 235/InClass04/DerivedData/InClass04/Build/Products/Debug -MMD -MT dependencies -MF /Users/joshuakennedy/Documents/Projects/CIS\ 235/InClass04/DerivedData/InClass04/Build/Intermediates/InClass04.build/Debug/InClass04.build/Objects-normal/x86_64/BigInteger.d --serialize-diagnostics /Users/joshuakennedy/Documents/Projects/CIS\ 235/InClass04/DerivedData/InClass04/Build/Intermediates/InClass04.build/Debug/InClass04.build/Objects-normal/x86_64/BigInteger.dia -c /Users/joshuakennedy/Documents/Projects/CIS\ 235/InClass04/InClass04/BigInteger.cpp -o /Users/joshuakennedy/Documents/Projects/CIS\ 235/InClass04/DerivedData/InClass04/Build/Intermediates/InClass04.build/Debug/InClass04.build/Objects-normal/x86_64/BigInteger.o36"3437740A-AA57-4E73-8933-FA6899F751DC-
+bA5263E2F-D836-45F8-8771-8C6999F3A482
+
+CCompileC DerivedData/InClass04/Build/Intermediates/InClass04.build/Debug/InClass04.build/Objects-normal/x86_64/DriverBigInteger.o /Users/joshuakennedy/Documents/Projects/CIS\ 235/InClass04/InClass04/DriverBigInteger.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s414615026.463083
+e414615027.266309
+r0
+xCompileC
+xDerivedData/InClass04/Build/Intermediates/InClass04.build/Debug/InClass04.build/Objects-normal/x86_64/DriverBigInteger.o
+x/Users/joshuakennedy/Documents/Projects/CIS 235/InClass04/InClass04/DriverBigInteger.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/joshuakennedy/Documents/Projects/CIS 235/InClass04/InClass04/DriverBigInteger.cpp
+d/Users/joshuakennedy/Documents/Projects/CIS 235/InClass04/InClass04/BigInteger.h
+o/Users/joshuakennedy/Documents/Projects/CIS 235/InClass04/InClass04/DriverBigInteger.cpp:58:4: error: non-void function 'main' should return a value [-Wreturn-type]
+o   return;
+o   ^
+o1 error generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection96"Compile /Users/joshuakennedy/Documents/Projects/CIS 235/InClass04/InClass04/DriverBigInteger.cpp222"CompileC DerivedData/InClass04/Build/Intermediates/InClass04.build/Debug/InClass04.build/Objects-normal/x86_64/DriverBigInteger.o InClass04/DriverBigInteger.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler73a176f285b6b841^e02d44f385b6b841^-200"/Users/joshuakennedy/Documents/Projects/CIS 235/InClass04/InClass04/DriverBigInteger.cpp:58:4: error: non-void function 'main' should return a value [-Wreturn-type]   return;   ^1 error generated.1(36%IDEClangDiagnosticActivityLogMessage2@46"Non-void function 'main' should return a value-414615027#18446744073709551615#0#-2#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@97"file:///Users/joshuakennedy/Documents/Projects/CIS%20235/InClass04/InClass04/DriverBigInteger.cpp0000000000000000^57#3#57#3#1806#0#14"Semantic Issue--0#0#1#-19%DVTDocumentLocation4@97"file:///Users/joshuakennedy/Documents/Projects/CIS%20235/InClass04/InClass04/DriverBigInteger.cpp0000000000000000^3457"CompileC DerivedData/InClass04/Build/Intermediates/InClass04.build/Debug/InClass04.build/Objects-normal/x86_64/DriverBigInteger.o InClass04/DriverBigInteger.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/joshuakennedy/Documents/Projects/CIS 235/InClass04"    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu++11 -stdlib=libc++ -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.9 -g -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/joshuakennedy/Documents/Projects/CIS\ 235/InClass04/DerivedData/InClass04/Build/Intermediates/InClass04.build/Debug/InClass04.build/InClass04-generated-files.hmap -I/Users/joshuakennedy/Documents/Projects/CIS\ 235/InClass04/DerivedData/InClass04/Build/Intermediates/InClass04.build/Debug/InClass04.build/InClass04-own-target-headers.hmap -I/Users/joshuakennedy/Documents/Projects/CIS\ 235/InClass04/DerivedData/InClass04/Build/Intermediates/InClass04.build/Debug/InClass04.build/InClass04-all-target-headers.hmap -iquote /Users/joshuakennedy/Documents/Projects/CIS\ 235/InClass04/DerivedData/InClass04/Build/Intermediates/InClass04.build/Debug/InClass04.build/InClass04-project-headers.hmap -I/Users/joshuakennedy/Documents/Projects/CIS\ 235/InClass04/DerivedData/InClass04/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/joshuakennedy/Documents/Projects/CIS\ 235/InClass04/DerivedData/InClass04/Build/Intermediates/InClass04.build/Debug/InClass04.build/DerivedSources/x86_64 -I/Users/joshuakennedy/Documents/Projects/CIS\ 235/InClass04/DerivedData/InClass04/Build/Intermediates/InClass04.build/Debug/InClass04.build/DerivedSources -F/Users/joshuakennedy/Documents/Projects/CIS\ 235/InClass04/DerivedData/InClass04/Build/Products/Debug -MMD -MT dependencies -MF /Users/joshuakennedy/Documents/Projects/CIS\ 235/InClass04/DerivedData/InClass04/Build/Intermediates/InClass04.build/Debug/InClass04.build/Objects-normal/x86_64/DriverBigInteger.d --serialize-diagnostics /Users/joshuakennedy/Documents/Projects/CIS\ 235/InClass04/DerivedData/InClass04/Build/Intermediates/InClass04.build/Debug/InClass04.build/Objects-normal/x86_64/DriverBigInteger.dia -c /Users/joshuakennedy/Documents/Projects/CIS\ 235/InClass04/InClass04/DriverBigInteger.cpp -o /Users/joshuakennedy/Documents/Projects/CIS\ 235/InClass04/DerivedData/InClass04/Build/Intermediates/InClass04.build/Debug/InClass04.build/Objects-normal/x86_64/DriverBigInteger.o36"6CC366FD-5F5D-407F-8F16-F6F4A39008D5-
+bA5263E2F-D836-45F8-8771-8C6999F3A482
+
+CCompileC DerivedData/InClass04/Build/Intermediates/InClass04.build/Debug/InClass04.build/Objects-normal/x86_64/main.o /Users/joshuakennedy/Documents/Projects/CIS\ 235/InClass04/InClass04/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CLd /Users/joshuakennedy/Documents/Projects/CIS\ 235/InClass04/DerivedData/InClass04/Build/Products/Debug/InClass04 normal x86_64
+r0
+

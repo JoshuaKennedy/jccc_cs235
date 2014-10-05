@@ -1,0 +1,155 @@
+TFinal
+v6
+r1
+cCheck dependencies
+cCompileC DerivedData/Final/Build/Intermediates/Final.build/Debug/Final.build/Objects-normal/x86_64/main.o /Users/joshuakennedy/Documents/Projects/CIS\ 235/Final/Final/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/joshuakennedy/Documents/Projects/CIS\ 235/Final/DerivedData/Final/Build/Products/Debug/Final normal x86_64
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk
+c0000000053473AE600000000000000AA
+t1397177062
+s170
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/SDKSettings.plist
+c000000005330DB8A000000000000044C
+t1395710858
+s1100
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/CoreServices/SystemVersion.plist
+c000000005330DB8A00000000000001DE
+t1395710858
+s478
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/include/module.map
+c000000005330DB920000000000000ADC
+t1395710866
+s2780
+
+N/Users/joshuakennedy/Documents/Projects/CIS 235/Final/DerivedData/Final/Build/Intermediates/Final.build/Debug/Final.build/Objects-normal/x86_64/Final.LinkFileList
+c00000000536036E30000000000000097
+t1398814435
+s151
+
+N/Users/joshuakennedy/Documents/Projects/CIS 235/Final/DerivedData/Final/Build/Intermediates/Final.build/Debug/Final.build/Objects-normal/x86_64/main.o
+t1398816653
+s91052
+
+N/Users/joshuakennedy/Documents/Projects/CIS 235/Final/DerivedData/Final/Build/Products/Debug/Final
+t2
+s0
+
+N/Users/joshuakennedy/Documents/Projects/CIS 235/Final/Final/main.cpp
+c0000000053603F8C0000000000002273
+t1398816652
+s8819
+
+CBuild AST from /Users/joshuakennedy/Documents/Projects/CIS\ 235/Final/Final/main.cpp
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies073f310d7710b941^a59e310d7710b941^---0#1#1#--18"Check dependencies36"61AF1292-B007-4A01-AC7F-78D4B55F3365-
+
+CCompileC DerivedData/Final/Build/Intermediates/Final.build/Debug/Final.build/Objects-normal/x86_64/main.o /Users/joshuakennedy/Documents/Projects/CIS\ 235/Final/Final/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s420509453.200082
+e420509453.830747
+r1
+xCompileC
+xDerivedData/Final/Build/Intermediates/Final.build/Debug/Final.build/Objects-normal/x86_64/main.o
+x/Users/joshuakennedy/Documents/Projects/CIS 235/Final/Final/main.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/joshuakennedy/Documents/Projects/CIS 235/Final/Final/main.cpp
+o/Users/joshuakennedy/Documents/Projects/CIS 235/Final/Final/main.cpp:44:9: warning: unused variable 'p1' [-Wunused-variable]
+o        demo * p1, * p2, * p3;
+o               ^
+o/Users/joshuakennedy/Documents/Projects/CIS 235/Final/Final/main.cpp:44:15: warning: unused variable 'p2' [-Wunused-variable]
+o        demo * p1, * p2, * p3;
+o                     ^
+o/Users/joshuakennedy/Documents/Projects/CIS 235/Final/Final/main.cpp:44:21: warning: unused variable 'p3' [-Wunused-variable]
+o        demo * p1, * p2, * p3;
+o                           ^
+o3 warnings generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection76"Compile /Users/joshuakennedy/Documents/Projects/CIS 235/Final/Final/main.cpp182"CompileC DerivedData/Final/Build/Intermediates/Final.build/Debug/Final.build/Objects-normal/x86_64/main.o Final/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler3c50330d7710b941^f3acd40d7710b941^-561"/Users/joshuakennedy/Documents/Projects/CIS 235/Final/Final/main.cpp:44:9: warning: unused variable 'p1' [-Wunused-variable]        demo * p1, * p2, * p3;               ^/Users/joshuakennedy/Documents/Projects/CIS 235/Final/Final/main.cpp:44:15: warning: unused variable 'p2' [-Wunused-variable]        demo * p1, * p2, * p3;                     ^/Users/joshuakennedy/Documents/Projects/CIS 235/Final/Final/main.cpp:44:21: warning: unused variable 'p3' [-Wunused-variable]        demo * p1, * p2, * p3;                           ^3 warnings generated.3(36%IDEClangDiagnosticActivityLogMessage2@20"Unused variable 'p1'-420509453#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@77"file:///Users/joshuakennedy/Documents/Projects/CIS%20235/Final/Final/main.cpp0000000000000000^43#8#43#8#956#0#19"Unused Entity Issue--2@20"Unused variable 'p2'-420509453#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@77"file:///Users/joshuakennedy/Documents/Projects/CIS%20235/Final/Final/main.cpp0000000000000000^43#14#43#14#962#0#19"Unused Entity Issue--2@20"Unused variable 'p3'-420509453#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@77"file:///Users/joshuakennedy/Documents/Projects/CIS%20235/Final/Final/main.cpp0000000000000000^43#20#43#20#968#0#19"Unused Entity Issue--0#0#1#-19%DVTDocumentLocation4@77"file:///Users/joshuakennedy/Documents/Projects/CIS%20235/Final/Final/main.cpp0000000000000000^3303"CompileC DerivedData/Final/Build/Intermediates/Final.build/Debug/Final.build/Objects-normal/x86_64/main.o Final/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/joshuakennedy/Documents/Projects/CIS 235/Final"    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu++11 -stdlib=libc++ -fmodules -fmodules-cache-path=/Users/joshuakennedy/Documents/Projects/CIS\ 235/Final/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.9 -g -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/joshuakennedy/Documents/Projects/CIS\ 235/Final/DerivedData/Final/Build/Intermediates/Final.build/Debug/Final.build/Final-generated-files.hmap -I/Users/joshuakennedy/Documents/Projects/CIS\ 235/Final/DerivedData/Final/Build/Intermediates/Final.build/Debug/Final.build/Final-own-target-headers.hmap -I/Users/joshuakennedy/Documents/Projects/CIS\ 235/Final/DerivedData/Final/Build/Intermediates/Final.build/Debug/Final.build/Final-all-target-headers.hmap -iquote /Users/joshuakennedy/Documents/Projects/CIS\ 235/Final/DerivedData/Final/Build/Intermediates/Final.build/Debug/Final.build/Final-project-headers.hmap -I/Users/joshuakennedy/Documents/Projects/CIS\ 235/Final/DerivedData/Final/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/joshuakennedy/Documents/Projects/CIS\ 235/Final/DerivedData/Final/Build/Intermediates/Final.build/Debug/Final.build/DerivedSources/x86_64 -I/Users/joshuakennedy/Documents/Projects/CIS\ 235/Final/DerivedData/Final/Build/Intermediates/Final.build/Debug/Final.build/DerivedSources -F/Users/joshuakennedy/Documents/Projects/CIS\ 235/Final/DerivedData/Final/Build/Products/Debug -MMD -MT dependencies -MF /Users/joshuakennedy/Documents/Projects/CIS\ 235/Final/DerivedData/Final/Build/Intermediates/Final.build/Debug/Final.build/Objects-normal/x86_64/main.d --serialize-diagnostics /Users/joshuakennedy/Documents/Projects/CIS\ 235/Final/DerivedData/Final/Build/Intermediates/Final.build/Debug/Final.build/Objects-normal/x86_64/main.dia -c /Users/joshuakennedy/Documents/Projects/CIS\ 235/Final/Final/main.cpp -o /Users/joshuakennedy/Documents/Projects/CIS\ 235/Final/DerivedData/Final/Build/Intermediates/Final.build/Debug/Final.build/Objects-normal/x86_64/main.o36"EA4EBF79-BAF6-4D65-9554-A000FAF94B4D-
+b28497CE5-BBDD-4DC9-83FD-5B69F172A637
+
+CLd /Users/joshuakennedy/Documents/Projects/CIS\ 235/Final/DerivedData/Final/Build/Products/Debug/Final normal x86_64
+s420509453.831255
+e420509453.895140
+r0
+xLd
+x/Users/joshuakennedy/Documents/Projects/CIS 235/Final/DerivedData/Final/Build/Products/Debug/Final
+xnormal
+xx86_64
+d/Users/joshuakennedy/Documents/Projects/CIS 235/Final/DerivedData/Final/Build/Intermediates/Final.build/Debug/Final.build/Objects-normal/x86_64/Final.LinkFileList
+d/Users/joshuakennedy/Documents/Projects/CIS 235/Final/DerivedData/Final/Build/Intermediates/Final.build/Debug/Final.build/Objects-normal/x86_64/main.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/libc++.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.osx.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcache.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcommonCrypto.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcompiler_rt.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcopyfile.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcorecrypto.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libdyld.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libkeymgr.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/liblaunch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libmacho.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libquarantine.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libremovefile.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_asl.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_kernel.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_malloc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_notify.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_platform.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_pthread.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_sandbox.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_stats.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libunc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libunwind.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libxpc.dylib
+oUndefined symbols for architecture x86_64:
+o  "f2(demo const*)", referenced from:
+o      _main in main.o
+o  "aaa::aaa()", referenced from:
+o      qqq::qqq() in main.o
+o      qqq::qqq(int, char, double, char const*) in main.o
+o      qqq::qqq(qqq const&) in main.o
+o  "aaa::~aaa()", referenced from:
+o      qqq::~qqq() in main.o
+o      qqq::qqq() in main.o
+o      qqq::qqq(int, char, double, char const*) in main.o
+o      qqq::qqq(qqq const&) in main.o
+o  "ccc::ccc()", referenced from:
+o      qqq::qqq() in main.o
+o      qqq::qqq(int, char, double, char const*) in main.o
+o      qqq::qqq(qqq const&) in main.o
+o  "ccc::~ccc()", referenced from:
+o      qqq::~qqq() in main.o
+o  "demo::demo(demo const&)", referenced from:
+o      _main in main.o
+o  "demo::demo(int)", referenced from:
+o      _main in main.o
+o  "demo::f1() const", referenced from:
+o      _main in main.o
+o  "demo::operator+(int) const", referenced from:
+o      _main in main.o
+o  "typeinfo for aaa", referenced from:
+o      typeinfo for qqq in main.o
+o  "operator<<(std::__1::basic_ostream<char, std::__1::char_traits<char> >&, demo const&)", referenced from:
+o      _main in main.o
+old: symbol(s) not found for architecture x86_64
+oclang: error: linker command failed with exit code 1 (use -v to see invocation)
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection103"Link /Users/joshuakennedy/Documents/Projects/CIS 235/Final/DerivedData/Final/Build/Products/Debug/Final61"Ld DerivedData/Final/Build/Products/Debug/Final normal x86_64a5d9d40d7710b941^d427e50d7710b941^-1246"Undefined symbols for architecture x86_64:  "f2(demo const*)", referenced from:      _main in main.o  "aaa::aaa()", referenced from:      qqq::qqq() in main.o      qqq::qqq(int, char, double, char const*) in main.o      qqq::qqq(qqq const&) in main.o  "aaa::~aaa()", referenced from:      qqq::~qqq() in main.o      qqq::qqq() in main.o      qqq::qqq(int, char, double, char const*) in main.o      qqq::qqq(qqq const&) in main.o  "ccc::ccc()", referenced from:      qqq::qqq() in main.o      qqq::qqq(int, char, double, char const*) in main.o      qqq::qqq(qqq const&) in main.o  "ccc::~ccc()", referenced from:      qqq::~qqq() in main.o  "demo::demo(demo const&)", referenced from:      _main in main.o  "demo::demo(int)", referenced from:      _main in main.o  "demo::f1() const", referenced from:      _main in main.o  "demo::operator+(int) const", referenced from:      _main in main.o  "typeinfo for aaa", referenced from:      typeinfo for qqq in main.o  "operator<<(std::__1::basic_ostream<char, std::__1::char_traits<char> >&, demo const&)", referenced from:      _main in main.old: symbol(s) not found for architecture x86_64clang: error: linker command failed with exit code 1 (use -v to see invocation)31(21%IDEActivityLogMessage2@35""f2(demo const*)", referenced from:-420509453#43#38#-2#-23%DVTTextDocumentLocation3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#30"Apple Mach-O Linker (ld) Error--2@15"_main in main.o-420509453#81#22#-0#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#31"Apple Mach-O Linker (ld) Notice--2@30""aaa::aaa()", referenced from:-420509453#103#33#-2#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#30"Apple Mach-O Linker (ld) Error--2@20"Qqq::qqq() in main.o-420509453#136#27#-0#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#31"Apple Mach-O Linker (ld) Notice--2@50"Qqq::qqq(int, char, double, char const*) in main.o-420509453#163#57#-0#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#31"Apple Mach-O Linker (ld) Notice--2@30"Qqq::qqq(qqq const&) in main.o-420509453#220#37#-0#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#31"Apple Mach-O Linker (ld) Notice--2@31""aaa::~aaa()", referenced from:-420509453#257#34#-2#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#30"Apple Mach-O Linker (ld) Error--2@21"Qqq::~qqq() in main.o-420509453#291#28#-0#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#31"Apple Mach-O Linker (ld) Notice--2@20"Qqq::qqq() in main.o-420509453#319#27#-0#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#31"Apple Mach-O Linker (ld) Notice--2@50"Qqq::qqq(int, char, double, char const*) in main.o-420509453#346#57#-0#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#31"Apple Mach-O Linker (ld) Notice--2@30"Qqq::qqq(qqq const&) in main.o-420509453#403#37#-0#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#31"Apple Mach-O Linker (ld) Notice--2@30""ccc::ccc()", referenced from:-420509453#440#33#-2#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#30"Apple Mach-O Linker (ld) Error--2@20"Qqq::qqq() in main.o-420509453#473#27#-0#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#31"Apple Mach-O Linker (ld) Notice--2@50"Qqq::qqq(int, char, double, char const*) in main.o-420509453#500#57#-0#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#31"Apple Mach-O Linker (ld) Notice--2@30"Qqq::qqq(qqq const&) in main.o-420509453#557#37#-0#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#31"Apple Mach-O Linker (ld) Notice--2@31""ccc::~ccc()", referenced from:-420509453#594#34#-2#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#30"Apple Mach-O Linker (ld) Error--2@21"Qqq::~qqq() in main.o-420509453#628#28#-0#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#31"Apple Mach-O Linker (ld) Notice--2@43""demo::demo(demo const&)", referenced from:-420509453#656#46#-2#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#30"Apple Mach-O Linker (ld) Error--2@15"_main in main.o-420509453#702#22#-0#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#31"Apple Mach-O Linker (ld) Notice--2@35""demo::demo(int)", referenced from:-420509453#724#38#-2#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#30"Apple Mach-O Linker (ld) Error--2@15"_main in main.o-420509453#762#22#-0#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#31"Apple Mach-O Linker (ld) Notice--2@36""demo::f1() const", referenced from:-420509453#784#39#-2#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#30"Apple Mach-O Linker (ld) Error--2@15"_main in main.o-420509453#823#22#-0#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#31"Apple Mach-O Linker (ld) Notice--2@46""demo::operator+(int) const", referenced from:-420509453#845#49#-2#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#30"Apple Mach-O Linker (ld) Error--2@15"_main in main.o-420509453#894#22#-0#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#31"Apple Mach-O Linker (ld) Notice--2@36""typeinfo for aaa", referenced from:-420509453#916#39#-2#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#30"Apple Mach-O Linker (ld) Error--2@26"Typeinfo for qqq in main.o-420509453#955#33#-0#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#31"Apple Mach-O Linker (ld) Notice--2@105""operator<<(std::__1::basic_ostream<char, std::__1::char_traits<char> >&, demo const&)", referenced from:-420509453#988#108#-2#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#30"Apple Mach-O Linker (ld) Error--2@15"_main in main.o-420509453#1096#22#-0#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#31"Apple Mach-O Linker (ld) Notice--2@43"Symbol(s) not found for architecture x86_64-420509453#1118#48#-0#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#31"Apple Mach-O Linker (ld) Notice--2@65"Linker command failed with exit code 1 (use -v to see invocation)-420509453#1166#80#-2#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#30"Apple Mach-O Linker (ld) Error--0#0#1#--1103"Ld DerivedData/Final/Build/Products/Debug/Final normal x86_64    cd "/Users/joshuakennedy/Documents/Projects/CIS 235/Final"    export MACOSX_DEPLOYMENT_TARGET=10.9    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++ -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -L/Users/joshuakennedy/Documents/Projects/CIS\ 235/Final/DerivedData/Final/Build/Products/Debug -F/Users/joshuakennedy/Documents/Projects/CIS\ 235/Final/DerivedData/Final/Build/Products/Debug -filelist /Users/joshuakennedy/Documents/Projects/CIS\ 235/Final/DerivedData/Final/Build/Intermediates/Final.build/Debug/Final.build/Objects-normal/x86_64/Final.LinkFileList -mmacosx-version-min=10.9 -stdlib=libc++ -Xlinker -dependency_info -Xlinker /Users/joshuakennedy/Documents/Projects/CIS\ 235/Final/DerivedData/Final/Build/Intermediates/Final.build/Debug/Final.build/Objects-normal/x86_64/Final_dependency_info.dat -o /Users/joshuakennedy/Documents/Projects/CIS\ 235/Final/DerivedData/Final/Build/Products/Debug/Final36"6FD1D1E1-FCA5-485B-BA3E-629745F985E4-
+b28497CE5-BBDD-4DC9-83FD-5B69F172A637
+

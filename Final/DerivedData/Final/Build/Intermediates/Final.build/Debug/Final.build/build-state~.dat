@@ -1,0 +1,99 @@
+TFinal
+v6
+r1
+cCheck dependencies
+cCompileC DerivedData/Final/Build/Intermediates/Final.build/Debug/Final.build/Objects-normal/x86_64/main.o /Users/joshuakennedy/Documents/Projects/CIS\ 235/Final/Final/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/SDKSettings.plist
+c000000005330DB8A000000000000044C
+t1395710858
+s1100
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/CoreServices/SystemVersion.plist
+c000000005330DB8A00000000000001DE
+t1395710858
+s478
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/include/module.map
+c000000005330DB920000000000000ADC
+t1395710866
+s2780
+
+N/Users/joshuakennedy/Documents/Projects/CIS 235/Final/DerivedData/Final/Build/Intermediates/Final.build/Debug/Final.build/Objects-normal/x86_64/main.o
+t2
+s0
+
+N/Users/joshuakennedy/Documents/Projects/CIS 235/Final/Final/main.cpp
+c00000000536036E10000000000001DE5
+t1398814433
+s7653
+
+CBuild AST from /Users/joshuakennedy/Documents/Projects/CIS\ 235/Final/Final/main.cpp
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies6b0de9636e10b941^3b6eec636e10b941^---0#1#1#--18"Check dependencies36"36CA0F8B-ABFF-4D26-8557-03082FFC3317-
+
+CCompileC DerivedData/Final/Build/Intermediates/Final.build/Debug/Final.build/Objects-normal/x86_64/main.o /Users/joshuakennedy/Documents/Projects/CIS\ 235/Final/Final/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s420507235.924108
+e420507236.816903
+r0
+xCompileC
+xDerivedData/Final/Build/Intermediates/Final.build/Debug/Final.build/Objects-normal/x86_64/main.o
+x/Users/joshuakennedy/Documents/Projects/CIS 235/Final/Final/main.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+o/Users/joshuakennedy/Documents/Projects/CIS 235/Final/Final/main.cpp:44:15: warning: unused variable 'p2' [-Wunused-variable]
+o        demo * p1, * p2, * p3;
+o                     ^
+o/Users/joshuakennedy/Documents/Projects/CIS 235/Final/Final/main.cpp:44:21: warning: unused variable 'p3' [-Wunused-variable]
+o        demo * p1, * p2, * p3;
+o                           ^
+o/Users/joshuakennedy/Documents/Projects/CIS 235/Final/Final/main.cpp:44:9: warning: unused variable 'p1' [-Wunused-variable]
+o        demo * p1, * p2, * p3;
+o               ^
+o/Users/joshuakennedy/Documents/Projects/CIS 235/Final/Final/main.cpp:142:1: error: control reaches end of non-void function [-Werror,-Wreturn-type]
+o}
+o^
+o/Users/joshuakennedy/Documents/Projects/CIS 235/Final/Final/main.cpp:153:1: error: control reaches end of non-void function [-Werror,-Wreturn-type]
+o}
+o^
+o/Users/joshuakennedy/Documents/Projects/CIS 235/Final/Final/main.cpp:159:1: error: control reaches end of non-void function [-Werror,-Wreturn-type]
+o}
+o^
+o/Users/joshuakennedy/Documents/Projects/CIS 235/Final/Final/main.cpp:165:1: error: control reaches end of non-void function [-Werror,-Wreturn-type]
+o}
+o^
+o/Users/joshuakennedy/Documents/Projects/CIS 235/Final/Final/main.cpp:171:1: error: control reaches end of non-void function [-Werror,-Wreturn-type]
+o}
+o^
+o/Users/joshuakennedy/Documents/Projects/CIS 235/Final/Final/main.cpp:226:31: error: expected member name or ';' after declaration specifiers
+o    void Print() const;       / /   Will Print the name, age and salary with descriptions
+o                              ^
+o/Users/joshuakennedy/Documents/Projects/CIS 235/Final/Final/main.cpp:239:9: error: out-of-line declaration of a member must be a definition [-Wout-of-line-declaration]
+oPerson::Person(const char * p , int a)
+o~~~~~~~~^
+o/Users/joshuakennedy/Documents/Projects/CIS 235/Final/Final/main.cpp:247:9: error: expected ';' after top level declarator
+oPerson::Person(void)      //   The name NOT GIVEN will be used
+o        ^
+o        ;
+o/Users/joshuakennedy/Documents/Projects/CIS 235/Final/Final/main.cpp:247:16: error: expected unqualified-id
+oPerson::Person(void)      //   The name NOT GIVEN will be used
+o               ^
+o/Users/joshuakennedy/Documents/Projects/CIS 235/Final/Final/main.cpp:247:16: error: expected ')'
+o/Users/joshuakennedy/Documents/Projects/CIS 235/Final/Final/main.cpp:247:15: note: to match this '('
+oPerson::Person(void)      //   The name NOT GIVEN will be used
+o              ^
+o/Users/joshuakennedy/Documents/Projects/CIS 235/Final/Final/main.cpp:378:10: fatal error: 'fstream.h' file not found
+o#include <fstream.h>
+o         ^
+o3 warnings and 11 errors generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection76"Compile /Users/joshuakennedy/Documents/Projects/CIS 235/Final/Final/main.cpp182"CompileC DerivedData/Final/Build/Intermediates/Final.build/Debug/Final.build/Objects-normal/x86_64/main.o Final/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler92b3ec636e10b941^1920d1646e10b941^-2635"/Users/joshuakennedy/Documents/Projects/CIS 235/Final/Final/main.cpp:44:15: warning: unused variable 'p2' [-Wunused-variable]        demo * p1, * p2, * p3;                     ^/Users/joshuakennedy/Documents/Projects/CIS 235/Final/Final/main.cpp:44:21: warning: unused variable 'p3' [-Wunused-variable]        demo * p1, * p2, * p3;                           ^/Users/joshuakennedy/Documents/Projects/CIS 235/Final/Final/main.cpp:44:9: warning: unused variable 'p1' [-Wunused-variable]        demo * p1, * p2, * p3;               ^/Users/joshuakennedy/Documents/Projects/CIS 235/Final/Final/main.cpp:142:1: error: control reaches end of non-void function [-Werror,-Wreturn-type]}^/Users/joshuakennedy/Documents/Projects/CIS 235/Final/Final/main.cpp:153:1: error: control reaches end of non-void function [-Werror,-Wreturn-type]}^/Users/joshuakennedy/Documents/Projects/CIS 235/Final/Final/main.cpp:159:1: error: control reaches end of non-void function [-Werror,-Wreturn-type]}^/Users/joshuakennedy/Documents/Projects/CIS 235/Final/Final/main.cpp:165:1: error: control reaches end of non-void function [-Werror,-Wreturn-type]}^/Users/joshuakennedy/Documents/Projects/CIS 235/Final/Final/main.cpp:171:1: error: control reaches end of non-void function [-Werror,-Wreturn-type]}^/Users/joshuakennedy/Documents/Projects/CIS 235/Final/Final/main.cpp:226:31: error: expected member name or ';' after declaration specifiers    void Print() const;       / /   Will Print the name, age and salary with descriptions                              ^/Users/joshuakennedy/Documents/Projects/CIS 235/Final/Final/main.cpp:239:9: error: out-of-line declaration of a member must be a definition [-Wout-of-line-declaration]Person::Person(const char * p , int a)~~~~~~~~^/Users/joshuakennedy/Documents/Projects/CIS 235/Final/Final/main.cpp:247:9: error: expected ';' after top level declaratorPerson::Person(void)      //   The name NOT GIVEN will be used        ^        ;/Users/joshuakennedy/Documents/Projects/CIS 235/Final/Final/main.cpp:247:16: error: expected unqualified-idPerson::Person(void)      //   The name NOT GIVEN will be used               ^/Users/joshuakennedy/Documents/Projects/CIS 235/Final/Final/main.cpp:247:16: error: expected ')'/Users/joshuakennedy/Documents/Projects/CIS 235/Final/Final/main.cpp:247:15: note: to match this '('Person::Person(void)      //   The name NOT GIVEN will be used              ^/Users/joshuakennedy/Documents/Projects/CIS 235/Final/Final/main.cpp:378:10: fatal error: 'fstream.h' file not found#include <fstream.h>         ^3 warnings and 11 errors generated.14(36%IDEClangDiagnosticActivityLogMessage2@20"Unused variable 'p2'-420507236#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@77"file:///Users/joshuakennedy/Documents/Projects/CIS%20235/Final/Final/main.cpp0000000000000000^43#14#43#14#962#0#19"Unused Entity Issue--2@20"Unused variable 'p3'-420507236#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@77"file:///Users/joshuakennedy/Documents/Projects/CIS%20235/Final/Final/main.cpp0000000000000000^43#20#43#20#968#0#19"Unused Entity Issue--2@20"Unused variable 'p1'-420507236#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@77"file:///Users/joshuakennedy/Documents/Projects/CIS%20235/Final/Final/main.cpp0000000000000000^43#8#43#8#956#0#19"Unused Entity Issue--2@40"Control reaches end of non-void function-420507236#18446744073709551615#0#-2#27"com.apple.dt.IDE.diagnostic3@77"file:///Users/joshuakennedy/Documents/Projects/CIS%20235/Final/Final/main.cpp0000000000000000^141#0#141#0#2491#0#14"Semantic Issue--2@40"Control reaches end of non-void function-420507236#18446744073709551615#0#-2#27"com.apple.dt.IDE.diagnostic3@77"file:///Users/joshuakennedy/Documents/Projects/CIS%20235/Final/Final/main.cpp0000000000000000^152#0#152#0#2573#0#14"Semantic Issue--2@40"Control reaches end of non-void function-420507236#18446744073709551615#0#-2#27"com.apple.dt.IDE.diagnostic3@77"file:///Users/joshuakennedy/Documents/Projects/CIS%20235/Final/Final/main.cpp0000000000000000^158#0#158#0#2628#0#14"Semantic Issue--2@40"Control reaches end of non-void function-420507236#18446744073709551615#0#-2#27"com.apple.dt.IDE.diagnostic3@77"file:///Users/joshuakennedy/Documents/Projects/CIS%20235/Final/Final/main.cpp0000000000000000^164#0#164#0#2667#0#14"Semantic Issue--2@40"Control reaches end of non-void function-420507236#18446744073709551615#0#-2#27"com.apple.dt.IDE.diagnostic3@77"file:///Users/joshuakennedy/Documents/Projects/CIS%20235/Final/Final/main.cpp0000000000000000^170#0#170#0#2722#0#14"Semantic Issue--2@56"Expected member name or ';' after declaration specifiers-420507236#18446744073709551615#0#-2#27"com.apple.dt.IDE.diagnostic3@77"file:///Users/joshuakennedy/Documents/Projects/CIS%20235/Final/Final/main.cpp0000000000000000^225#30#225#30#4151#0#11"Parse Issue1(3@77"file:///Users/joshuakennedy/Documents/Projects/CIS%20235/Final/Final/main.cpp0000000000000000^225#30#225#31#4151#0#-2@56"Out-of-line declaration of a member must be a definition-420507236#18446744073709551615#0#-2#27"com.apple.dt.IDE.diagnostic3@77"file:///Users/joshuakennedy/Documents/Projects/CIS%20235/Final/Final/main.cpp0000000000000000^238#8#238#8#4415#0#14"Semantic Issue1(3@77"file:///Users/joshuakennedy/Documents/Projects/CIS%20235/Final/Final/main.cpp0000000000000000^238#0#238#8#4407#6#-2@39"Expected ';' after top level declarator-420507236#18446744073709551615#0#-2#27"com.apple.dt.IDE.diagnostic3@77"file:///Users/joshuakennedy/Documents/Projects/CIS%20235/Final/Final/main.cpp0000000000000000^246#8#246#8#4461#0#11"Parse Issue1(3@77"file:///Users/joshuakennedy/Documents/Projects/CIS%20235/Final/Final/main.cpp0000000000000000^246#8#246#8#4461#0#-2@23"Expected unqualified-id-420507236#18446744073709551615#0#-2#27"com.apple.dt.IDE.diagnostic3@77"file:///Users/joshuakennedy/Documents/Projects/CIS%20235/Final/Final/main.cpp0000000000000000^246#15#246#15#4468#0#11"Parse Issue--2@12"Expected ')'-420507236#18446744073709551615#0#1(2@17"To match this '('-420507236#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@77"file:///Users/joshuakennedy/Documents/Projects/CIS%20235/Final/Final/main.cpp0000000000000000^246#14#246#14#4467#0#21"Apple LLVM 5.1 Notice--2#27"com.apple.dt.IDE.diagnostic3@77"file:///Users/joshuakennedy/Documents/Projects/CIS%20235/Final/Final/main.cpp0000000000000000^246#15#246#15#4468#0#11"Parse Issue--2@26"'fstream.h' file not found-420507236#18446744073709551615#0#-2#27"com.apple.dt.IDE.diagnostic3@77"file:///Users/joshuakennedy/Documents/Projects/CIS%20235/Final/Final/main.cpp0000000000000000^377#9#377#9#6204#0#29"Lexical or Preprocessor Issue--0#0#1#-19%DVTDocumentLocation4@77"file:///Users/joshuakennedy/Documents/Projects/CIS%20235/Final/Final/main.cpp0000000000000000^3303"CompileC DerivedData/Final/Build/Intermediates/Final.build/Debug/Final.build/Objects-normal/x86_64/main.o Final/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/joshuakennedy/Documents/Projects/CIS 235/Final"    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu++11 -stdlib=libc++ -fmodules -fmodules-cache-path=/Users/joshuakennedy/Documents/Projects/CIS\ 235/Final/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.9 -g -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/joshuakennedy/Documents/Projects/CIS\ 235/Final/DerivedData/Final/Build/Intermediates/Final.build/Debug/Final.build/Final-generated-files.hmap -I/Users/joshuakennedy/Documents/Projects/CIS\ 235/Final/DerivedData/Final/Build/Intermediates/Final.build/Debug/Final.build/Final-own-target-headers.hmap -I/Users/joshuakennedy/Documents/Projects/CIS\ 235/Final/DerivedData/Final/Build/Intermediates/Final.build/Debug/Final.build/Final-all-target-headers.hmap -iquote /Users/joshuakennedy/Documents/Projects/CIS\ 235/Final/DerivedData/Final/Build/Intermediates/Final.build/Debug/Final.build/Final-project-headers.hmap -I/Users/joshuakennedy/Documents/Projects/CIS\ 235/Final/DerivedData/Final/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/joshuakennedy/Documents/Projects/CIS\ 235/Final/DerivedData/Final/Build/Intermediates/Final.build/Debug/Final.build/DerivedSources/x86_64 -I/Users/joshuakennedy/Documents/Projects/CIS\ 235/Final/DerivedData/Final/Build/Intermediates/Final.build/Debug/Final.build/DerivedSources -F/Users/joshuakennedy/Documents/Projects/CIS\ 235/Final/DerivedData/Final/Build/Products/Debug -MMD -MT dependencies -MF /Users/joshuakennedy/Documents/Projects/CIS\ 235/Final/DerivedData/Final/Build/Intermediates/Final.build/Debug/Final.build/Objects-normal/x86_64/main.d --serialize-diagnostics /Users/joshuakennedy/Documents/Projects/CIS\ 235/Final/DerivedData/Final/Build/Intermediates/Final.build/Debug/Final.build/Objects-normal/x86_64/main.dia -c /Users/joshuakennedy/Documents/Projects/CIS\ 235/Final/Final/main.cpp -o /Users/joshuakennedy/Documents/Projects/CIS\ 235/Final/DerivedData/Final/Build/Intermediates/Final.build/Debug/Final.build/Objects-normal/x86_64/main.o36"0E06AEE5-ED34-4806-A89D-857C3D6DA373-
+b297F5B30-119B-4D41-957E-FBE57C722E21
+
+CLd /Users/joshuakennedy/Documents/Projects/CIS\ 235/Final/DerivedData/Final/Build/Products/Debug/Final normal x86_64
+r0
+

@@ -1,0 +1,59 @@
+TExercise 7
+v6
+r1
+cCheck dependencies
+cCompileC DerivedData/Exercise\ 7/Build/Intermediates/Exercise\ 7.build/Debug/Exercise\ 7.build/Objects-normal/x86_64/main.o /Users/joshuakennedy/Documents/Projects/CIS\ 235/Exercise\ 7/Exercise\ 7/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/SDKSettings.plist
+c000000005330DB8A000000000000044C
+t1395710858
+s1100
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/CoreServices/SystemVersion.plist
+c000000005330DB8A00000000000001DE
+t1395710858
+s478
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/include/module.map
+c000000005330DB920000000000000ADC
+t1395710866
+s2780
+
+N/Users/joshuakennedy/Documents/Projects/CIS 235/Exercise 7/DerivedData/Exercise 7/Build/Intermediates/Exercise 7.build/Debug/Exercise 7.build/Objects-normal/x86_64/main.o
+t2
+s0
+
+N/Users/joshuakennedy/Documents/Projects/CIS 235/Exercise 7/Exercise 7/main.cpp
+c000000005366E29B000000000000097B
+t1399251611
+s2427
+
+CBuild AST from /Users/joshuakennedy/Documents/Projects/CIS\ 235/Exercise\ 7/Exercise\ 7/main.cpp
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies2784761c1a17b941^7d077b1c1a17b941^---0#1#1#--18"Check dependencies36"BA71FDDF-C1B0-41CA-B21F-25E8C68F1B1E-
+
+CCompileC DerivedData/Exercise\ 7/Build/Intermediates/Exercise\ 7.build/Debug/Exercise\ 7.build/Objects-normal/x86_64/main.o /Users/joshuakennedy/Documents/Projects/CIS\ 235/Exercise\ 7/Exercise\ 7/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s420944412.481129
+e420944413.076707
+r0
+xCompileC
+xDerivedData/Exercise 7/Build/Intermediates/Exercise 7.build/Debug/Exercise 7.build/Objects-normal/x86_64/main.o
+x/Users/joshuakennedy/Documents/Projects/CIS 235/Exercise 7/Exercise 7/main.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/joshuakennedy/Documents/Projects/CIS 235/Exercise 7/Exercise 7/main.cpp
+o/Users/joshuakennedy/Documents/Projects/CIS 235/Exercise 7/Exercise 7/main.cpp:53:35: error: incompatible operand types ('int' and 'const char *')
+o        out << (this->testTaken() ? (*this->score) : "No Score Recorded") << endl;
+o                                  ^ ~~~~~~~~~~~~~~   ~~~~~~~~~~~~~~~~~~~
+o1 error generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection86"Compile /Users/joshuakennedy/Documents/Projects/CIS 235/Exercise 7/Exercise 7/main.cpp206"CompileC DerivedData/Exercise\ 7/Build/Intermediates/Exercise\ 7.build/Debug/Exercise\ 7.build/Objects-normal/x86_64/main.o Exercise\ 7/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler603c7b1c1a17b941^98a3131d1a17b941^-322"/Users/joshuakennedy/Documents/Projects/CIS 235/Exercise 7/Exercise 7/main.cpp:53:35: error: incompatible operand types ('int' and 'const char *')        out << (this->testTaken() ? (*this->score) : "No Score Recorded") << endl;                                  ^ ~~~~~~~~~~~~~~   ~~~~~~~~~~~~~~~~~~~1 error generated.1(36%IDEClangDiagnosticActivityLogMessage2@53"Incompatible operand types ('int' and 'const char *')-420944413#18446744073709551615#0#-2#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@91"file:///Users/joshuakennedy/Documents/Projects/CIS%20235/Exercise%207/Exercise%207/main.cpp0000000000000000^52#34#52#34#1733#0#14"Semantic Issue2(3@91"file:///Users/joshuakennedy/Documents/Projects/CIS%20235/Exercise%207/Exercise%207/main.cpp0000000000000000^52#36#52#50#1735#13#3@91"file:///Users/joshuakennedy/Documents/Projects/CIS%20235/Exercise%207/Exercise%207/main.cpp0000000000000000^52#53#52#72#1752#0#-0#0#1#-19%DVTDocumentLocation4@91"file:///Users/joshuakennedy/Documents/Projects/CIS%20235/Exercise%207/Exercise%207/main.cpp0000000000000000^3614"CompileC DerivedData/Exercise\ 7/Build/Intermediates/Exercise\ 7.build/Debug/Exercise\ 7.build/Objects-normal/x86_64/main.o Exercise\ 7/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/joshuakennedy/Documents/Projects/CIS 235/Exercise 7"    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu++11 -stdlib=libc++ -fmodules -fmodules-cache-path=/Users/joshuakennedy/Documents/Projects/CIS\ 235/Exercise\ 7/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.9 -g -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/joshuakennedy/Documents/Projects/CIS\ 235/Exercise\ 7/DerivedData/Exercise\ 7/Build/Intermediates/Exercise\ 7.build/Debug/Exercise\ 7.build/Exercise\ 7-generated-files.hmap -I/Users/joshuakennedy/Documents/Projects/CIS\ 235/Exercise\ 7/DerivedData/Exercise\ 7/Build/Intermediates/Exercise\ 7.build/Debug/Exercise\ 7.build/Exercise\ 7-own-target-headers.hmap -I/Users/joshuakennedy/Documents/Projects/CIS\ 235/Exercise\ 7/DerivedData/Exercise\ 7/Build/Intermediates/Exercise\ 7.build/Debug/Exercise\ 7.build/Exercise\ 7-all-target-headers.hmap -iquote /Users/joshuakennedy/Documents/Projects/CIS\ 235/Exercise\ 7/DerivedData/Exercise\ 7/Build/Intermediates/Exercise\ 7.build/Debug/Exercise\ 7.build/Exercise\ 7-project-headers.hmap -I/Users/joshuakennedy/Documents/Projects/CIS\ 235/Exercise\ 7/DerivedData/Exercise\ 7/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/joshuakennedy/Documents/Projects/CIS\ 235/Exercise\ 7/DerivedData/Exercise\ 7/Build/Intermediates/Exercise\ 7.build/Debug/Exercise\ 7.build/DerivedSources/x86_64 -I/Users/joshuakennedy/Documents/Projects/CIS\ 235/Exercise\ 7/DerivedData/Exercise\ 7/Build/Intermediates/Exercise\ 7.build/Debug/Exercise\ 7.build/DerivedSources -F/Users/joshuakennedy/Documents/Projects/CIS\ 235/Exercise\ 7/DerivedData/Exercise\ 7/Build/Products/Debug -MMD -MT dependencies -MF /Users/joshuakennedy/Documents/Projects/CIS\ 235/Exercise\ 7/DerivedData/Exercise\ 7/Build/Intermediates/Exercise\ 7.build/Debug/Exercise\ 7.build/Objects-normal/x86_64/main.d --serialize-diagnostics /Users/joshuakennedy/Documents/Projects/CIS\ 235/Exercise\ 7/DerivedData/Exercise\ 7/Build/Intermediates/Exercise\ 7.build/Debug/Exercise\ 7.build/Objects-normal/x86_64/main.dia -c /Users/joshuakennedy/Documents/Projects/CIS\ 235/Exercise\ 7/Exercise\ 7/main.cpp -o /Users/joshuakennedy/Documents/Projects/CIS\ 235/Exercise\ 7/DerivedData/Exercise\ 7/Build/Intermediates/Exercise\ 7.build/Debug/Exercise\ 7.build/Objects-normal/x86_64/main.o36"39C3B0EB-9203-449D-AB99-3C8A160E7EBB-
+bECCC690D-7A5C-4739-8E32-5BD31A9EFC65
+
+CLd /Users/joshuakennedy/Documents/Projects/CIS\ 235/Exercise\ 7/DerivedData/Exercise\ 7/Build/Products/Debug/Exercise\ 7 normal x86_64
+r0
+

@@ -1,0 +1,108 @@
+Tmcm10.05
+v6
+r1
+cCheck dependencies
+cCompileC DerivedData/mcm10.05/Build/Intermediates/mcm10.05.build/Debug/mcm10.05.build/Objects-normal/x86_64/main.o /Users/joshuakennedy/Documents/Projects/CIS\ 235/mcm10.05/mcm10.05/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/joshuakennedy/Documents/Projects/CIS\ 235/mcm10.05/DerivedData/mcm10.05/Build/Products/Debug/mcm10.05 normal x86_64
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk
+c0000000052822F3800000000000000AA
+t1384263480
+s170
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/SDKSettings.plist
+c000000005267AA6D000000000000044C
+t1382525549
+s1100
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/CoreServices/SystemVersion.plist
+c000000005267AA6D00000000000001DB
+t1382525549
+s475
+
+N/Users/joshuakennedy/Documents/Projects/CIS 235/mcm10.05/DerivedData/mcm10.05/Build/Intermediates/mcm10.05.build/Debug/mcm10.05.build/Objects-normal/x86_64/main.o
+t1390932156
+s55168
+
+N/Users/joshuakennedy/Documents/Projects/CIS 235/mcm10.05/DerivedData/mcm10.05/Build/Intermediates/mcm10.05.build/Debug/mcm10.05.build/Objects-normal/x86_64/mcm10.05.LinkFileList
+c0000000052E7F0BB00000000000000A3
+t1390932155
+s163
+
+N/Users/joshuakennedy/Documents/Projects/CIS 235/mcm10.05/DerivedData/mcm10.05/Build/Products/Debug/mcm10.05
+t2
+s0
+
+N/Users/joshuakennedy/Documents/Projects/CIS 235/mcm10.05/mcm10.05/main.cpp
+c0000000052E7F0BA0000000000000830
+t1390932154
+s2096
+
+CBuild AST from /Users/joshuakennedy/Documents/Projects/CIS\ 235/mcm10.05/mcm10.05/main.cpp
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependenciesb9fe8d3b2898b841^87a2903b2898b841^---0#1#1#--18"Check dependencies36"6CBE70FD-4B0A-4F3B-85FC-96A2D0D4831A-
+
+CCompileC DerivedData/mcm10.05/Build/Intermediates/mcm10.05.build/Debug/mcm10.05.build/Objects-normal/x86_64/main.o /Users/joshuakennedy/Documents/Projects/CIS\ 235/mcm10.05/mcm10.05/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s412624955.567651
+e412624956.104801
+r1
+xCompileC
+xDerivedData/mcm10.05/Build/Intermediates/mcm10.05.build/Debug/mcm10.05.build/Objects-normal/x86_64/main.o
+x/Users/joshuakennedy/Documents/Projects/CIS 235/mcm10.05/mcm10.05/main.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/joshuakennedy/Documents/Projects/CIS 235/mcm10.05/mcm10.05/main.cpp
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection82"Compile /Users/joshuakennedy/Documents/Projects/CIS 235/mcm10.05/mcm10.05/main.cpp194"CompileC DerivedData/mcm10.05/Build/Intermediates/mcm10.05.build/Debug/mcm10.05.build/Objects-normal/x86_64/main.o mcm10.05/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler7a8d913b2898b841^01da1a3c2898b841^---0#0#1#-19%DVTDocumentLocation2@83"file:///Users/joshuakennedy/Documents/Projects/CIS%20235/mcm10.05/mcm10.05/main.cpp0000000000000000^3334"CompileC DerivedData/mcm10.05/Build/Intermediates/mcm10.05.build/Debug/mcm10.05.build/Objects-normal/x86_64/main.o mcm10.05/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/joshuakennedy/Documents/Projects/CIS 235/mcm10.05"    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu++11 -stdlib=libc++ -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.9 -g -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/joshuakennedy/Documents/Projects/CIS\ 235/mcm10.05/DerivedData/mcm10.05/Build/Intermediates/mcm10.05.build/Debug/mcm10.05.build/mcm10.05-generated-files.hmap -I/Users/joshuakennedy/Documents/Projects/CIS\ 235/mcm10.05/DerivedData/mcm10.05/Build/Intermediates/mcm10.05.build/Debug/mcm10.05.build/mcm10.05-own-target-headers.hmap -I/Users/joshuakennedy/Documents/Projects/CIS\ 235/mcm10.05/DerivedData/mcm10.05/Build/Intermediates/mcm10.05.build/Debug/mcm10.05.build/mcm10.05-all-target-headers.hmap -iquote /Users/joshuakennedy/Documents/Projects/CIS\ 235/mcm10.05/DerivedData/mcm10.05/Build/Intermediates/mcm10.05.build/Debug/mcm10.05.build/mcm10.05-project-headers.hmap -I/Users/joshuakennedy/Documents/Projects/CIS\ 235/mcm10.05/DerivedData/mcm10.05/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/joshuakennedy/Documents/Projects/CIS\ 235/mcm10.05/DerivedData/mcm10.05/Build/Intermediates/mcm10.05.build/Debug/mcm10.05.build/DerivedSources/x86_64 -I/Users/joshuakennedy/Documents/Projects/CIS\ 235/mcm10.05/DerivedData/mcm10.05/Build/Intermediates/mcm10.05.build/Debug/mcm10.05.build/DerivedSources -F/Users/joshuakennedy/Documents/Projects/CIS\ 235/mcm10.05/DerivedData/mcm10.05/Build/Products/Debug -MMD -MT dependencies -MF /Users/joshuakennedy/Documents/Projects/CIS\ 235/mcm10.05/DerivedData/mcm10.05/Build/Intermediates/mcm10.05.build/Debug/mcm10.05.build/Objects-normal/x86_64/main.d --serialize-diagnostics /Users/joshuakennedy/Documents/Projects/CIS\ 235/mcm10.05/DerivedData/mcm10.05/Build/Intermediates/mcm10.05.build/Debug/mcm10.05.build/Objects-normal/x86_64/main.dia -c /Users/joshuakennedy/Documents/Projects/CIS\ 235/mcm10.05/mcm10.05/main.cpp -o /Users/joshuakennedy/Documents/Projects/CIS\ 235/mcm10.05/DerivedData/mcm10.05/Build/Intermediates/mcm10.05.build/Debug/mcm10.05.build/Objects-normal/x86_64/main.o36"6927214E-4443-463F-BCAA-23061E72F1E6-
+bB51FC169-CCDE-42CF-AD2E-EBBDEA9C63C0
+
+CLd /Users/joshuakennedy/Documents/Projects/CIS\ 235/mcm10.05/DerivedData/mcm10.05/Build/Products/Debug/mcm10.05 normal x86_64
+s412624956.105346
+e412624956.169898
+r1
+xLd
+x/Users/joshuakennedy/Documents/Projects/CIS 235/mcm10.05/DerivedData/mcm10.05/Build/Products/Debug/mcm10.05
+xnormal
+xx86_64
+d/Users/joshuakennedy/Documents/Projects/CIS 235/mcm10.05/DerivedData/mcm10.05/Build/Intermediates/mcm10.05.build/Debug/mcm10.05.build/Objects-normal/x86_64/mcm10.05.LinkFileList
+d/Users/joshuakennedy/Documents/Projects/CIS 235/mcm10.05/DerivedData/mcm10.05/Build/Intermediates/mcm10.05.build/Debug/mcm10.05.build/Objects-normal/x86_64/main.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/libc++.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/lib/darwin/libclang_rt.osx.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcache.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcommonCrypto.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcompiler_rt.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcopyfile.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcorecrypto.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libdyld.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libkeymgr.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/liblaunch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libmacho.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libquarantine.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libremovefile.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_asl.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_kernel.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_malloc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_notify.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_platform.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_pthread.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_sandbox.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_stats.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libunc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libunwind.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libxpc.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection112"Link /Users/joshuakennedy/Documents/Projects/CIS 235/mcm10.05/DerivedData/mcm10.05/Build/Products/Debug/mcm10.0567"Ld DerivedData/mcm10.05/Build/Products/Debug/mcm10.05 normal x86_6485051b3c2898b841^ae7f2b3c2898b841^---0#0#1#--1163"Ld DerivedData/mcm10.05/Build/Products/Debug/mcm10.05 normal x86_64    cd "/Users/joshuakennedy/Documents/Projects/CIS 235/mcm10.05"    setenv MACOSX_DEPLOYMENT_TARGET 10.9    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++ -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -L/Users/joshuakennedy/Documents/Projects/CIS\ 235/mcm10.05/DerivedData/mcm10.05/Build/Products/Debug -F/Users/joshuakennedy/Documents/Projects/CIS\ 235/mcm10.05/DerivedData/mcm10.05/Build/Products/Debug -filelist /Users/joshuakennedy/Documents/Projects/CIS\ 235/mcm10.05/DerivedData/mcm10.05/Build/Intermediates/mcm10.05.build/Debug/mcm10.05.build/Objects-normal/x86_64/mcm10.05.LinkFileList -mmacosx-version-min=10.9 -stdlib=libc++ -Xlinker -dependency_info -Xlinker /Users/joshuakennedy/Documents/Projects/CIS\ 235/mcm10.05/DerivedData/mcm10.05/Build/Intermediates/mcm10.05.build/Debug/mcm10.05.build/Objects-normal/x86_64/mcm10.05_dependency_info.dat -o /Users/joshuakennedy/Documents/Projects/CIS\ 235/mcm10.05/DerivedData/mcm10.05/Build/Products/Debug/mcm10.0536"A133ABBA-3F33-428E-95D4-4E6DA07405EE-
+bB51FC169-CCDE-42CF-AD2E-EBBDEA9C63C0
+
